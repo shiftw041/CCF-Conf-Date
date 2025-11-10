@@ -15,20 +15,29 @@
             <input type="text" id="search-box" placeholder="search by short name (e.g., ISSTA)">
         </div>
         <div class="control-group">
-            <label for="filter-sub">field:</label>
+            <label for="filter-sub">filed:</label>
             <select id="filter-sub">
-                <option value="all">all filed</option>
+                <option value="all">all fileds</option>
+            </select>
+        </div>
+        
+        <div class="control-group">
+            <label for="filter-rank">CCF rank:</label>
+            <select id="filter-rank">
+                <option value="all">all rank</option>
                 </select>
         </div>
-        <div class="control-group">
-            <button id="layout-toggle">double-column display</button>
-        </div>
+        <div class="control-group toggles">
+            <button id="layout-toggle">double-column</button>
+            <button id="theme-toggle">🌙</button>
+            </div>
     </div>
 
     <div id="countdown-container" class="single-column">
         <p>Loading confs data...</p>
     </div>
 
+    <button id="scroll-to-top" title="return top">↑</button>
     <script src="main.js"></script>
 </body>
 </html>
