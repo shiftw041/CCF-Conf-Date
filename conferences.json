@@ -124,6 +124,17 @@
     "title": "CAV",
     "sub": "CT",
     "ccfRank": "A",
+    "year": 2022,
+    "link": "http://i-cav.org/2022/",
+    "place": "Technion, Haifa, Israel",
+    "dateString": "Aug 7-10, 2022",
+    "startDate": "2022-08-07T00:00:00",
+    "endDate": "2022-08-10T00:00:00"
+  },
+  {
+    "title": "CAV",
+    "sub": "CT",
+    "ccfRank": "A",
     "year": 2025,
     "link": "https://conferences.i-cav.org/2025/",
     "place": "Zagreb, Croatia",
@@ -154,6 +165,28 @@
     "endDate": "2025-07-31T00:00:00"
   },
   {
+    "title": "FMCAD",
+    "sub": "CT",
+    "ccfRank": "C",
+    "year": 2025,
+    "link": "https://fmcad.forsyte.at/FMCAD25/",
+    "place": "Menlo Park, USA",
+    "dateString": "Oct. 6-10, 2025",
+    "startDate": "2025-10-06T00:00:00",
+    "endDate": "2025-10-10T00:00:00"
+  },
+  {
+    "title": "CONCUR",
+    "sub": "CT",
+    "ccfRank": "B",
+    "year": 2025,
+    "link": "https://conferences.au.dk/confest2025/concur",
+    "place": "Aarhus, Denmark",
+    "dateString": "Aug 26-29, 2025",
+    "startDate": "2025-08-26T00:00:00",
+    "endDate": "2025-08-29T00:00:00"
+  },
+  {
     "title": "SODA",
     "sub": "CT",
     "ccfRank": "A",
@@ -174,6 +207,17 @@
     "dateString": "January 11-14, 2026",
     "startDate": "2026-01-11T00:00:00",
     "endDate": "2026-01-14T00:00:00"
+  },
+  {
+    "title": "SETTA",
+    "sub": "CT",
+    "ccfRank": "C",
+    "year": 2024,
+    "link": "https://setta2024.cs.cityu.edu.hk",
+    "place": "Hong Kong, China",
+    "dateString": "Nov 26-28, 2024",
+    "startDate": "2024-11-26T00:00:00",
+    "endDate": "2024-11-28T00:00:00"
   },
   {
     "title": "FOCS",
@@ -498,6 +542,28 @@
     "title": "KSEM",
     "sub": "AI",
     "ccfRank": "C",
+    "year": 2023,
+    "link": "https://www.ksem2023.conferences.academy/",
+    "place": "Guangzhou, China",
+    "dateString": "Aug 16-18, 2023",
+    "startDate": "2023-08-16T00:00:00",
+    "endDate": "2023-08-18T00:00:00"
+  },
+  {
+    "title": "KSEM",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2024,
+    "link": "https://ai-edge.net/",
+    "place": "Birmingham",
+    "dateString": "Aug 16-18, 2024",
+    "startDate": "2024-08-16T00:00:00",
+    "endDate": "2024-08-18T00:00:00"
+  },
+  {
+    "title": "KSEM",
+    "sub": "AI",
+    "ccfRank": "C",
     "year": 2025,
     "link": "https://ksem2025.scimeeting.cn/",
     "place": "Macao SAR, China",
@@ -564,6 +630,17 @@
     "title": "ICONIP",
     "sub": "AI",
     "ccfRank": "C",
+    "year": 2023,
+    "link": "http://iconip2023.org/",
+    "place": "Changsha, China",
+    "dateString": "Nov 20-23, 2023",
+    "startDate": "2023-11-20T00:00:00",
+    "endDate": "2023-11-23T00:00:00"
+  },
+  {
+    "title": "ICONIP",
+    "sub": "AI",
+    "ccfRank": "C",
     "year": 2024,
     "link": "http://iconip2024.org/",
     "place": "Auckland, New Zealand",
@@ -592,6 +669,17 @@
     "dateString": "June 8-12, 2025",
     "startDate": "2025-06-08T00:00:00",
     "endDate": "2025-06-12T00:00:00"
+  },
+  {
+    "title": "ICPR",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2024,
+    "link": "https://icpr2024.org/",
+    "place": "Kolkata, India",
+    "dateString": "Dec 01-05, 2024",
+    "startDate": "2024-12-01T00:00:00",
+    "endDate": "2024-12-05T00:00:00"
   },
   {
     "title": "ICPR",
@@ -757,6 +845,17 @@
     "dateString": "February 23-26, 2026",
     "startDate": "2026-02-23T00:00:00",
     "endDate": "2026-02-26T00:00:00"
+  },
+  {
+    "title": "IJCNLP",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2025,
+    "link": "https://www.afnlp.org/conferences/ijcnlp2025/",
+    "place": "Mumbai, India",
+    "dateString": "Dec 20-24, 2025",
+    "startDate": "2025-12-20T00:00:00",
+    "endDate": "2025-12-24T00:00:00"
   },
   {
     "title": "IROS",
@@ -979,6 +1078,17 @@
     "endDate": "2025-02-28T00:00:00"
   },
   {
+    "title": "WACV",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2026,
+    "link": "https://wacv.thecvf.com/",
+    "place": "Tucson, Arizona, USA",
+    "dateString": "Mar 6 - 10, 2026",
+    "startDate": "2026-03-06T00:00:00",
+    "endDate": "2026-03-06T00:00:00"
+  },
+  {
     "title": "ICAPS",
     "sub": "AI",
     "ccfRank": "B",
@@ -1032,6 +1142,17 @@
     "dateString": "September 8 - 13, 2026",
     "startDate": "2026-09-08T00:00:00",
     "endDate": "2026-09-08T00:00:00"
+  },
+  {
+    "title": "KR",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2023,
+    "link": "https://kr.org/KR2023/",
+    "place": "Rhodes, Greece",
+    "dateString": "Sep 2-8, 2023",
+    "startDate": "2023-09-02T00:00:00",
+    "endDate": "2023-09-08T00:00:00"
   },
   {
     "title": "KR",
@@ -1463,6 +1584,17 @@
     "endDate": "2024-05-20T00:00:00"
   },
   {
+    "title": "COLING",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2025,
+    "link": "https://coling2025.org/",
+    "place": "Abu Dhabi, UAE",
+    "dateString": "Jan 19 - Jan 24, 2025",
+    "startDate": "2025-01-19T00:00:00",
+    "endDate": "2025-01-19T00:00:00"
+  },
+  {
     "title": "LOG",
     "sub": "AI",
     "ccfRank": "N",
@@ -1527,6 +1659,39 @@
     "dateString": "May 19-23, 2025",
     "startDate": "2025-05-19T00:00:00",
     "endDate": "2025-05-23T00:00:00"
+  },
+  {
+    "title": "ICRA",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://2026.ieee-icra.org/",
+    "place": "Vienna, Austria",
+    "dateString": "Jun 1-5, 2026",
+    "startDate": "2026-06-01T00:00:00",
+    "endDate": "2026-06-05T00:00:00"
+  },
+  {
+    "title": "PRICAI",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2024,
+    "link": "https://www.pricai.org/2024/",
+    "place": "Kyoto, Japan",
+    "dateString": "Nov 18-24, 2024",
+    "startDate": "2024-11-18T00:00:00",
+    "endDate": "2024-11-24T00:00:00"
+  },
+  {
+    "title": "PRICAI",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2025,
+    "link": "https://www.pricai.org/2025/",
+    "place": "Wellington, New Zealand",
+    "dateString": "Nov 17-21, 2025",
+    "startDate": "2025-11-17T00:00:00",
+    "endDate": "2025-11-21T00:00:00"
   },
   {
     "title": "IJCAI",
@@ -2819,6 +2984,17 @@
     "title": "ISC",
     "sub": "SC",
     "ccfRank": "C",
+    "year": 2024,
+    "link": "https://isc24.cs.gmu.edu/",
+    "place": "VA, USA",
+    "dateString": "Oct 23 - 25, 2024",
+    "startDate": "2024-10-23T00:00:00",
+    "endDate": "2024-10-23T00:00:00"
+  },
+  {
+    "title": "ISC",
+    "sub": "SC",
+    "ccfRank": "C",
     "year": 2025,
     "link": "https://isc25.skku.edu/",
     "place": "Seoul, South Korea",
@@ -2858,6 +3034,39 @@
     "dateString": "July 26-29, 2026",
     "startDate": "2026-07-26T00:00:00",
     "endDate": "2026-07-29T00:00:00"
+  },
+  {
+    "title": "TCC",
+    "sub": "SC",
+    "ccfRank": "B",
+    "year": 2021,
+    "link": "https://tcc.iacr.org/2021/",
+    "place": "Raleigh, United States",
+    "dateString": "Nov 8, 2021",
+    "startDate": "2021-11-08T00:00:00",
+    "endDate": "2021-11-08T00:00:00"
+  },
+  {
+    "title": "TCC",
+    "sub": "SC",
+    "ccfRank": "B",
+    "year": 2023,
+    "link": "https://tcc.iacr.org/2023/",
+    "place": "Taipei, China",
+    "dateString": "Nov 29 - Dec 12, 2023",
+    "startDate": "2023-11-29T00:00:00",
+    "endDate": "2023-11-29T00:00:00"
+  },
+  {
+    "title": "TCC",
+    "sub": "SC",
+    "ccfRank": "B",
+    "year": 2024,
+    "link": "https://tcc.iacr.org/2024/",
+    "place": "Milan, Italy",
+    "dateString": "Dec 2 - 6, 2024",
+    "startDate": "2024-12-02T00:00:00",
+    "endDate": "2024-12-02T00:00:00"
   },
   {
     "title": "TCC",
@@ -3413,6 +3622,17 @@
     "title": "EDBT",
     "sub": "DB",
     "ccfRank": "B",
+    "year": 2022,
+    "link": "https://conferences.inf.ed.ac.uk/edbticdt2022/",
+    "place": "Edinburgh, UK",
+    "dateString": "Mar 29-April 01, 2022",
+    "startDate": "2022-03-29T00:00:00",
+    "endDate": "2022-03-29T00:00:00"
+  },
+  {
+    "title": "EDBT",
+    "sub": "DB",
+    "ccfRank": "B",
     "year": 2023,
     "link": "http://edbticdt2023.cs.uoi.gr/",
     "place": "Ioannina, Greece",
@@ -3776,6 +3996,17 @@
     "title": "ICDT",
     "sub": "DB",
     "ccfRank": "B",
+    "year": 2022,
+    "link": "https://conferences.inf.ed.ac.uk/edbticdt2022/",
+    "place": "Edinburgh, UK",
+    "dateString": "Mar 29-April 01, 2022",
+    "startDate": "2022-03-29T00:00:00",
+    "endDate": "2022-03-29T00:00:00"
+  },
+  {
+    "title": "ICDT",
+    "sub": "DB",
+    "ccfRank": "B",
     "year": 2025,
     "link": "https://edbticdt2025.upc.edu/",
     "place": "Barcelona, Spain",
@@ -3925,6 +4156,39 @@
     "dateString": "November 2-6, 2025",
     "startDate": "2025-11-02T00:00:00",
     "endDate": "2025-11-06T00:00:00"
+  },
+  {
+    "title": "CIDR",
+    "sub": "DB",
+    "ccfRank": "B",
+    "year": 2024,
+    "link": "https://www.cidrdb.org/cidr2024/",
+    "place": "Chaminade, USA",
+    "dateString": "Jan 14-17, 2024",
+    "startDate": "2024-01-14T00:00:00",
+    "endDate": "2024-01-17T00:00:00"
+  },
+  {
+    "title": "CIDR",
+    "sub": "DB",
+    "ccfRank": "B",
+    "year": 2025,
+    "link": "https://www.cidrdb.org/cidr2025/",
+    "place": "Amsterdam, The Netherlands",
+    "dateString": "Jan 19-22, 2025",
+    "startDate": "2025-01-19T00:00:00",
+    "endDate": "2025-01-22T00:00:00"
+  },
+  {
+    "title": "CIDR",
+    "sub": "DB",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://www.cidrdb.org/cidr2026/",
+    "place": "Chaminade Resort & Spa, Santa Cruz, California, USA",
+    "dateString": "Jan 18-21, 2026",
+    "startDate": "2026-01-18T00:00:00",
+    "endDate": "2026-01-21T00:00:00"
   },
   {
     "title": "EUSIPCO",
@@ -4348,6 +4612,17 @@
     "title": "CoNEXT",
     "sub": "NW",
     "ccfRank": "B",
+    "year": 2025,
+    "link": "https://conferences.sigcomm.org/co-next/2025/#!/home",
+    "place": "HKUST, Hong Kong",
+    "dateString": "Dec 1-4, 2025",
+    "startDate": "2025-12-01T00:00:00",
+    "endDate": "2025-12-04T00:00:00"
+  },
+  {
+    "title": "CoNEXT",
+    "sub": "NW",
+    "ccfRank": "B",
     "year": 2026,
     "link": "https://conferences.sigcomm.org/co-next/2026/#!/home",
     "place": "Utrecht, The Netherlands",
@@ -4497,6 +4772,39 @@
     "dateString": "June 21-25, 2026",
     "startDate": "2026-06-21T00:00:00",
     "endDate": "2026-06-25T00:00:00"
+  },
+  {
+    "title": "MobiCom",
+    "sub": "NW",
+    "ccfRank": "A",
+    "year": 2023,
+    "link": "https://www.sigmobile.org/mobicom/2023/",
+    "place": "Madrid, Spain",
+    "dateString": "Oct 2-6, 2023",
+    "startDate": "2023-10-02T00:00:00",
+    "endDate": "2023-10-06T00:00:00"
+  },
+  {
+    "title": "IMC",
+    "sub": "NW",
+    "ccfRank": "B",
+    "year": 2024,
+    "link": "https://conferences.sigcomm.org/imc/2024/",
+    "place": "Madrid, Spain",
+    "dateString": "Nov 4-6, 2024",
+    "startDate": "2024-11-04T00:00:00",
+    "endDate": "2024-11-06T00:00:00"
+  },
+  {
+    "title": "IMC",
+    "sub": "NW",
+    "ccfRank": "B",
+    "year": 2025,
+    "link": "https://conferences.sigcomm.org/imc/2025/",
+    "place": "Madison, Wisconsin, USA",
+    "dateString": "Oct 28-31, 2025",
+    "startDate": "2025-10-28T00:00:00",
+    "endDate": "2025-10-31T00:00:00"
   },
   {
     "title": "IMC",
@@ -5063,6 +5371,17 @@
     "title": "MICRO",
     "sub": "DS",
     "ccfRank": "A",
+    "year": 2021,
+    "link": "https://www.microarch.org/micro54/",
+    "place": "Athens, Greece",
+    "dateString": "Oct 18-22, 2021",
+    "startDate": "2021-10-18T00:00:00",
+    "endDate": "2021-10-22T00:00:00"
+  },
+  {
+    "title": "MICRO",
+    "sub": "DS",
+    "ccfRank": "A",
     "year": 2024,
     "link": "https://microarch.org/micro57/",
     "place": "Austin, Texas, USA",
@@ -5415,6 +5734,28 @@
     "title": "ICCAD",
     "sub": "DS",
     "ccfRank": "B",
+    "year": 2022,
+    "link": "https://iccad.com/",
+    "place": "San Diego, CA, USA",
+    "dateString": "Oct 29 - Nov 3, 2022",
+    "startDate": "2022-10-29T00:00:00",
+    "endDate": "2022-10-29T00:00:00"
+  },
+  {
+    "title": "ICCAD",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2023,
+    "link": "https://iccad.com/",
+    "place": "San Diego, CA, USA",
+    "dateString": "Oct 29 - Nov 2, 2023",
+    "startDate": "2023-10-29T00:00:00",
+    "endDate": "2023-10-29T00:00:00"
+  },
+  {
+    "title": "ICCAD",
+    "sub": "DS",
+    "ccfRank": "B",
     "year": 2024,
     "link": "https://2024.iccad.com/",
     "place": "New Jersey, USA",
@@ -5525,6 +5866,28 @@
     "title": "HPCA",
     "sub": "DS",
     "ccfRank": "A",
+    "year": 2022,
+    "link": "https://hpca-conf.org/2022/",
+    "place": "Seoul, South Korea",
+    "dateString": "Feb 12-16, 2022",
+    "startDate": "2022-02-12T00:00:00",
+    "endDate": "2022-02-16T00:00:00"
+  },
+  {
+    "title": "HPCA",
+    "sub": "DS",
+    "ccfRank": "A",
+    "year": 2023,
+    "link": "https://hpca-conf.org/2023/",
+    "place": "Montreal, QC, Canada",
+    "dateString": "Feb 25-Mar 01, 2023",
+    "startDate": "2023-02-25T00:00:00",
+    "endDate": "2023-02-25T00:00:00"
+  },
+  {
+    "title": "HPCA",
+    "sub": "DS",
+    "ccfRank": "A",
     "year": 2024,
     "link": "https://hpca-conf.org/2024/",
     "place": "Edinburgh, Scotland, UK",
@@ -5542,6 +5905,17 @@
     "dateString": "March 1-5, 2025",
     "startDate": "2025-03-01T00:00:00",
     "endDate": "2025-03-05T00:00:00"
+  },
+  {
+    "title": "HPCA",
+    "sub": "DS",
+    "ccfRank": "A",
+    "year": 2026,
+    "link": "https://hpca-conf.org/2026/",
+    "place": "Sydney, NSW, Australia",
+    "dateString": "Feb 25-Mar 1, 2026",
+    "startDate": "2026-02-25T00:00:00",
+    "endDate": "2026-02-25T00:00:00"
   },
   {
     "title": "SIGMETRICS",
@@ -5619,6 +5993,17 @@
     "dateString": "April 19-23, 2021",
     "startDate": "2021-04-19T00:00:00",
     "endDate": "2021-04-23T00:00:00"
+  },
+  {
+    "title": "ASPLOS",
+    "sub": "DS",
+    "ccfRank": "A",
+    "year": 2022,
+    "link": "https://asplos-conference.org/",
+    "place": "Virtual",
+    "dateString": "Feb 28-March 4, 2022",
+    "startDate": "2022-02-28T00:00:00",
+    "endDate": "2022-02-28T00:00:00"
   },
   {
     "title": "ASPLOS",
@@ -5764,6 +6149,17 @@
     "endDate": "2025-10-14T00:00:00"
   },
   {
+    "title": "VEE",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2022,
+    "link": "https://conf.researchr.org/home/vee-2022",
+    "place": "Virtual",
+    "dateString": "Feb 28-March 4, 2022",
+    "startDate": "2022-02-28T00:00:00",
+    "endDate": "2022-02-28T00:00:00"
+  },
+  {
     "title": "CLUSTER",
     "sub": "DS",
     "ccfRank": "B",
@@ -5839,6 +6235,39 @@
     "dateString": "February 25-Mar 1, 2023",
     "startDate": "2023-02-25T00:00:00",
     "endDate": "2023-02-25T00:00:00"
+  },
+  {
+    "title": "PPoPP",
+    "sub": "DS",
+    "ccfRank": "A",
+    "year": 2024,
+    "link": "https://conf.researchr.org/home/ppopp-2024",
+    "place": "Edinburgh, United Kingdom",
+    "dateString": "Mar 2-Mar 6, 2024",
+    "startDate": "2024-03-02T00:00:00",
+    "endDate": "2024-03-02T00:00:00"
+  },
+  {
+    "title": "PPoPP",
+    "sub": "DS",
+    "ccfRank": "A",
+    "year": 2025,
+    "link": "https://ppopp25.sigplan.org/",
+    "place": "Las Vegas, Nevada, USA",
+    "dateString": "Mar 1-5, 2025",
+    "startDate": "2025-03-01T00:00:00",
+    "endDate": "2025-03-05T00:00:00"
+  },
+  {
+    "title": "PPoPP",
+    "sub": "DS",
+    "ccfRank": "A",
+    "year": 2026,
+    "link": "https://ppopp26.sigplan.org/",
+    "place": "Sydney, Australia",
+    "dateString": "Jan 31-Feb 4, 2026",
+    "startDate": "2026-01-31T00:00:00",
+    "endDate": "2026-01-31T00:00:00"
   },
   {
     "title": "PDCAT",
@@ -6050,6 +6479,39 @@
     "endDate": "2021-09-30T00:00:00"
   },
   {
+    "title": "ASP-DAC",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2024,
+    "link": "https://www.aspdac.com/aspdac2024/",
+    "place": "Sondo Convensia, Incheon, Korea",
+    "dateString": "Jan 22-25, 2024",
+    "startDate": "2024-01-22T00:00:00",
+    "endDate": "2024-01-25T00:00:00"
+  },
+  {
+    "title": "ASP-DAC",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2025,
+    "link": "https://www.aspdac.com/aspdac2025/",
+    "place": "Tokyo Odaiba Miraikan, Japan",
+    "dateString": "Jan 20-23, 2025",
+    "startDate": "2025-01-20T00:00:00",
+    "endDate": "2025-01-23T00:00:00"
+  },
+  {
+    "title": "ASP-DAC",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.aspdac.com/aspdac2026/",
+    "place": "Hong Kong Disneyland",
+    "dateString": "Jan 19-22, 2026",
+    "startDate": "2026-01-19T00:00:00",
+    "endDate": "2026-01-22T00:00:00"
+  },
+  {
     "title": "ISCAS",
     "sub": "DS",
     "ccfRank": "C",
@@ -6204,6 +6666,17 @@
     "endDate": "2025-11-06T00:00:00"
   },
   {
+    "title": "WINE",
+    "sub": "MX",
+    "ccfRank": "A",
+    "year": 2023,
+    "link": "https://wine2023.shanghaitech.edu.cn/",
+    "place": "Shanghai, China",
+    "dateString": "Dec 04-08, 2023",
+    "startDate": "2023-12-04T00:00:00",
+    "endDate": "2023-12-08T00:00:00"
+  },
+  {
     "title": "APBC",
     "sub": "MX",
     "ccfRank": "C",
@@ -6279,6 +6752,39 @@
     "dateString": "April 13 - 17, 2026",
     "startDate": "2026-04-13T00:00:00",
     "endDate": "2026-04-13T00:00:00"
+  },
+  {
+    "title": "MICCAI",
+    "sub": "MX",
+    "ccfRank": "B",
+    "year": 2023,
+    "link": "https://conferences.miccai.org/2023/en/",
+    "place": "Vancouver, Canada",
+    "dateString": "Oct 8-12, 2023",
+    "startDate": "2023-10-08T00:00:00",
+    "endDate": "2023-10-12T00:00:00"
+  },
+  {
+    "title": "MICCAI",
+    "sub": "MX",
+    "ccfRank": "B",
+    "year": 2024,
+    "link": "https://conferences.miccai.org/2024/en/",
+    "place": "Marrakesh, Morocco",
+    "dateString": "Oct 6-10, 2024",
+    "startDate": "2024-10-06T00:00:00",
+    "endDate": "2024-10-10T00:00:00"
+  },
+  {
+    "title": "MICCAI",
+    "sub": "MX",
+    "ccfRank": "B",
+    "year": 2025,
+    "link": "https://conferences.miccai.org/2025/en/default.asp",
+    "place": "Daejeon, Republic of Korea",
+    "dateString": "Sep 23-27, 2025",
+    "startDate": "2025-09-23T00:00:00",
+    "endDate": "2025-09-27T00:00:00"
   },
   {
     "title": "ISBRA",
@@ -6466,6 +6972,61 @@
     "dateString": "October 5-8, 2025",
     "startDate": "2025-10-05T00:00:00",
     "endDate": "2025-10-08T00:00:00"
+  },
+  {
+    "title": "BIBM",
+    "sub": "MX",
+    "ccfRank": "B",
+    "year": 2021,
+    "link": "https://ieeebibm.org/BIBM2021/",
+    "place": "Online",
+    "dateString": "Dec 9-12, 2021",
+    "startDate": "2021-12-09T00:00:00",
+    "endDate": "2021-12-12T00:00:00"
+  },
+  {
+    "title": "BIBM",
+    "sub": "MX",
+    "ccfRank": "B",
+    "year": 2022,
+    "link": "http://ieeebibm.org/BIBM2022/",
+    "place": "Las Vegas, NV, USA",
+    "dateString": "Dec 6-9, 2022",
+    "startDate": "2022-12-06T00:00:00",
+    "endDate": "2022-12-09T00:00:00"
+  },
+  {
+    "title": "BIBM",
+    "sub": "MX",
+    "ccfRank": "B",
+    "year": 2023,
+    "link": "https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/",
+    "place": "Istanbul, Turkey",
+    "dateString": "Dec 5-8, 2023",
+    "startDate": "2023-12-05T00:00:00",
+    "endDate": "2023-12-08T00:00:00"
+  },
+  {
+    "title": "BIBM",
+    "sub": "MX",
+    "ccfRank": "B",
+    "year": 2024,
+    "link": "https://ieeebibm.org/BIBM2024/",
+    "place": "Lisbon, Portugal",
+    "dateString": "Dec 3-6, 2024",
+    "startDate": "2024-12-03T00:00:00",
+    "endDate": "2024-12-06T00:00:00"
+  },
+  {
+    "title": "BIBM",
+    "sub": "MX",
+    "ccfRank": "B",
+    "year": 2025,
+    "link": "https://ieeebibm.org/BIBM2025/",
+    "place": "Wuhan, China",
+    "dateString": "Dec 15-18, 2025",
+    "startDate": "2025-12-15T00:00:00",
+    "endDate": "2025-12-18T00:00:00"
   },
   {
     "title": "APSEC",
@@ -7975,6 +8536,17 @@
     "endDate": "2026-04-13T00:00:00"
   },
   {
+    "title": "ASSETS",
+    "sub": "HI",
+    "ccfRank": "C",
+    "year": 2025,
+    "link": "https://assets25.sigaccess.org/",
+    "place": "Denver, Colorado",
+    "dateString": "Oct 26 - 29, 2025",
+    "startDate": "2025-10-26T00:00:00",
+    "endDate": "2025-10-26T00:00:00"
+  },
+  {
     "title": "IUI",
     "sub": "HI",
     "ccfRank": "B",
@@ -8030,6 +8602,39 @@
     "endDate": "2026-03-16T00:00:00"
   },
   {
+    "title": "ICMI",
+    "sub": "HI",
+    "ccfRank": "C",
+    "year": 2024,
+    "link": "https://icmi.acm.org/2024/",
+    "place": "San José, Costa Rica",
+    "dateString": "Nov 4 - 8, 2024",
+    "startDate": "2024-11-04T00:00:00",
+    "endDate": "2024-11-04T00:00:00"
+  },
+  {
+    "title": "ICMI",
+    "sub": "HI",
+    "ccfRank": "C",
+    "year": 2025,
+    "link": "https://icmi.acm.org/2025/",
+    "place": "Canberra, Australia",
+    "dateString": "Oct 13 - 17, 2025",
+    "startDate": "2025-10-13T00:00:00",
+    "endDate": "2025-10-13T00:00:00"
+  },
+  {
+    "title": "ICMI",
+    "sub": "HI",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://icmi.acm.org/2026/",
+    "place": "Napoli, Italy",
+    "dateString": "Oct 5 - 9, 2026",
+    "startDate": "2026-10-05T00:00:00",
+    "endDate": "2026-10-05T00:00:00"
+  },
+  {
     "title": "UbiComp/ISWC",
     "sub": "HI",
     "ccfRank": "A",
@@ -8083,6 +8688,28 @@
     "dateString": "October 13-16, 2024",
     "startDate": "2024-10-13T00:00:00",
     "endDate": "2024-10-16T00:00:00"
+  },
+  {
+    "title": "UIST",
+    "sub": "HI",
+    "ccfRank": "A",
+    "year": 2025,
+    "link": "https://uist.acm.org/2025/",
+    "place": "Busan, Korea",
+    "dateString": "Sep 28 - Oct 1, 2025",
+    "startDate": "2025-09-28T00:00:00",
+    "endDate": "2025-09-28T00:00:00"
+  },
+  {
+    "title": "UIC",
+    "sub": "HI",
+    "ccfRank": "C",
+    "year": 2025,
+    "link": "https://www.ieee-smart-world.org/2025/",
+    "place": "Calgary, Alberta, Canada",
+    "dateString": "Aug 18 - 22, 2025",
+    "startDate": "2025-08-18T00:00:00",
+    "endDate": "2025-08-18T00:00:00"
   },
   {
     "title": "CollaborateCom",
@@ -8151,6 +8778,39 @@
     "endDate": "2026-05-29T00:00:00"
   },
   {
+    "title": "PRCV",
+    "sub": "CG",
+    "ccfRank": "C",
+    "year": 2023,
+    "link": "https://prcv2023.xmu.edu.cn/",
+    "place": "Xiamen, China",
+    "dateString": "Oct 13-15, 2023",
+    "startDate": "2023-10-13T00:00:00",
+    "endDate": "2023-10-15T00:00:00"
+  },
+  {
+    "title": "PRCV",
+    "sub": "CG",
+    "ccfRank": "C",
+    "year": 2024,
+    "link": "http://www.prcv.cn/",
+    "place": "Urumchi, China",
+    "dateString": "Oct 18-20, 2024",
+    "startDate": "2024-10-18T00:00:00",
+    "endDate": "2024-10-20T00:00:00"
+  },
+  {
+    "title": "PRCV",
+    "sub": "CG",
+    "ccfRank": "C",
+    "year": 2025,
+    "link": "http://2025.prcv.cn/",
+    "place": "Shanghai, China",
+    "dateString": "Oct 16-19, 2025",
+    "startDate": "2025-10-16T00:00:00",
+    "endDate": "2025-10-19T00:00:00"
+  },
+  {
     "title": "VINCI",
     "sub": "CG",
     "ccfRank": "N",
@@ -8160,6 +8820,50 @@
     "dateString": "December 1-3, 2025",
     "startDate": "2025-12-01T00:00:00",
     "endDate": "2025-12-03T00:00:00"
+  },
+  {
+    "title": "ICIP",
+    "sub": "CG",
+    "ccfRank": "C",
+    "year": 2023,
+    "link": "https://2023.ieeeicip.org/",
+    "place": "Kuala Lumpur, Malaysia",
+    "dateString": "Oct 8-11, 2023",
+    "startDate": "2023-10-08T00:00:00",
+    "endDate": "2023-10-11T00:00:00"
+  },
+  {
+    "title": "ICIP",
+    "sub": "CG",
+    "ccfRank": "C",
+    "year": 2024,
+    "link": "https://2024.ieeeicip.org/",
+    "place": "Abu Dhabi, United Arab Emirates",
+    "dateString": "Oct 27-30, 2024",
+    "startDate": "2024-10-27T00:00:00",
+    "endDate": "2024-10-30T00:00:00"
+  },
+  {
+    "title": "ICIP",
+    "sub": "CG",
+    "ccfRank": "C",
+    "year": 2025,
+    "link": "https://2025.ieeeicip.org/",
+    "place": "Anchorage Alaska, USA",
+    "dateString": "Sep 14-17, 2025",
+    "startDate": "2025-09-14T00:00:00",
+    "endDate": "2025-09-17T00:00:00"
+  },
+  {
+    "title": "ICIP",
+    "sub": "CG",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://2026.ieeeicip.org/",
+    "place": "Tampere, Finland",
+    "dateString": "Sep 13-17, 2026",
+    "startDate": "2026-09-13T00:00:00",
+    "endDate": "2026-09-17T00:00:00"
   },
   {
     "title": "ICASSP",
@@ -8226,6 +8930,39 @@
     "dateString": "October 29 - November 2, 2025",
     "startDate": "2025-10-29T00:00:00",
     "endDate": "2025-10-29T00:00:00"
+  },
+  {
+    "title": "ISMAR",
+    "sub": "CG",
+    "ccfRank": "B",
+    "year": 2023,
+    "link": "https://ismar23.org/",
+    "place": "Sydney, Australia",
+    "dateString": "Oct 16-20, 2023",
+    "startDate": "2023-10-16T00:00:00",
+    "endDate": "2023-10-20T00:00:00"
+  },
+  {
+    "title": "ISMAR",
+    "sub": "CG",
+    "ccfRank": "B",
+    "year": 2024,
+    "link": "https://ieeeismar.org/",
+    "place": "Greater Seattle Area, USA",
+    "dateString": "Oct 21-25, 2024",
+    "startDate": "2024-10-21T00:00:00",
+    "endDate": "2024-10-25T00:00:00"
+  },
+  {
+    "title": "ISMAR",
+    "sub": "CG",
+    "ccfRank": "B",
+    "year": 2025,
+    "link": "https://www.ieeeismar.net/2025/",
+    "place": "Daejeon, South Korea",
+    "dateString": "Oct 8-12, 2025",
+    "startDate": "2025-10-08T00:00:00",
+    "endDate": "2025-10-12T00:00:00"
   },
   {
     "title": "MMM",
