@@ -8,6 +8,14 @@ import re
 DATA_DIR = 'ccf-deadlines-data/conference'
 OUTPUT_FILE = 'conferences.json'
 
+MONTH_MAP = {
+    'Sept': 'Sep'
+}
+
+def _clean_month(month_str):
+    month_str = month_str.replace('.', '') 
+    return MONTH_MAP.get(month_str, month_str) 
+
 def _parse_date_string(date_str_to_parse):
     try:
         return datetime.datetime.strptime(date_str_to_parse, '%B %d %Y')
@@ -15,44 +23,52 @@ def _parse_date_string(date_str_to_parse):
         try:
             return datetime.datetime.strptime(date_str_to_parse, '%b %d %Y')
         except ValueError as e:
-            raise e 
+            raise e
 
 def parse_dates(date_str):
     if not date_str:
         return None, None
+
+    date_str_cleaned = date_str.replace(',', '').replace(' - ', '-')
     
-    date_str_cleaned = date_str.replace(',', '').replace('.', '')
-    parts = date_str_cleaned.split()
+    pattern = re.compile(
+        r'([A-Za-z\.]+) (\d+(?:-\d+)?)'  
+        r'(?:-([A-Za-z\.]+) (\d+))?'     
+        r',? (\d{4})'                   
+    )
+    match = pattern.search(date_str_cleaned)
     
-    if len(parts) < 3:
+    if not match:
+        print(f"Skipping (format not recognized): '{date_str}'")
         return None, None
-
+    
+    groups = match.groups()
+    start_month_str = groups[0]
+    day_range_str = groups[1]   # e.g., "18-22" or "29" or "25"
+    end_month_str = groups[2]   # e.g., "Oct" or None
+    end_day_str = groups[3]     # e.g., "6" or None
+    year_str = groups[4]
+    
     try:
-        month = parts[0] # e.g., "July" or "Aug"
-        year = parts[-1]
+        start_day_str = day_range_str.split('-')[0]
         
-        if not re.match(r'^\d{4}$', year):
-            year = parts[-2] 
-            if not re.match(r'^\d{4}$', year):
-                 return None, None 
-
-        day_part = parts[1] # e.g., "18-22" or "18"
-        day_nums = re.findall(r'\d+', day_part)
+        if end_month_str and end_day_str:
+            pass 
+        else:
+            end_month_str = start_month_str 
+            if '-' in day_range_str:
+                end_day_str = day_range_str.split('-')[-1] # "22"
+            else:
+                end_day_str = start_day_str # "25"
         
-        if not day_nums:
-            return None, None
-            
-        start_day = day_nums[0]
-        end_day = day_nums[-1] 
+        start_month = _clean_month(start_month_str)
+        dt_start = _parse_date_string(f"{start_month} {start_day_str} {year_str}")
         
-        start_date_str = f"{month} {start_day} {year}"
-        dt_start = _parse_date_string(start_date_str)
-        
-        end_date_str = f"{month} {end_day} {year}"
-        dt_end = _parse_date_string(end_date_str)
+        end_month = _clean_month(end_month_str)
+        dt_end = _parse_date_string(f"{end_month} {end_day_str} {year_str}")
         
         return dt_start.isoformat(), dt_end.isoformat()
-        
+
     except Exception as e:
         print(f"Error parsing date string: '{date_str}' -> {e}")
         return None, None
@@ -79,9 +95,9 @@ def process_conf_entry(entry_data, all_conferences):
                         'year': conf_instance.get('year', 'N/A'),
                         'link': conf_instance.get('link'),
                         'place': conf_instance.get('place'),
-                        'dateString': date_string,    
-                        'startDate': start_date_iso, 
-                        'endDate': end_date_iso      
+                        'dateString': date_string,
+                        'startDate': start_date_iso,
+                        'endDate': end_date_iso
                     })
     except Exception as e:
         print(f"Error processing entry {entry_data.get('title', 'N/A')}: {e}")
