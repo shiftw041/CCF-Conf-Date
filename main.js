@@ -1,5 +1,4 @@
 // main.js
-
 let allConferences = [];
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -12,14 +11,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
 async function fetchConferenceData() {
     try {
-        const response = await fetch('conferences.json');
+        const response = await fetch('conferences.json?v=' + new Date().getTime());
+        
         if (!response.ok) {
             throw new Error('Network response was not ok');
         }
         let conferences = await response.json();
         
         const now = new Date();
-        now.setHours(0, 0, 0, 0); 
+        now.setHours(0, 0, 0, 0); // 设为今天 0 点
 
         const validConferences = conferences.filter(conf => {
             if (!conf.endDate) return false;
@@ -38,7 +38,7 @@ async function fetchConferenceData() {
     } catch (error) {
         console.error('Error fetching conference data:', error);
         const container = document.getElementById('countdown-container');
-        container.innerHTML = '<p>Loading confs date failed, please try again later.</p>';
+        container.innerHTML = '<p>Loading confs data failed, please try again later.</p>';
     }
 }
 
@@ -71,14 +71,12 @@ function renderConferences() {
 
     const filteredConferences = allConferences.filter(conf => {
         const subMatch = (subFilter === 'all') || (conf.sub === subFilter);
-
         const searchMatch = (conf.title.toLowerCase().includes(searchQuery));
         
         return subMatch && searchMatch;
     });
 
-
-    container.innerHTML = ''; // 
+    container.innerHTML = ''; 
     
     if (filteredConferences.length === 0) {
         container.innerHTML = '<p>None</p>';
@@ -98,10 +96,16 @@ function renderConferences() {
         let statusHTML = '';
         
         if (now < startDate) {
-            const diffTime = startDate - now;
+            const today = new Date();
+            today.setHours(0,0,0,0);
+            const startDay = new Date(startDate.getTime());
+            startDay.setHours(0,0,0,0);
+            
+            const diffTime = startDay - today;
             const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+
             statusHTML = `<p class="countdown-status status-countdown">
-                            ${diffDays === 0 ? 'Start on today' : `Start in ${diffDays} days`}
+                            ${diffDays <= 0 ? 'Start on today' : `Start in ${diffDays} days`}
                           </p>`;
         } else if (now >= startDate && now <= endDate) {
             statusHTML = `<p class="countdown-status status-ongoing">In progress</p>`;
