@@ -3,14 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>会议倒计时</title>
+    <title>Conference Countdown</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Conference Start Time Countdowns</h1>
-    <div id="countdown-container">
+    <h1>Conference Countdown</h1>
+
+    <div class="controls-container">
+        <div class="control-group">
+            <label for="search-box">search:</label>
+            <input type="text" id="search-box" placeholder="search by short name (e.g., ISSTA)">
+        </div>
+        <div class="control-group">
+            <label for="filter-sub">field:</label>
+            <select id="filter-sub">
+                <option value="all">all filed</option>
+                </select>
+        </div>
+        <div class="control-group">
+            <button id="layout-toggle">double-column display</button>
+        </div>
+    </div>
+
+    <div id="countdown-container" class="single-column">
         <p>Loading confs data...</p>
     </div>
+
     <script src="main.js"></script>
 </body>
 </html>
