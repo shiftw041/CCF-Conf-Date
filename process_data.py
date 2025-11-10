@@ -8,22 +8,27 @@ import re
 DATA_DIR = 'ccf-deadlines-data/conference'
 OUTPUT_FILE = 'conferences.json'
 
+def _parse_date_string(date_str_to_parse):
+    try:
+        return datetime.datetime.strptime(date_str_to_parse, '%B %d %Y')
+    except ValueError:
+        try:
+            return datetime.datetime.strptime(date_str_to_parse, '%b %d %Y')
+        except ValueError as e:
+            raise e 
+
 def parse_dates(date_str):
-    """
-    get conf info.
-    example: "July 18-22, 2022", "June 25, 2025"
-    """
     if not date_str:
         return None, None
     
-    date_str_cleaned = date_str.replace(',', '')
+    date_str_cleaned = date_str.replace(',', '').replace('.', '')
     parts = date_str_cleaned.split()
     
     if len(parts) < 3:
         return None, None
 
     try:
-        month = parts[0]
+        month = parts[0] # e.g., "July" or "Aug"
         year = parts[-1]
         
         if not re.match(r'^\d{4}$', year):
@@ -32,7 +37,6 @@ def parse_dates(date_str):
                  return None, None 
 
         day_part = parts[1] # e.g., "18-22" or "18"
-        
         day_nums = re.findall(r'\d+', day_part)
         
         if not day_nums:
@@ -42,10 +46,10 @@ def parse_dates(date_str):
         end_day = day_nums[-1] 
         
         start_date_str = f"{month} {start_day} {year}"
-        dt_start = datetime.datetime.strptime(start_date_str, '%B %d %Y')
+        dt_start = _parse_date_string(start_date_str)
         
         end_date_str = f"{month} {end_day} {year}"
-        dt_end = datetime.datetime.strptime(end_date_str, '%B %d %Y')
+        dt_end = _parse_date_string(end_date_str)
         
         return dt_start.isoformat(), dt_end.isoformat()
         
