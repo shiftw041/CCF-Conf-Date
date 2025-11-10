@@ -28,7 +28,7 @@ This project is inspired by `ccfddl/ccf-deadlines` but focuses on **conference p
 
 ## 🛠️ How It Works
 
-This project runs entirely for free on GitHub, requiring no external servers just using GitHub Action and GitHub Pages.
+This project runs entirely for free on GitHub, just using GitHub Action and GitHub Pages without requiring external servers.
 
 ## 🙏 Acknowledgements
 
