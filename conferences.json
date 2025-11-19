@@ -1562,6 +1562,17 @@
     "endDate": "2024-12-12T00:00:00"
   },
   {
+    "title": "ACCV",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://accv2026.org/",
+    "place": "Osaka, japan",
+    "dateString": "December 14-18, 2026",
+    "startDate": "2026-12-14T00:00:00",
+    "endDate": "2026-12-18T00:00:00"
+  },
+  {
     "title": "CICAI",
     "sub": "AI",
     "ccfRank": "N",
@@ -3958,6 +3969,17 @@
     "dateString": "May 31-June 5, 2026",
     "startDate": "2026-05-31T00:00:00",
     "endDate": "2026-06-05T00:00:00"
+  },
+  {
+    "title": "SIGMOD",
+    "sub": "DB",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://2027.sigmod.org/",
+    "place": "Huntington Beach, CA, USA",
+    "dateString": "June 13-19, 2027",
+    "startDate": "2027-06-13T00:00:00",
+    "endDate": "2027-06-19T00:00:00"
   },
   {
     "title": "ECIR",
