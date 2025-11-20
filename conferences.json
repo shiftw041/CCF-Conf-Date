@@ -1848,6 +1848,17 @@
     "endDate": "2025-11-27T00:00:00"
   },
   {
+    "title": "BMVC",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://bmvc2026.bmva.org/",
+    "place": "Lancaster, UK",
+    "dateString": "November 23-26, 2026",
+    "startDate": "2026-11-23T00:00:00",
+    "endDate": "2026-11-26T00:00:00"
+  },
+  {
     "title": "IFIP WG 11.9",
     "sub": "SC",
     "ccfRank": "C",
