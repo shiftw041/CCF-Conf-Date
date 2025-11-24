@@ -9188,6 +9188,17 @@
     "title": "ACM SIGGRAPH",
     "sub": "CG",
     "ccfRank": "A",
+    "year": 2026,
+    "link": "https://s2026.siggraph.org/",
+    "place": "Los Angeles, California",
+    "dateString": "July 19 - 23, 2026",
+    "startDate": "2026-07-19T00:00:00",
+    "endDate": "2026-07-23T00:00:00"
+  },
+  {
+    "title": "ACM SIGGRAPH",
+    "sub": "CG",
+    "ccfRank": "A",
     "year": 2025,
     "link": "https://s2025.siggraph.org/",
     "place": "Vancouver, BC, Canada",
