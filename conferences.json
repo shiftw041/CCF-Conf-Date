@@ -1067,6 +1067,17 @@
     "endDate": "2025-06-25T00:00:00"
   },
   {
+    "title": "RSS",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2026,
+    "link": "https://roboticsconference.org",
+    "place": "Sydney, Australia",
+    "dateString": "July 13-17, 2026",
+    "startDate": "2026-07-13T00:00:00",
+    "endDate": "2026-07-17T00:00:00"
+  },
+  {
     "title": "NLPCC",
     "sub": "AI",
     "ccfRank": "C",
@@ -1219,6 +1230,17 @@
     "dateString": "November 11-17, 2025",
     "startDate": "2025-11-11T00:00:00",
     "endDate": "2025-11-17T00:00:00"
+  },
+  {
+    "title": "KR",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://kr.org/KR2026/",
+    "place": "Lisbon, Portugal",
+    "dateString": "July 20-23, 2026",
+    "startDate": "2026-07-20T00:00:00",
+    "endDate": "2026-07-23T00:00:00"
   },
   {
     "title": "ICML",
@@ -1923,6 +1945,17 @@
     "dateString": "August 17-21, 2025",
     "startDate": "2025-08-17T00:00:00",
     "endDate": "2025-08-21T00:00:00"
+  },
+  {
+    "title": "CRYPTO",
+    "sub": "SC",
+    "ccfRank": "A",
+    "year": 2026,
+    "link": "https://crypto.iacr.org/2026/",
+    "place": "Santa Barbara, USA",
+    "dateString": "August 17-20, 2026",
+    "startDate": "2026-08-17T00:00:00",
+    "endDate": "2026-08-20T00:00:00"
   },
   {
     "title": "CT-RSA",
@@ -4180,6 +4213,17 @@
     "endDate": "2025-11-06T00:00:00"
   },
   {
+    "title": "ISWC",
+    "sub": "DB",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://iswc2026.semanticweb.org/",
+    "place": "Bari, Italy",
+    "dateString": "October 25-29, 2026",
+    "startDate": "2026-10-25T00:00:00",
+    "endDate": "2026-10-29T00:00:00"
+  },
+  {
     "title": "CIDR",
     "sub": "DB",
     "ccfRank": "B",
@@ -4299,6 +4343,17 @@
     "dateString": "July 13-18, 2025",
     "startDate": "2025-07-13T00:00:00",
     "endDate": "2025-07-18T00:00:00"
+  },
+  {
+    "title": "SIGIR",
+    "sub": "DB",
+    "ccfRank": "A",
+    "year": 2026,
+    "link": "https://sigir2026.org/en-AU",
+    "place": "Melbourne, Australia",
+    "dateString": "July 20-24, 2026",
+    "startDate": "2026-07-20T00:00:00",
+    "endDate": "2026-07-24T00:00:00"
   },
   {
     "title": "SIGKDD",
@@ -4607,6 +4662,17 @@
     "dateString": "June 17-21, 2024",
     "startDate": "2024-06-17T00:00:00",
     "endDate": "2024-06-21T00:00:00"
+  },
+  {
+    "title": "FORTE",
+    "sub": "NW",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.discotec.org/2026/forte",
+    "place": "Urbino, Italy",
+    "dateString": "June 8-12, 2026",
+    "startDate": "2026-06-08T00:00:00",
+    "endDate": "2026-06-12T00:00:00"
   },
   {
     "title": "APNet",
@@ -6347,6 +6413,17 @@
     "endDate": "2025-09-11T00:00:00"
   },
   {
+    "title": "ICPP",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://icpp2026.github.io/",
+    "place": "Singapore",
+    "dateString": "September 28-October 1, 2026",
+    "startDate": "2026-09-28T00:00:00",
+    "endDate": "2026-10-01T00:00:00"
+  },
+  {
     "title": "DAC",
     "sub": "DS",
     "ccfRank": "A",
@@ -7887,6 +7964,17 @@
     "endDate": "2025-08-15T00:00:00"
   },
   {
+    "title": "CP",
+    "sub": "SE",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://cp2026.a4cp.org/",
+    "place": "Lisbon, Portugal",
+    "dateString": "July 20-23, 2026",
+    "startDate": "2026-07-20T00:00:00",
+    "endDate": "2026-07-23T00:00:00"
+  },
+  {
     "title": "RV",
     "sub": "SE",
     "ccfRank": "C",
@@ -8237,6 +8325,17 @@
     "dateString": "November 16 - November 20, 2025",
     "startDate": "2025-11-16T00:00:00",
     "endDate": "2025-11-20T00:00:00"
+  },
+  {
+    "title": "ASE",
+    "sub": "SE",
+    "ccfRank": "A",
+    "year": 2026,
+    "link": "https://conf.researchr.org/home/ase-2026",
+    "place": "Munich, Germany",
+    "dateString": "October 12 - 16, 2026",
+    "startDate": "2026-10-12T00:00:00",
+    "endDate": "2026-10-16T00:00:00"
   },
   {
     "title": "ISSTA",
@@ -8710,6 +8809,17 @@
     "dateString": "Sep 28 - Oct 1, 2025",
     "startDate": "2025-09-28T00:00:00",
     "endDate": "2025-10-01T00:00:00"
+  },
+  {
+    "title": "UIST",
+    "sub": "HI",
+    "ccfRank": "A",
+    "year": 2026,
+    "link": "https://uist.acm.org/2026/",
+    "place": "GM Renaissance Center, Detroit, MI, USA",
+    "dateString": "November 2 - 5, 2026",
+    "startDate": "2026-11-02T00:00:00",
+    "endDate": "2026-11-05T00:00:00"
   },
   {
     "title": "UIC",
@@ -9601,6 +9711,17 @@
     "dateString": "September 27 - October 1, 2026",
     "startDate": "2026-09-27T00:00:00",
     "endDate": "2026-10-01T00:00:00"
+  },
+  {
+    "title": "ACM SIGGRAPH ASIA",
+    "sub": "CG",
+    "ccfRank": "A",
+    "year": 2026,
+    "link": "https://asia.siggraph.org/2026/",
+    "place": "KLCC, Kuala Lumpur, Malaysia",
+    "dateString": "December 1-4, 2026",
+    "startDate": "2026-12-01T00:00:00",
+    "endDate": "2026-12-04T00:00:00"
   },
   {
     "title": "ACM SIGGRAPH ASIA",
