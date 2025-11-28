@@ -2173,9 +2173,9 @@
     "year": 2026,
     "link": "https://asiaccs2026.cse.iitkgp.ac.in/",
     "place": "Bangalore, India",
-    "dateString": "June 1-6, 2026",
+    "dateString": "June 1-5, 2026",
     "startDate": "2026-06-01T00:00:00",
-    "endDate": "2026-06-06T00:00:00"
+    "endDate": "2026-06-05T00:00:00"
   },
   {
     "title": "SRDS",
@@ -2305,9 +2305,9 @@
     "year": 2025,
     "link": "https://www.acsac.org/",
     "place": "Honolulu, Hawaii, USA",
-    "dateString": "December 9-13, 2025",
-    "startDate": "2025-12-09T00:00:00",
-    "endDate": "2025-12-13T00:00:00"
+    "dateString": "December 8-12, 2025",
+    "startDate": "2025-12-08T00:00:00",
+    "endDate": "2025-12-12T00:00:00"
   },
   {
     "title": "IH&MMSec",
