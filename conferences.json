@@ -4785,6 +4785,17 @@
     "endDate": "2025-06-26T00:00:00"
   },
   {
+    "title": "WASA",
+    "sub": "NW",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "http://wasa-conference.org/WASA2026/",
+    "place": "Xi'an, China",
+    "dateString": "July 6-9, 2026",
+    "startDate": "2026-07-06T00:00:00",
+    "endDate": "2026-07-09T00:00:00"
+  },
+  {
     "title": "NSDI",
     "sub": "NW",
     "ccfRank": "A",
