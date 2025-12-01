@@ -9592,6 +9592,17 @@
     "endDate": "2025-07-03T00:00:00"
   },
   {
+    "title": "ICMR",
+    "sub": "CG",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://icmr2026.org/calls.html",
+    "place": "Amsterdam, Netherlands",
+    "dateString": "June 16-19, 2026",
+    "startDate": "2026-06-16T00:00:00",
+    "endDate": "2026-06-19T00:00:00"
+  },
+  {
     "title": "ACM MM",
     "sub": "CG",
     "ccfRank": "A",
