@@ -2343,6 +2343,17 @@
     "endDate": "2025-06-20T00:00:00"
   },
   {
+    "title": "IH&MMSec",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.ihmmsec.org/cms/home/home2026.html",
+    "place": "Florence, Italy",
+    "dateString": "June 17-19, 2026",
+    "startDate": "2026-06-17T00:00:00",
+    "endDate": "2026-06-19T00:00:00"
+  },
+  {
     "title": "ICICS",
     "sub": "SC",
     "ccfRank": "C",
