@@ -4972,6 +4972,17 @@
     "endDate": "2025-09-25T00:00:00"
   },
   {
+    "title": "SECON",
+    "sub": "NW",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://secon2026.ieee-secon.org/important-dates",
+    "place": "Abu Dhabi, UAE",
+    "dateString": "April 27-29, 2026",
+    "startDate": "2026-04-27T00:00:00",
+    "endDate": "2026-04-29T00:00:00"
+  },
+  {
     "title": "INFOCOM",
     "sub": "NW",
     "ccfRank": "A",
@@ -5564,6 +5575,17 @@
     "dateString": "November 16-21, 2025",
     "startDate": "2025-11-16T00:00:00",
     "endDate": "2025-11-21T00:00:00"
+  },
+  {
+    "title": "SC",
+    "sub": "DS",
+    "ccfRank": "A",
+    "year": 2026,
+    "link": "https://sc26.supercomputing.org/",
+    "place": "McCormick Place, Chicago, Illinois, USA",
+    "dateString": "November 15-20, 2026",
+    "startDate": "2026-11-15T00:00:00",
+    "endDate": "2026-11-20T00:00:00"
   },
   {
     "title": "FCCM",
@@ -6941,6 +6963,17 @@
     "endDate": "2025-12-05T00:00:00"
   },
   {
+    "title": "RTSS",
+    "sub": "MX",
+    "ccfRank": "A",
+    "year": 2026,
+    "link": "http://2026.rtss.org/",
+    "place": "Yokohama, Japan",
+    "dateString": "December 9-11, 2026",
+    "startDate": "2026-12-09T00:00:00",
+    "endDate": "2026-12-11T00:00:00"
+  },
+  {
     "title": "ICIC",
     "sub": "MX",
     "ccfRank": "C",
@@ -7225,6 +7258,17 @@
     "dateString": "October 13 - 16, 2025",
     "startDate": "2025-10-13T00:00:00",
     "endDate": "2025-10-16T00:00:00"
+  },
+  {
+    "title": "SOSP",
+    "sub": "SE",
+    "ccfRank": "A",
+    "year": 2026,
+    "link": "https://sigops.org/s/conferences/sosp/2026/index.html",
+    "place": "Clarion Congress Hotel Prague, Prague, Czechia",
+    "dateString": "September 29 - October 2, 2026",
+    "startDate": "2026-09-29T00:00:00",
+    "endDate": "2026-10-02T00:00:00"
   },
   {
     "title": "ICSOC",
@@ -9106,6 +9150,17 @@
     "dateString": "Oct 8-12, 2025",
     "startDate": "2025-10-08T00:00:00",
     "endDate": "2025-10-12T00:00:00"
+  },
+  {
+    "title": "ISMAR",
+    "sub": "CG",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://www.ieeeismar.net/2026/",
+    "place": "Bari, Italy",
+    "dateString": "Oct 5-9, 2026",
+    "startDate": "2026-10-05T00:00:00",
+    "endDate": "2026-10-09T00:00:00"
   },
   {
     "title": "MMM",
