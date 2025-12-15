@@ -5368,6 +5368,17 @@
     "endDate": "2026-02-26T00:00:00"
   },
   {
+    "title": "FAST",
+    "sub": "DS",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://www.usenix.org/conference/fast27",
+    "place": "Renton, WA, USA",
+    "dateString": "FEBRUARY 23-25, 2027",
+    "startDate": "2027-02-23T00:00:00",
+    "endDate": "2027-02-25T00:00:00"
+  },
+  {
     "title": "ISCA",
     "sub": "DS",
     "ccfRank": "A",
