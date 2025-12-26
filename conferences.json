@@ -4961,6 +4961,17 @@
     "endDate": "2023-10-06T00:00:00"
   },
   {
+    "title": "ICCCN",
+    "sub": "NW",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "http://www.icccn.org/ICCCN26/",
+    "place": "Honolulu, Hawaii, USA",
+    "dateString": "July 27-30, 2026",
+    "startDate": "2026-07-27T00:00:00",
+    "endDate": "2026-07-30T00:00:00"
+  },
+  {
     "title": "IMC",
     "sub": "NW",
     "ccfRank": "B",
@@ -6776,6 +6787,17 @@
     "endDate": "2025-08-29T00:00:00"
   },
   {
+    "title": "Euro-Par",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://2026.euro-par.org/",
+    "place": "Pisa, Italy",
+    "dateString": "August 24-28, 2026",
+    "startDate": "2026-08-24T00:00:00",
+    "endDate": "2026-08-28T00:00:00"
+  },
+  {
     "title": "BIS",
     "sub": "MX",
     "ccfRank": "N",
@@ -7478,6 +7500,17 @@
     "dateString": "October 12-18, 2025",
     "startDate": "2025-10-12T00:00:00",
     "endDate": "2025-10-18T00:00:00"
+  },
+  {
+    "title": "ICFP",
+    "sub": "SE",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://icfp26.sigplan.org/",
+    "place": "Indiana University Indianapolis, United States",
+    "dateString": "August 24 - 29, 2026",
+    "startDate": "2026-08-24T00:00:00",
+    "endDate": "2026-08-29T00:00:00"
   },
   {
     "title": "ICPC",
