@@ -1309,6 +1309,17 @@
     "endDate": "2025-08-01T00:00:00"
   },
   {
+    "title": "CoNLL",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.conll.org/",
+    "place": "San Diego, California, United States",
+    "dateString": "July 3 - 4, 2026",
+    "startDate": "2026-07-03T00:00:00",
+    "endDate": "2026-07-04T00:00:00"
+  },
+  {
     "title": "ICTAI",
     "sub": "AI",
     "ccfRank": "C",
