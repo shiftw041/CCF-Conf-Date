@@ -1804,6 +1804,17 @@
     "endDate": "2025-11-21T00:00:00"
   },
   {
+    "title": "RuleML+RR",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2026,
+    "link": "https://2026.declarativeai.net/events/ruleml-rr",
+    "place": "Vilnius, Lithuania",
+    "dateString": "August 24-26, 2026",
+    "startDate": "2026-08-24T00:00:00",
+    "endDate": "2026-08-26T00:00:00"
+  },
+  {
     "title": "IJCAI",
     "sub": "AI",
     "ccfRank": "A",
@@ -4785,6 +4796,17 @@
     "endDate": "2025-08-08T00:00:00"
   },
   {
+    "title": "WiCON",
+    "sub": "NW",
+    "ccfRank": "N",
+    "year": 2025,
+    "link": "https://wicon.eai-conferences.org/2025/",
+    "place": "Istanbul, Turkey (Online)",
+    "dateString": "December 19, 2025",
+    "startDate": "2025-12-19T00:00:00",
+    "endDate": "2025-12-19T00:00:00"
+  },
+  {
     "title": "CoNEXT",
     "sub": "NW",
     "ccfRank": "B",
@@ -5355,6 +5377,17 @@
     "dateString": "May 12-14, 2026",
     "startDate": "2026-05-12T00:00:00",
     "endDate": "2026-05-14T00:00:00"
+  },
+  {
+    "title": "ASAP",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://2026.asap-conf.org/",
+    "place": "London, UK",
+    "dateString": "September 3-4, 2026",
+    "startDate": "2026-09-03T00:00:00",
+    "endDate": "2026-09-04T00:00:00"
   },
   {
     "title": "DCC",
