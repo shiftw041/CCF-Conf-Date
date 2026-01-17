@@ -2442,6 +2442,17 @@
     "endDate": "2025-10-31T00:00:00"
   },
   {
+    "title": "ICICS",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://sulab-sever.u-aizu.ac.jp/icics2026/cfp.html",
+    "place": "Fukui, Japan",
+    "dateString": "October 27-30, 2026",
+    "startDate": "2026-10-27T00:00:00",
+    "endDate": "2026-10-30T00:00:00"
+  },
+  {
     "title": "USENIX Security",
     "sub": "SC",
     "ccfRank": "A",
@@ -3056,6 +3067,17 @@
     "dateString": "August 10-12, 2025",
     "startDate": "2025-08-10T00:00:00",
     "endDate": "2025-08-12T00:00:00"
+  },
+  {
+    "title": "SOUPS",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://soups.page/",
+    "place": "Hannover, Germany",
+    "dateString": "August 23-26, 2026",
+    "startDate": "2026-08-23T00:00:00",
+    "endDate": "2026-08-26T00:00:00"
   },
   {
     "title": "SATML",
@@ -5102,6 +5124,17 @@
     "dateString": "September 22-25, 2025",
     "startDate": "2025-09-22T00:00:00",
     "endDate": "2025-09-25T00:00:00"
+  },
+  {
+    "title": "ICNP",
+    "sub": "NW",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://icnp26.cs.ucr.edu/",
+    "place": "Tempe, Arizona, USA",
+    "dateString": "October 5-8, 2026",
+    "startDate": "2026-10-05T00:00:00",
+    "endDate": "2026-10-08T00:00:00"
   },
   {
     "title": "SECON",
