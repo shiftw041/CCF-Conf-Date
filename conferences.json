@@ -4369,7 +4369,7 @@
   {
     "title": "EUSIPCO",
     "sub": "SE",
-    "ccfRank": "B",
+    "ccfRank": "N",
     "year": 2024,
     "link": "https://eusipcolyon.sciencesconf.org/",
     "place": "LYON, FRANCE",
@@ -4380,7 +4380,7 @@
   {
     "title": "EUSIPCO",
     "sub": "SE",
-    "ccfRank": "B",
+    "ccfRank": "N",
     "year": 2025,
     "link": "https://eusipco2025.org/",
     "place": "Isola delle Femmine, Palermo, Italy",
@@ -4391,7 +4391,7 @@
   {
     "title": "EUSIPCO",
     "sub": "SE",
-    "ccfRank": "B",
+    "ccfRank": "N",
     "year": 2026,
     "link": "https://eusipco2026.org/",
     "place": "Bruges, Belgium",
@@ -9095,6 +9095,17 @@
     "dateString": "Oct 5 - 9, 2026",
     "startDate": "2026-10-05T00:00:00",
     "endDate": "2026-10-09T00:00:00"
+  },
+  {
+    "title": "UbiComp/ISWC",
+    "sub": "HI",
+    "ccfRank": "A",
+    "year": 2026,
+    "link": "https://www.ubicomp.org/ubicomp-iswc-2026",
+    "place": "Shanghai, China",
+    "dateString": "October 11-15, 2026",
+    "startDate": "2026-10-11T00:00:00",
+    "endDate": "2026-10-15T00:00:00"
   },
   {
     "title": "UbiComp/ISWC",
