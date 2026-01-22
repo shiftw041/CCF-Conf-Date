@@ -946,6 +946,17 @@
     "endDate": "2025-10-25T00:00:00"
   },
   {
+    "title": "IROS",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://2026.ieee-iros.org/",
+    "place": "Pittsburgh, PA, USA",
+    "dateString": "September 27 - October 1, 2026",
+    "startDate": "2026-09-27T00:00:00",
+    "endDate": "2026-10-01T00:00:00"
+  },
+  {
     "title": "ICLR",
     "sub": "AI",
     "ccfRank": "N",
