@@ -6875,6 +6875,28 @@
     "endDate": "2026-05-27T00:00:00"
   },
   {
+    "title": "HPDC",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2025,
+    "link": "https://hpdc.sci.utah.edu/2025/",
+    "place": "Notre Dame, IN, USA",
+    "dateString": "July 20-23, 2025",
+    "startDate": "2025-07-20T00:00:00",
+    "endDate": "2025-07-23T00:00:00"
+  },
+  {
+    "title": "HPDC",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://hpdc.sci.utah.edu/2026/",
+    "place": "Cleveland, OH, USA",
+    "dateString": "July 13-16, 2026",
+    "startDate": "2026-07-13T00:00:00",
+    "endDate": "2026-07-16T00:00:00"
+  },
+  {
     "title": "Euro-Par",
     "sub": "DS",
     "ccfRank": "B",
@@ -7368,6 +7390,17 @@
     "dateString": "October 5-8, 2025",
     "startDate": "2025-10-05T00:00:00",
     "endDate": "2025-10-08T00:00:00"
+  },
+  {
+    "title": "SMC",
+    "sub": "MX",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.ieeesmc2026.org/",
+    "place": "Bellevue, WA, USA",
+    "dateString": "October 4-7, 2026",
+    "startDate": "2026-10-04T00:00:00",
+    "endDate": "2026-10-07T00:00:00"
   },
   {
     "title": "BIBM",
