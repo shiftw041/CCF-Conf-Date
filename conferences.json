@@ -5885,6 +5885,17 @@
     "endDate": "2025-07-02T00:00:00"
   },
   {
+    "title": "GLSVLSI",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.glsvlsi.org/",
+    "place": "Finger Lakes, NY, USA",
+    "dateString": "June 22-24, 2026",
+    "startDate": "2026-06-22T00:00:00",
+    "endDate": "2026-06-24T00:00:00"
+  },
+  {
     "title": "MSST",
     "sub": "DS",
     "ccfRank": "B",
@@ -6103,6 +6114,17 @@
     "dateString": "October 26 - 30, 2025",
     "startDate": "2025-10-26T00:00:00",
     "endDate": "2025-10-30T00:00:00"
+  },
+  {
+    "title": "ICCAD",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://iccad.com/2026",
+    "place": "San Jose, California, USA",
+    "dateString": "November 8 - 12, 2026",
+    "startDate": "2026-11-08T00:00:00",
+    "endDate": "2026-11-12T00:00:00"
   },
   {
     "title": "ICCD",
