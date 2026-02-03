@@ -5720,6 +5720,17 @@
     "endDate": "2025-10-22T00:00:00"
   },
   {
+    "title": "MICRO",
+    "sub": "DS",
+    "ccfRank": "A",
+    "year": 2026,
+    "link": "https://microarch.org/micro59/",
+    "place": "Athens, Greece",
+    "dateString": "October 31-November 4, 2026",
+    "startDate": "2026-10-31T00:00:00",
+    "endDate": "2026-11-04T00:00:00"
+  },
+  {
     "title": "NETYS",
     "sub": "DS",
     "ccfRank": "N",
