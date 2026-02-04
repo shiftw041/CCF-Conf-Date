@@ -1573,6 +1573,17 @@
     "endDate": "2025-07-25T00:00:00"
   },
   {
+    "title": "UAI",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://www.auai.org/uai2026/",
+    "place": "Amsterdam, Netherlands",
+    "dateString": "August 17-21, 2026",
+    "startDate": "2026-08-17T00:00:00",
+    "endDate": "2026-08-21T00:00:00"
+  },
+  {
     "title": "COLT",
     "sub": "AI",
     "ccfRank": "B",
