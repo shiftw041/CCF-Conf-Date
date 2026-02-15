@@ -1507,6 +1507,17 @@
     "endDate": "2026-05-06T00:00:00"
   },
   {
+    "title": "NSDI",
+    "sub": "NW",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://www.usenix.org/conference/nsdi27",
+    "place": "Providence, RI, USA",
+    "dateString": "May 11-13, 2027",
+    "startDate": "2027-05-11T00:00:00",
+    "endDate": "2027-05-13T00:00:00"
+  },
+  {
     "title": "MSN",
     "sub": "NW",
     "ccfRank": "C",
@@ -8435,6 +8446,17 @@
     "dateString": "August 15-21, 2026",
     "startDate": "2026-08-15T00:00:00",
     "endDate": "2026-08-21T00:00:00"
+  },
+  {
+    "title": "ProbML",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2026,
+    "link": "https://probml.cc",
+    "place": "Seoul, South Korea",
+    "dateString": "July 5, 2026",
+    "startDate": "2026-07-05T00:00:00",
+    "endDate": "2026-07-05T00:00:00"
   },
   {
     "title": "CoNLL",
