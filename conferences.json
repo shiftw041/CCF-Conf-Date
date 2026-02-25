@@ -1507,6 +1507,17 @@
     "endDate": "2026-01-27T00:00:00"
   },
   {
+    "title": "AAAI",
+    "sub": "AI",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://aaai.org/conference/aaai/aaai-27/",
+    "place": "Montréal, Québec, Canada",
+    "dateString": "February 16-23, 2027",
+    "startDate": "2027-02-16T00:00:00",
+    "endDate": "2027-02-23T00:00:00"
+  },
+  {
     "title": "EMNLP",
     "sub": "AI",
     "ccfRank": "B",
