@@ -212,6 +212,17 @@
     "title": "Internetware",
     "sub": "SE",
     "ccfRank": "C",
+    "year": 2026,
+    "link": "https://conf.researchr.org/home/internetware-2026",
+    "place": "Gold Coast, Australia",
+    "dateString": "July 18-20, 2026",
+    "startDate": "2026-07-18T00:00:00",
+    "endDate": "2026-07-20T00:00:00"
+  },
+  {
+    "title": "Internetware",
+    "sub": "SE",
+    "ccfRank": "C",
     "year": 2025,
     "link": "https://conf.researchr.org/home/internetware-2025",
     "place": "Trondheim, Norway",
