@@ -8833,6 +8833,17 @@
     "endDate": "2025-09-30T00:00:00"
   },
   {
+    "title": "CoRL",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2026,
+    "link": "https://www.corl.org/",
+    "place": "Austin, Texas, USA",
+    "dateString": "November 10-12, 2026",
+    "startDate": "2026-11-10T00:00:00",
+    "endDate": "2026-11-12T00:00:00"
+  },
+  {
     "title": "NAACL",
     "sub": "AI",
     "ccfRank": "B",
