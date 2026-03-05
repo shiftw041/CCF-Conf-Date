@@ -209,6 +209,17 @@
     "endDate": "2026-04-18T00:00:00"
   },
   {
+    "title": "ICSE",
+    "sub": "SE",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://conf.researchr.org/home/icse-2027",
+    "place": "Dublin, Ireland",
+    "dateString": "April 25-May 01, 2027",
+    "startDate": "2027-04-25T00:00:00",
+    "endDate": "2027-05-01T00:00:00"
+  },
+  {
     "title": "Internetware",
     "sub": "SE",
     "ccfRank": "C",
