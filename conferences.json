@@ -3379,7 +3379,7 @@
   {
     "title": "ICVRV",
     "sub": "CG",
-    "ccfRank": "C",
+    "ccfRank": "N",
     "year": 2025,
     "link": "https://icvrv2025.aconf.org/",
     "place": "Bogota, Colombia",
@@ -4057,6 +4057,17 @@
     "dateString": "October 30- November 2, 2025",
     "startDate": "2025-11-02T00:00:00",
     "endDate": "2025-11-02T00:00:00"
+  },
+  {
+    "title": "ITC",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://www.itctestweek.org/",
+    "place": "Grand Hyatt San Antonio Riverwalk, TX, USA",
+    "dateString": "October 11-16, 2026",
+    "startDate": "2026-10-11T00:00:00",
+    "endDate": "2026-10-16T00:00:00"
   },
   {
     "title": "IISWC",
@@ -5245,6 +5256,17 @@
     "dateString": "June 17-21, 2024",
     "startDate": "2024-06-17T00:00:00",
     "endDate": "2024-06-21T00:00:00"
+  },
+  {
+    "title": "ITC-Asia",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.castest.com.cn/itcasia_2026",
+    "place": "Ningbo International Conference Center, Ningbo, China",
+    "dateString": "August 19-21, 2026",
+    "startDate": "2026-08-19T00:00:00",
+    "endDate": "2026-08-21T00:00:00"
   },
   {
     "title": "SACMAT",
@@ -7216,6 +7238,17 @@
     "endDate": "2025-10-10T00:00:00"
   },
   {
+    "title": "FMCAD",
+    "sub": "CT",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://fmcad.forsyte.at/FMCAD26/",
+    "place": "Graz, Austria",
+    "dateString": "Sep. 14-18, 2026",
+    "startDate": "2026-09-14T00:00:00",
+    "endDate": "2026-09-18T00:00:00"
+  },
+  {
     "title": "ICALP",
     "sub": "CT",
     "ccfRank": "B",
@@ -7258,6 +7291,17 @@
     "dateString": "June 2-5, 2026",
     "startDate": "2026-06-02T00:00:00",
     "endDate": "2026-06-05T00:00:00"
+  },
+  {
+    "title": "SAT",
+    "sub": "CT",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://satisfiability.org/SAT26/",
+    "place": "Lisbon, Portugal",
+    "dateString": "July 20 - July 23, 2026",
+    "startDate": "2026-07-20T00:00:00",
+    "endDate": "2026-07-23T00:00:00"
   },
   {
     "title": "SETTA",
