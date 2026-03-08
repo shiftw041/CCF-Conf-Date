@@ -390,7 +390,7 @@
     "ccfRank": "B",
     "year": 2023,
     "link": "https://conferences.computer.org/icws/2023/",
-    "place": "CHICAGO, ILLINOIS USA",
+    "place": "Chicago, Illinois, USA",
     "dateString": "July 2-8, 2023",
     "startDate": "2023-07-02T00:00:00",
     "endDate": "2023-07-08T00:00:00"
@@ -405,6 +405,17 @@
     "dateString": "July 7-12, 2025",
     "startDate": "2025-07-07T00:00:00",
     "endDate": "2025-07-12T00:00:00"
+  },
+  {
+    "title": "ICWS",
+    "sub": "SE",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://services.conferences.computer.org/2026/icws-2026/",
+    "place": "Sydney, Australia",
+    "dateString": "July 13-18, 2026",
+    "startDate": "2026-07-13T00:00:00",
+    "endDate": "2026-07-18T00:00:00"
   },
   {
     "title": "ICFEM",
@@ -990,6 +1001,28 @@
     "endDate": "2024-10-31T00:00:00"
   },
   {
+    "title": "ISSRE",
+    "sub": "SE",
+    "ccfRank": "B",
+    "year": 2025,
+    "link": "https://issre.github.io/2025/index.html",
+    "place": "São Paulo, Brazil",
+    "dateString": "October 21-24, 2025",
+    "startDate": "2025-10-21T00:00:00",
+    "endDate": "2025-10-24T00:00:00"
+  },
+  {
+    "title": "ISSRE",
+    "sub": "SE",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://cyprusconferences.org/issre2026/",
+    "place": "Limassol, Cyprus",
+    "dateString": "October 20-23, 2026",
+    "startDate": "2026-10-20T00:00:00",
+    "endDate": "2026-10-23T00:00:00"
+  },
+  {
     "title": "PLDI",
     "sub": "SE",
     "ccfRank": "A",
@@ -1274,6 +1307,17 @@
     "dateString": "September 14-18, 2026",
     "startDate": "2026-09-14T00:00:00",
     "endDate": "2026-09-18T00:00:00"
+  },
+  {
+    "title": "ICST",
+    "sub": "SE",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://conf.researchr.org/home/icst-2026",
+    "place": "Daejeon, South Korea",
+    "dateString": "May 18-22, 2026",
+    "startDate": "2026-05-18T00:00:00",
+    "endDate": "2026-05-22T00:00:00"
   },
   {
     "title": "ECOOP",
@@ -7117,6 +7161,17 @@
     "endDate": "2025-12-17T00:00:00"
   },
   {
+    "title": "FOCS",
+    "sub": "CT",
+    "ccfRank": "A",
+    "year": 2026,
+    "link": "https://sanjeevkhanna.org/FOCS2026_CFP.html",
+    "place": "New York City, NY, USA",
+    "dateString": "November 8-11, 2026",
+    "startDate": "2026-11-08T00:00:00",
+    "endDate": "2026-11-11T00:00:00"
+  },
+  {
     "title": "CADE",
     "sub": "CT",
     "ccfRank": "B",
@@ -7172,6 +7227,17 @@
     "endDate": "2025-08-17T00:00:00"
   },
   {
+    "title": "COCOON",
+    "sub": "CT",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://event.ntu.edu.sg/cocoon2026",
+    "place": "Singapore",
+    "dateString": "July 23-25, 2026",
+    "startDate": "2026-07-23T00:00:00",
+    "endDate": "2026-07-25T00:00:00"
+  },
+  {
     "title": "ISIT",
     "sub": "CT",
     "ccfRank": "N",
@@ -7192,6 +7258,28 @@
     "dateString": "Aug 26-29, 2025",
     "startDate": "2025-08-26T00:00:00",
     "endDate": "2025-08-29T00:00:00"
+  },
+  {
+    "title": "CONCUR",
+    "sub": "CT",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://confest-2026.github.io/concur/",
+    "place": "Liverpool, UK",
+    "dateString": "Sep 1-4, 2026",
+    "startDate": "2026-09-01T00:00:00",
+    "endDate": "2026-09-04T00:00:00"
+  },
+  {
+    "title": "IJCAR",
+    "sub": "CT",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://www.floc26.org/ijcar",
+    "place": "Lisbon, Portugal",
+    "dateString": "July 26-29, 2026",
+    "startDate": "2026-07-26T00:00:00",
+    "endDate": "2026-07-29T00:00:00"
   },
   {
     "title": "STOC",
@@ -9832,6 +9920,17 @@
     "dateString": "November 12-15, 2026",
     "startDate": "2026-11-12T00:00:00",
     "endDate": "2026-11-15T00:00:00"
+  },
+  {
+    "title": "WISA",
+    "sub": "DB",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://conf.ccf.org.cn/WISA2026",
+    "place": "Kunming, China",
+    "dateString": "August 07-09, 2026",
+    "startDate": "2026-08-07T00:00:00",
+    "endDate": "2026-08-09T00:00:00"
   },
   {
     "title": "SIGKDD",
