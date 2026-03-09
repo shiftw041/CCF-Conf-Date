@@ -3707,6 +3707,17 @@
     "endDate": "2026-07-10T00:00:00"
   },
   {
+    "title": "ATS",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.ats2026.tw/",
+    "place": "Taiwan",
+    "dateString": "December 1-3, 2026",
+    "startDate": "2026-12-01T00:00:00",
+    "endDate": "2026-12-03T00:00:00"
+  },
+  {
     "title": "IPDPS",
     "sub": "DS",
     "ccfRank": "B",
@@ -4378,6 +4389,17 @@
     "endDate": "2026-04-16T00:00:00"
   },
   {
+    "title": "SEC",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://acm-ieee-sec.org/2026/",
+    "place": "Santa Clara University, CA, USA",
+    "dateString": "Oct 13-16, 2026",
+    "startDate": "2026-10-13T00:00:00",
+    "endDate": "2026-10-16T00:00:00"
+  },
+  {
     "title": "APPT",
     "sub": "DS",
     "ccfRank": "C",
@@ -4552,6 +4574,17 @@
     "dateString": "February 22 - February 24, 2026",
     "startDate": "2026-02-22T00:00:00",
     "endDate": "2026-02-24T00:00:00"
+  },
+  {
+    "title": "HotStorage",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.hotstorage.org/2026/",
+    "place": "Prague, Czechia",
+    "dateString": "September 28-29, 2026",
+    "startDate": "2026-09-28T00:00:00",
+    "endDate": "2026-09-29T00:00:00"
   },
   {
     "title": "USENIX ATC",
@@ -5212,6 +5245,28 @@
     "dateString": "May 20-24, 2024",
     "startDate": "2024-05-20T00:00:00",
     "endDate": "2024-05-24T00:00:00"
+  },
+  {
+    "title": "ETS",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2025,
+    "link": "https://ets2025.taltech.ee/",
+    "place": "Tallinn, Estonia",
+    "dateString": "May 26-30, 2025",
+    "startDate": "2025-05-26T00:00:00",
+    "endDate": "2025-05-30T00:00:00"
+  },
+  {
+    "title": "ETS",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://ets2026.uniwa.gr/",
+    "place": "Chania, Greec",
+    "dateString": "May 25-29, 2026",
+    "startDate": "2026-05-25T00:00:00",
+    "endDate": "2026-05-29T00:00:00"
   },
   {
     "title": "GLSVLSI",
