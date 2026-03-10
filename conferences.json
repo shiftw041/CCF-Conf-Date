@@ -6622,6 +6622,17 @@
     "endDate": "2026-03-25T00:00:00"
   },
   {
+    "title": "BlockSys",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://blocksys.info/2026/",
+    "place": "Chengdu, China",
+    "dateString": "July 29-31, 2026",
+    "startDate": "2026-07-29T00:00:00",
+    "endDate": "2026-07-31T00:00:00"
+  },
+  {
     "title": "SATML",
     "sub": "SC",
     "ccfRank": "N",
@@ -6719,6 +6730,17 @@
     "dateString": "September 22-26, 2025",
     "startDate": "2025-09-22T00:00:00",
     "endDate": "2025-09-26T00:00:00"
+  },
+  {
+    "title": "CSCloud",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.cloud-conf.net/cscloud/2026/cscloud/",
+    "place": "Shanghai, China",
+    "dateString": "December 19-21, 2026",
+    "startDate": "2026-12-19T00:00:00",
+    "endDate": "2026-12-21T00:00:00"
   },
   {
     "title": "NOMS",
@@ -6972,6 +6994,17 @@
     "dateString": "March 24-27, 2026",
     "startDate": "2026-03-24T00:00:00",
     "endDate": "2026-03-27T00:00:00"
+  },
+  {
+    "title": "CODASPY",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.codaspy.org/2026/",
+    "place": "Frankfurt am Main, Germany",
+    "dateString": "June 23-25, 2026",
+    "startDate": "2026-06-23T00:00:00",
+    "endDate": "2026-06-25T00:00:00"
   },
   {
     "title": "TrustCom",
