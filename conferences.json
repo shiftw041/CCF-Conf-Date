@@ -3069,6 +3069,17 @@
     "endDate": "2026-07-03T00:00:00"
   },
   {
+    "title": "CCCG",
+    "sub": "CG",
+    "ccfRank": "N",
+    "year": 2026,
+    "link": "https://sites.google.com/view/cccg-2026/home",
+    "place": "Orillia, Ontario, Canada",
+    "dateString": "August 12-14, 2026",
+    "startDate": "2026-08-12T00:00:00",
+    "endDate": "2026-08-14T00:00:00"
+  },
+  {
     "title": "ACM SIGGRAPH",
     "sub": "CG",
     "ccfRank": "A",
