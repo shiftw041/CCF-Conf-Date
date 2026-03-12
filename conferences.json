@@ -6325,6 +6325,17 @@
     "endDate": "2025-08-27T00:00:00"
   },
   {
+    "title": "NSPW",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.nspw.org/2026",
+    "place": "Victoria, BC, Canada",
+    "dateString": "September 27-30, 2026",
+    "startDate": "2026-09-27T00:00:00",
+    "endDate": "2026-09-30T00:00:00"
+  },
+  {
     "title": "WiSec",
     "sub": "SC",
     "ccfRank": "C",
