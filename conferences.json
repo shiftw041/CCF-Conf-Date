@@ -2838,6 +2838,17 @@
     "endDate": "2026-01-31T00:00:00"
   },
   {
+    "title": "MMM",
+    "sub": "CG",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://www.mmm2027.net/",
+    "place": "Siem Reap, Cambodia",
+    "dateString": "January 5-8, 2027",
+    "startDate": "2027-01-05T00:00:00",
+    "endDate": "2027-01-08T00:00:00"
+  },
+  {
     "title": "SPM",
     "sub": "CG",
     "ccfRank": "B",
@@ -8501,6 +8512,17 @@
     "dateString": "November 20-24, 2025",
     "startDate": "2025-11-20T00:00:00",
     "endDate": "2025-11-24T00:00:00"
+  },
+  {
+    "title": "ICONIP",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.iconip2026.org/",
+    "place": "Melbourne, Australia",
+    "dateString": "November 23-27, 2026",
+    "startDate": "2026-11-23T00:00:00",
+    "endDate": "2026-11-27T00:00:00"
   },
   {
     "title": "ICLR",
