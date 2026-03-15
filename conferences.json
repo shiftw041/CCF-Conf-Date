@@ -770,6 +770,17 @@
     "endDate": "2026-01-17T00:00:00"
   },
   {
+    "title": "POPL",
+    "sub": "SE",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://popl27.sigplan.org/",
+    "place": "Mexico City",
+    "dateString": "January 10-16, 2027",
+    "startDate": "2027-01-10T00:00:00",
+    "endDate": "2027-01-16T00:00:00"
+  },
+  {
     "title": "REFSQ",
     "sub": "SE",
     "ccfRank": "C",
@@ -1804,6 +1815,17 @@
     "endDate": "2025-09-11T00:00:00"
   },
   {
+    "title": "SIGCOMM",
+    "sub": "NW",
+    "ccfRank": "A",
+    "year": 2026,
+    "link": "https://conferences.sigcomm.org/sigcomm/2026/",
+    "place": "Denver, Colorado, USA",
+    "dateString": "August 17 - 21, 2026",
+    "startDate": "2026-08-17T00:00:00",
+    "endDate": "2026-08-21T00:00:00"
+  },
+  {
     "title": "MobiHoc",
     "sub": "NW",
     "ccfRank": "B",
@@ -1813,6 +1835,17 @@
     "dateString": "October 17-22, 2022",
     "startDate": "2022-10-17T00:00:00",
     "endDate": "2022-10-22T00:00:00"
+  },
+  {
+    "title": "MobiHoc",
+    "sub": "NW",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://www.sigmobile.org/mobihoc/2026/",
+    "place": "Tokyo, Japan",
+    "dateString": "November 23-26, 2026",
+    "startDate": "2026-11-23T00:00:00",
+    "endDate": "2026-11-26T00:00:00"
   },
   {
     "title": "APNet",
@@ -1978,6 +2011,17 @@
     "dateString": "March 31- April 3, 2025",
     "startDate": "2025-04-03T00:00:00",
     "endDate": "2025-04-03T00:00:00"
+  },
+  {
+    "title": "NOSSDAV",
+    "sub": "NW",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://nossdav.org/2026/",
+    "place": "Hong Kong, China",
+    "dateString": "April 8, 2026",
+    "startDate": "2026-04-08T00:00:00",
+    "endDate": "2026-04-08T00:00:00"
   },
   {
     "title": "WiCON",
@@ -2332,6 +2376,17 @@
     "endDate": "2025-11-06T00:00:00"
   },
   {
+    "title": "SIGSPATIAL",
+    "sub": "MX",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://sigspatial2026.sigspatial.org/",
+    "place": "Riverside, CA, USA",
+    "dateString": "November 3-6, 2026",
+    "startDate": "2026-11-03T00:00:00",
+    "endDate": "2026-11-06T00:00:00"
+  },
+  {
     "title": "CogSci",
     "sub": "MX",
     "ccfRank": "B",
@@ -2385,6 +2440,17 @@
     "dateString": "September 28 - October 3, 2025",
     "startDate": "2025-09-28T00:00:00",
     "endDate": "2025-10-03T00:00:00"
+  },
+  {
+    "title": "EMSOFT",
+    "sub": "MX",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://esweek.org/emsoft/",
+    "place": "Barcelona, Spain",
+    "dateString": "October 4 - 9, 2026",
+    "startDate": "2026-10-04T00:00:00",
+    "endDate": "2026-10-09T00:00:00"
   },
   {
     "title": "BIS",
@@ -2594,6 +2660,17 @@
     "dateString": "September 19-22, 2025",
     "startDate": "2025-09-19T00:00:00",
     "endDate": "2025-09-22T00:00:00"
+  },
+  {
+    "title": "APBC",
+    "sub": "MX",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.apbc2026.com/home",
+    "place": "Hsinchu, Taiwan， China",
+    "dateString": "October 21-24, 2026",
+    "startDate": "2026-10-21T00:00:00",
+    "endDate": "2026-10-24T00:00:00"
   },
   {
     "title": "ISBRA",
@@ -3386,6 +3463,17 @@
     "dateString": "August 8-10, 2025",
     "startDate": "2025-08-08T00:00:00",
     "endDate": "2025-08-10T00:00:00"
+  },
+  {
+    "title": "SCA",
+    "sub": "CG",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://computeranimation.org/",
+    "place": "Barcelona, Spain",
+    "dateString": "July 8-10, 2026",
+    "startDate": "2026-07-08T00:00:00",
+    "endDate": "2026-07-10T00:00:00"
   },
   {
     "title": "InterSpeech",
@@ -4664,6 +4752,17 @@
     "endDate": "2025-07-09T00:00:00"
   },
   {
+    "title": "USENIX ATC",
+    "sub": "DS",
+    "ccfRank": "A",
+    "year": 2026,
+    "link": "https://sigops.org/s/conferences/atc/2026/index.html",
+    "place": "Hyatt Hotel, Shatin, Hong Kong, China",
+    "dateString": "November 15-18, 2026",
+    "startDate": "2026-11-15T00:00:00",
+    "endDate": "2026-11-18T00:00:00"
+  },
+  {
     "title": "MSST",
     "sub": "DS",
     "ccfRank": "B",
@@ -4884,6 +4983,17 @@
     "endDate": "2026-05-21T00:00:00"
   },
   {
+    "title": "JCC",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2025,
+    "link": "https://jointcloud.cloud",
+    "place": "Tokyo, Japan",
+    "dateString": "Jul 27-30, 2026",
+    "startDate": "2026-07-27T00:00:00",
+    "endDate": "2026-07-30T00:00:00"
+  },
+  {
     "title": "ICS",
     "sub": "DS",
     "ccfRank": "B",
@@ -5080,6 +5190,17 @@
     "dateString": "August 24-26, 2025",
     "startDate": "2025-08-24T00:00:00",
     "endDate": "2025-08-26T00:00:00"
+  },
+  {
+    "title": "Hot Chips",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://www.hotchips.org/",
+    "place": "Memorial Auditorium, Stanford, Palo Alto, CA",
+    "dateString": "August 23-25, 2026",
+    "startDate": "2026-08-23T00:00:00",
+    "endDate": "2026-08-25T00:00:00"
   },
   {
     "title": "ICPP",
@@ -5608,6 +5729,17 @@
     "dateString": "September 29-October 2, 2025",
     "startDate": "2025-09-29T00:00:00",
     "endDate": "2025-10-02T00:00:00"
+  },
+  {
+    "title": "SRDS",
+    "sub": "SC",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://srds-conference.org/",
+    "place": "Rome, Italy",
+    "dateString": "September 21-25, 2026",
+    "startDate": "2026-09-21T00:00:00",
+    "endDate": "2026-09-25T00:00:00"
   },
   {
     "title": "ICDF2C",
@@ -7260,6 +7392,17 @@
     "endDate": "2026-01-14T00:00:00"
   },
   {
+    "title": "SODA",
+    "sub": "CT",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://www.siam.org/conferences-events/siam-conferences/soda27/",
+    "place": "Philadelphia, Pennsylvania, USA",
+    "dateString": "January 24-27, 2027",
+    "startDate": "2027-01-24T00:00:00",
+    "endDate": "2027-01-27T00:00:00"
+  },
+  {
     "title": "FOCS",
     "sub": "CT",
     "ccfRank": "A",
@@ -8041,15 +8184,26 @@
     "endDate": "2026-12-06T00:00:00"
   },
   {
-    "title": "CEC",
+    "title": "IEEE CEC",
     "sub": "AI",
-    "ccfRank": "N",
+    "ccfRank": "C",
     "year": 2025,
     "link": "https://www.cec2025.org/",
     "place": "Hangzhou, China",
     "dateString": "June 8-12, 2025",
     "startDate": "2025-06-08T00:00:00",
     "endDate": "2025-06-12T00:00:00"
+  },
+  {
+    "title": "IEEE CEC",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://attend.ieee.org/wcci-2026/ieee-cec-2025/",
+    "place": "Maastricht Exhibition & Congress Centre (MECC), The Netherlands",
+    "dateString": "June 22-26, 2026",
+    "startDate": "2026-06-22T00:00:00",
+    "endDate": "2026-06-26T00:00:00"
   },
   {
     "title": "PPSN",
@@ -9559,6 +9713,17 @@
     "endDate": "2025-01-15T00:00:00"
   },
   {
+    "title": "GROUP",
+    "sub": "HI",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://group.acm.org/conferences/group27/",
+    "place": "St Simons Island, Georgia, USA",
+    "dateString": "January 10-13, 2027",
+    "startDate": "2027-01-10T00:00:00",
+    "endDate": "2027-01-13T00:00:00"
+  },
+  {
     "title": "ASSETS",
     "sub": "HI",
     "ccfRank": "C",
@@ -10261,6 +10426,17 @@
     "dateString": "November 10-14, 2025",
     "startDate": "2025-11-10T00:00:00",
     "endDate": "2025-11-14T00:00:00"
+  },
+  {
+    "title": "CIKM",
+    "sub": "DB",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://cikm2026.diag.uniroma1.it/",
+    "place": "Rome, Italy",
+    "dateString": "November 7-11, 2026",
+    "startDate": "2026-11-07T00:00:00",
+    "endDate": "2026-11-11T00:00:00"
   },
   {
     "title": "SIGIR",
