@@ -968,6 +968,17 @@
     "endDate": "2025-09-12T00:00:00"
   },
   {
+    "title": "SCAM",
+    "sub": "SE",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://conf.researchr.org/home/scam-2026",
+    "place": "Benevento, Italy",
+    "dateString": "September 14-15, 2026",
+    "startDate": "2026-09-14T00:00:00",
+    "endDate": "2026-09-15T00:00:00"
+  },
+  {
     "title": "HotOS",
     "sub": "SE",
     "ccfRank": "B",
@@ -1461,6 +1472,17 @@
     "dateString": "September 4-8, 2023",
     "startDate": "2023-09-04T00:00:00",
     "endDate": "2023-09-08T00:00:00"
+  },
+  {
+    "title": "RE",
+    "sub": "SE",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://conf.researchr.org/home/RE-2026",
+    "place": "Montreal, Canada",
+    "dateString": "August 17-21, 2026",
+    "startDate": "2026-08-17T00:00:00",
+    "endDate": "2026-08-21T00:00:00"
   },
   {
     "title": "TASE",
@@ -7865,6 +7887,17 @@
     "endDate": "2021-11-03T00:00:00"
   },
   {
+    "title": "ICTAI",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://ictai.computer.org/2026/",
+    "place": "Boca Raton FL, USA",
+    "dateString": "November 02-04, 2026",
+    "startDate": "2026-11-02T00:00:00",
+    "endDate": "2026-11-04T00:00:00"
+  },
+  {
     "title": "EMNLP",
     "sub": "AI",
     "ccfRank": "B",
@@ -8118,6 +8151,17 @@
     "endDate": "2025-07-04T00:00:00"
   },
   {
+    "title": "COLT",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://learningtheory.org/colt2026/",
+    "place": "San Diego, California",
+    "dateString": "June 29 - July 3, 2026",
+    "startDate": "2026-06-29T00:00:00",
+    "endDate": "2026-07-03T00:00:00"
+  },
+  {
     "title": "NeurIPS",
     "sub": "AI",
     "ccfRank": "A",
@@ -8259,6 +8303,17 @@
     "dateString": "October 25-30, 2025",
     "startDate": "2025-10-25T00:00:00",
     "endDate": "2025-10-30T00:00:00"
+  },
+  {
+    "title": "DAI",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2025,
+    "link": "https://www.adai.ai/dai/2025/index.html",
+    "place": "London, United Kingdom",
+    "dateString": "November 21-24, 2025",
+    "startDate": "2025-11-21T00:00:00",
+    "endDate": "2025-11-24T00:00:00"
   },
   {
     "title": "IJCNLP",
@@ -9139,6 +9194,17 @@
     "dateString": "August 8-10, 2025",
     "startDate": "2025-08-08T00:00:00",
     "endDate": "2025-08-10T00:00:00"
+  },
+  {
+    "title": "NLPCC",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "http://tcci.ccf.org.cn/conference/2026/",
+    "place": "Macau, China",
+    "dateString": "November 3-5, 2026",
+    "startDate": "2026-11-03T00:00:00",
+    "endDate": "2026-11-05T00:00:00"
   },
   {
     "title": "AISTATS",
@@ -10767,6 +10833,17 @@
     "dateString": "August 28-30, 2025",
     "startDate": "2025-08-28T00:00:00",
     "endDate": "2025-08-30T00:00:00"
+  },
+  {
+    "title": "APWeb-WAIM",
+    "sub": "DB",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://conferences.sigappfr.org/apweb2026/",
+    "place": "Danang, Vietnam",
+    "dateString": "September 7-9, 2026",
+    "startDate": "2026-09-07T00:00:00",
+    "endDate": "2026-09-09T00:00:00"
   },
   {
     "title": "SDM",
