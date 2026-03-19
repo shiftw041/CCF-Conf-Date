@@ -3322,6 +3322,17 @@
     "endDate": "2025-10-19T00:00:00"
   },
   {
+    "title": "PRCV",
+    "sub": "CG",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.prcv.cn/web/#/home",
+    "place": "Harbin, China",
+    "dateString": "Aug 22-25, 2026",
+    "startDate": "2026-08-22T00:00:00",
+    "endDate": "2026-08-25T00:00:00"
+  },
+  {
     "title": "ICASSP",
     "sub": "CG",
     "ccfRank": "B",
