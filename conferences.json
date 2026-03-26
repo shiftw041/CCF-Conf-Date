@@ -5052,7 +5052,7 @@
     "title": "JCC",
     "sub": "DS",
     "ccfRank": "C",
-    "year": 2025,
+    "year": 2026,
     "link": "https://jointcloud.cloud",
     "place": "Tokyo, Japan",
     "dateString": "Jul 27-30, 2026",
@@ -8371,6 +8371,17 @@
     "endDate": "2025-12-24T00:00:00"
   },
   {
+    "title": "IJCNLP",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2026,
+    "link": "https://2026.aaclnet.org/",
+    "place": "Hengqin, China",
+    "dateString": "Nov 6-10, 2026",
+    "startDate": "2026-11-06T00:00:00",
+    "endDate": "2026-11-10T00:00:00"
+  },
+  {
     "title": "ICRA",
     "sub": "AI",
     "ccfRank": "B",
@@ -11064,5 +11075,16 @@
     "dateString": "August 31 - September 4, 2026",
     "startDate": "2026-08-31T00:00:00",
     "endDate": "2026-09-04T00:00:00"
+  },
+  {
+    "title": "VLDB",
+    "sub": "DB",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://www.vldb.org/2027/",
+    "place": "Athens, Greece",
+    "dateString": "August 23 - August 27, 2027",
+    "startDate": "2027-08-23T00:00:00",
+    "endDate": "2027-08-27T00:00:00"
   }
 ]
