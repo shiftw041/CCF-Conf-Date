@@ -2024,6 +2024,17 @@
     "endDate": "2026-03-20T00:00:00"
   },
   {
+    "title": "SANER",
+    "sub": "SE",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://conf.researchr.org/home/saner-2027",
+    "place": "Richmond, Virginia, United States",
+    "dateString": "March 9-12, 2027",
+    "startDate": "2027-03-09T00:00:00",
+    "endDate": "2027-03-12T00:00:00"
+  },
+  {
     "title": "OSDI",
     "sub": "SE",
     "ccfRank": "A",
@@ -2616,6 +2627,17 @@
     "dateString": "April 13-16, 2026",
     "startDate": "2026-04-13T00:00:00",
     "endDate": "2026-04-16T00:00:00"
+  },
+  {
+    "title": "EuroSys",
+    "sub": "DS",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://2027.eurosys.org/",
+    "place": "Rabat, Morocco",
+    "dateString": "April 19-24, 2027",
+    "startDate": "2027-04-19T00:00:00",
+    "endDate": "2027-04-24T00:00:00"
   },
   {
     "title": "FAST",
@@ -3575,6 +3597,17 @@
     "endDate": "2026-01-22T00:00:00"
   },
   {
+    "title": "ASP-DAC",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://www.aspdac.com/aspdac2027/",
+    "place": "Hitotsubashi Hall, Tokyo, Japan",
+    "dateString": "Jan 25-28, 2027",
+    "startDate": "2027-01-25T00:00:00",
+    "endDate": "2027-01-28T00:00:00"
+  },
+  {
     "title": "PDCAT",
     "sub": "DS",
     "ccfRank": "N",
@@ -4147,7 +4180,7 @@
     "endDate": "2025-10-14T00:00:00"
   },
   {
-    "title": "USENIX ATC",
+    "title": "SIGOPS ATC",
     "sub": "DS",
     "ccfRank": "A",
     "year": 2021,
@@ -4158,7 +4191,7 @@
     "endDate": "2021-07-16T00:00:00"
   },
   {
-    "title": "USENIX ATC",
+    "title": "SIGOPS ATC",
     "sub": "DS",
     "ccfRank": "A",
     "year": 2022,
@@ -4169,7 +4202,7 @@
     "endDate": "2022-07-13T00:00:00"
   },
   {
-    "title": "USENIX ATC",
+    "title": "SIGOPS ATC",
     "sub": "DS",
     "ccfRank": "A",
     "year": 2023,
@@ -4180,7 +4213,7 @@
     "endDate": "2023-07-12T00:00:00"
   },
   {
-    "title": "USENIX ATC",
+    "title": "SIGOPS ATC",
     "sub": "DS",
     "ccfRank": "A",
     "year": 2024,
@@ -4191,7 +4224,7 @@
     "endDate": "2024-07-12T00:00:00"
   },
   {
-    "title": "USENIX ATC",
+    "title": "SIGOPS ATC",
     "sub": "DS",
     "ccfRank": "A",
     "year": 2025,
@@ -4202,7 +4235,7 @@
     "endDate": "2025-07-09T00:00:00"
   },
   {
-    "title": "USENIX ATC",
+    "title": "SIGOPS ATC",
     "sub": "DS",
     "ccfRank": "A",
     "year": 2026,
@@ -4651,6 +4684,17 @@
     "dateString": "Jan 18-21, 2026",
     "startDate": "2026-01-18T00:00:00",
     "endDate": "2026-01-21T00:00:00"
+  },
+  {
+    "title": "CIDR",
+    "sub": "DB",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://www.cidrdb.org/cidr2027/",
+    "place": "Amsterdam, The Netherlands",
+    "dateString": "January 24-27, 2027",
+    "startDate": "2027-01-24T00:00:00",
+    "endDate": "2027-01-27T00:00:00"
   },
   {
     "title": "APWeb-WAIM",
@@ -5949,6 +5993,17 @@
     "dateString": "March 23 - 26, 2026",
     "startDate": "2026-03-23T00:00:00",
     "endDate": "2026-03-26T00:00:00"
+  },
+  {
+    "title": "IUI",
+    "sub": "HI",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://iui.hosting.acm.org/2027/",
+    "place": "Helsinki, Finland",
+    "dateString": "February 8-11, 2027",
+    "startDate": "2027-02-08T00:00:00",
+    "endDate": "2027-02-11T00:00:00"
   },
   {
     "title": "PerCom",
@@ -10987,6 +11042,17 @@
     "dateString": "December 19, 2025",
     "startDate": "2025-12-19T00:00:00",
     "endDate": "2025-12-19T00:00:00"
+  },
+  {
+    "title": "WiCON",
+    "sub": "NW",
+    "ccfRank": "N",
+    "year": 2026,
+    "link": "https://wicon.eai-conferences.org/2026/",
+    "place": "Bratislava, Slovakia",
+    "dateString": "December 2-4, 2026",
+    "startDate": "2026-12-02T00:00:00",
+    "endDate": "2026-12-04T00:00:00"
   },
   {
     "title": "MSN",
