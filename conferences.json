@@ -924,6 +924,17 @@
     "endDate": "2025-10-17T00:00:00"
   },
   {
+    "title": "PG",
+    "sub": "CG",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://pacificgraphics2026.github.io/",
+    "place": "Singapore Management University, Singapore",
+    "dateString": "October 6-9, 2026",
+    "startDate": "2026-10-06T00:00:00",
+    "endDate": "2026-10-09T00:00:00"
+  },
+  {
     "title": "Eurographics",
     "sub": "CG",
     "ccfRank": "B",
@@ -5104,6 +5115,17 @@
     "endDate": "2025-12-12T00:00:00"
   },
   {
+    "title": "EUVIP",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2026,
+    "link": "https://euvip2026.github.io/",
+    "place": "Luxembourg, Luxembourg",
+    "dateString": "September 28 - October 1, 2026",
+    "startDate": "2026-09-28T00:00:00",
+    "endDate": "2026-10-01T00:00:00"
+  },
+  {
     "title": "ICCBR",
     "sub": "AI",
     "ccfRank": "B",
@@ -6985,6 +7007,17 @@
     "endDate": "2026-03-26T00:00:00"
   },
   {
+    "title": "ASPLOS",
+    "sub": "DS",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://www.asplos-conference.org/asplos2027/cfp/",
+    "place": "Crete, Greece",
+    "dateString": "April 11-15, 2027",
+    "startDate": "2027-04-11T00:00:00",
+    "endDate": "2027-04-15T00:00:00"
+  },
+  {
     "title": "DATE",
     "sub": "DS",
     "ccfRank": "B",
@@ -7049,6 +7082,17 @@
     "dateString": "October 12-13, 2025",
     "startDate": "2025-10-12T00:00:00",
     "endDate": "2025-10-13T00:00:00"
+  },
+  {
+    "title": "APSys",
+    "sub": "DS",
+    "ccfRank": "N",
+    "year": 2026,
+    "link": "https://ap-sys.org/",
+    "place": "Bangkok, Thailand",
+    "dateString": "September 17-18, 2026",
+    "startDate": "2026-09-17T00:00:00",
+    "endDate": "2026-09-18T00:00:00"
   },
   {
     "title": "JCC",
