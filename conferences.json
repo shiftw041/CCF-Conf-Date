@@ -9944,6 +9944,17 @@
     "endDate": "2025-12-12T00:00:00"
   },
   {
+    "title": "ASIACRYPT",
+    "sub": "SC",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://asiacrypt.iacr.org/2026/",
+    "place": "Hong Kong, China1",
+    "dateString": "December 7-11, 2026",
+    "startDate": "2026-12-07T00:00:00",
+    "endDate": "2026-12-11T00:00:00"
+  },
+  {
     "title": "NOMS",
     "sub": "SC",
     "ccfRank": "N",
@@ -10041,6 +10052,17 @@
     "dateString": "December 8-12, 2025",
     "startDate": "2025-12-08T00:00:00",
     "endDate": "2025-12-12T00:00:00"
+  },
+  {
+    "title": "ACSAC",
+    "sub": "SC",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://www.acsac.org/",
+    "place": "Los Angeles, California, USA",
+    "dateString": "December 7-11, 2026",
+    "startDate": "2026-12-07T00:00:00",
+    "endDate": "2026-12-11T00:00:00"
   },
   {
     "title": "FSE",
