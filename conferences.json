@@ -11143,6 +11143,17 @@
     "endDate": "2025-09-26T00:00:00"
   },
   {
+    "title": "ESORICS",
+    "sub": "SC",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://sites.google.com/di.uniroma1.it/esorics2026/home",
+    "place": "Rome, Italy",
+    "dateString": "September 14-18, 2026",
+    "startDate": "2026-09-14T00:00:00",
+    "endDate": "2026-09-18T00:00:00"
+  },
+  {
     "title": "AsiaCCS",
     "sub": "SC",
     "ccfRank": "C",
