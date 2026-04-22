@@ -2134,6 +2134,17 @@
     "endDate": "2026-03-26T00:00:00"
   },
   {
+    "title": "REFSQ",
+    "sub": "SE",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://2027.refsq.org/",
+    "place": "Basel, Switzerland",
+    "dateString": "April 12-15, 2027",
+    "startDate": "2027-04-12T00:00:00",
+    "endDate": "2027-04-15T00:00:00"
+  },
+  {
     "title": "ICSE",
     "sub": "SE",
     "ccfRank": "A",
@@ -7744,6 +7755,17 @@
     "endDate": "2025-03-21T00:00:00"
   },
   {
+    "title": "DCC",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://datacompressionconference.org/",
+    "place": "The Cliff Lodge convention center, Snowbird, Utah, U.S.",
+    "dateString": "March 23-26, 2027",
+    "startDate": "2027-03-23T00:00:00",
+    "endDate": "2027-03-26T00:00:00"
+  },
+  {
     "title": "FPGA",
     "sub": "DS",
     "ccfRank": "B",
@@ -10037,7 +10059,7 @@
     "ccfRank": "B",
     "year": 2026,
     "link": "https://asiacrypt.iacr.org/2026/",
-    "place": "Hong Kong, China1",
+    "place": "Hong Kong, China",
     "dateString": "December 7-11, 2026",
     "startDate": "2026-12-07T00:00:00",
     "endDate": "2026-12-11T00:00:00"
