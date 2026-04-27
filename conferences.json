@@ -2596,6 +2596,17 @@
     "endDate": "2025-10-06T00:00:00"
   },
   {
+    "title": "SEKE",
+    "sub": "SE",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://ksiresearch.org/seke/seke26.html",
+    "place": "Toronto, Canada & Virtual",
+    "dateString": "Oct 1 - Oct 10, 2025",
+    "startDate": "2025-10-01T00:00:00",
+    "endDate": "2025-10-10T00:00:00"
+  },
+  {
     "title": "ICPC",
     "sub": "SE",
     "ccfRank": "B",
@@ -7073,6 +7084,17 @@
     "endDate": "2026-04-22T00:00:00"
   },
   {
+    "title": "DATE",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://www.date-conference.com/date-2027-call-papers",
+    "place": "Dresden, Germany",
+    "dateString": "March 22-24, 2027",
+    "startDate": "2027-03-22T00:00:00",
+    "endDate": "2027-03-24T00:00:00"
+  },
+  {
     "title": "APSys",
     "sub": "DS",
     "ccfRank": "N",
@@ -7544,6 +7566,17 @@
     "dateString": "October 12-14, 2025",
     "startDate": "2025-10-12T00:00:00",
     "endDate": "2025-10-14T00:00:00"
+  },
+  {
+    "title": "IISWC",
+    "sub": "DS",
+    "ccfRank": "N",
+    "year": 2026,
+    "link": "https://iiswc.org/iiswc2026/",
+    "place": "Boulder, USA",
+    "dateString": "September 27-29, 2026",
+    "startDate": "2026-09-27T00:00:00",
+    "endDate": "2026-09-29T00:00:00"
   },
   {
     "title": "ITC-Asia",
@@ -9458,6 +9491,17 @@
     "dateString": "July 7-12, 2025",
     "startDate": "2025-07-07T00:00:00",
     "endDate": "2025-07-12T00:00:00"
+  },
+  {
+    "title": "Cloud",
+    "sub": "MX",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://services.conferences.computer.org/2026/cloud/",
+    "place": "Sydney, Australia",
+    "dateString": "July 13-18, 2026",
+    "startDate": "2026-07-13T00:00:00",
+    "endDate": "2026-07-18T00:00:00"
   },
   {
     "title": "DSN",
