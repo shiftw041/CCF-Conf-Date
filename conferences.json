@@ -3828,6 +3828,17 @@
     "endDate": "2026-02-26T00:00:00"
   },
   {
+    "title": "WSDM",
+    "sub": "DB",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://wsdm-conference.org/2027/",
+    "place": "Cordis, Hong Kong SAR, China",
+    "dateString": "February 15 - 19, 2027",
+    "startDate": "2027-02-15T00:00:00",
+    "endDate": "2027-02-19T00:00:00"
+  },
+  {
     "title": "SIGIR",
     "sub": "DB",
     "ccfRank": "A",
@@ -10316,6 +10327,17 @@
     "dateString": "October 19-21, 2025",
     "startDate": "2025-10-19T00:00:00",
     "endDate": "2025-10-21T00:00:00"
+  },
+  {
+    "title": "INSCRYPT",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://inscrypt2026.comp.polyu.edu.hk",
+    "place": "Hong Kong SAR, China",
+    "dateString": "Nov 07-09, 2026",
+    "startDate": "2026-11-07T00:00:00",
+    "endDate": "2026-11-09T00:00:00"
   },
   {
     "title": "ACNS",
