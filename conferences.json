@@ -9746,6 +9746,17 @@
     "endDate": "2026-02-27T00:00:00"
   },
   {
+    "title": "NDSS",
+    "sub": "SC",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://www.ndss-symposium.org/ndss2027/",
+    "place": "Seoul, Republic of Korea",
+    "dateString": "March 22 - March 26, 2027",
+    "startDate": "2027-03-22T00:00:00",
+    "endDate": "2027-03-26T00:00:00"
+  },
+  {
     "title": "CRYPTO",
     "sub": "SC",
     "ccfRank": "A",
