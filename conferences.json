@@ -1892,6 +1892,17 @@
     "endDate": "2026-07-10T00:00:00"
   },
   {
+    "title": "FSE",
+    "sub": "SE",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://conf.researchr.org/home/fse-2027",
+    "place": "Shenzhen, China",
+    "dateString": "July 12-16, 2027",
+    "startDate": "2027-07-12T00:00:00",
+    "endDate": "2027-07-16T00:00:00"
+  },
+  {
     "title": "ISSTA",
     "sub": "SE",
     "ccfRank": "A",
@@ -7590,6 +7601,17 @@
     "endDate": "2026-09-29T00:00:00"
   },
   {
+    "title": "CCGRID",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.ccgrid2026.org/",
+    "place": "Sydney, Australia",
+    "dateString": "May 18-21, 2026",
+    "startDate": "2026-05-18T00:00:00",
+    "endDate": "2026-05-21T00:00:00"
+  },
+  {
     "title": "ITC-Asia",
     "sub": "DS",
     "ccfRank": "C",
@@ -11121,6 +11143,17 @@
     "endDate": "2025-10-22T00:00:00"
   },
   {
+    "title": "ISC",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://isc2026.github.io/",
+    "place": "Rennes, France",
+    "dateString": "October 28-30, 2026",
+    "startDate": "2026-10-28T00:00:00",
+    "endDate": "2026-10-30T00:00:00"
+  },
+  {
     "title": "SATML",
     "sub": "SC",
     "ccfRank": "N",
@@ -11306,6 +11339,17 @@
     "dateString": "June 1-5, 2026",
     "startDate": "2026-06-01T00:00:00",
     "endDate": "2026-06-05T00:00:00"
+  },
+  {
+    "title": "AsiaCCS",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://asiaccs2027.cityu.edu.mo/index.html",
+    "place": "Macau, China",
+    "dateString": "July 12-16, 2027",
+    "startDate": "2027-07-12T00:00:00",
+    "endDate": "2027-07-16T00:00:00"
   },
   {
     "title": "CT-RSA",
