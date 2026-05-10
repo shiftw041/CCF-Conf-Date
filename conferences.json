@@ -6325,6 +6325,17 @@
     "endDate": "2026-03-10T00:00:00"
   },
   {
+    "title": "WACV",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2027,
+    "link": "https://wacv.thecvf.com/",
+    "place": "Disney Springs, Buena Vista, FL, USA",
+    "dateString": "Jan 5 - 9, 2027",
+    "startDate": "2027-01-05T00:00:00",
+    "endDate": "2027-01-09T00:00:00"
+  },
+  {
     "title": "CPAL",
     "sub": "AI",
     "ccfRank": "N",
