@@ -1234,7 +1234,7 @@
   {
     "title": "ACM SIGGRAPH ASIA",
     "sub": "CG",
-    "ccfRank": "A",
+    "ccfRank": "N",
     "year": 2026,
     "link": "https://asia.siggraph.org/2026/",
     "place": "KLCC, Kuala Lumpur, Malaysia",
@@ -1245,7 +1245,7 @@
   {
     "title": "ACM SIGGRAPH ASIA",
     "sub": "CG",
-    "ccfRank": "A",
+    "ccfRank": "N",
     "year": 2025,
     "link": "https://asia.siggraph.org/2025/",
     "place": "Hong Kong, China",
@@ -1256,7 +1256,7 @@
   {
     "title": "ACM SIGGRAPH ASIA",
     "sub": "CG",
-    "ccfRank": "A",
+    "ccfRank": "N",
     "year": 2024,
     "link": "https://asia.siggraph.org/2024/",
     "place": "Tokyo, Japan",
@@ -1267,7 +1267,7 @@
   {
     "title": "ACM SIGGRAPH ASIA",
     "sub": "CG",
-    "ccfRank": "A",
+    "ccfRank": "N",
     "year": 2023,
     "link": "https://asia.siggraph.org/2023/",
     "place": "Sydney, Australia",
@@ -1278,7 +1278,7 @@
   {
     "title": "ACM SIGGRAPH ASIA",
     "sub": "CG",
-    "ccfRank": "A",
+    "ccfRank": "N",
     "year": 2021,
     "link": "https://sa2021.siggraph.org/",
     "place": "Tokyo, Japan",
@@ -2970,6 +2970,17 @@
     "endDate": "2025-12-06T00:00:00"
   },
   {
+    "title": "MSN",
+    "sub": "NW",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://ieee-msn.org/2026",
+    "place": "Ningbo, China",
+    "dateString": "December 18-20, 2026",
+    "startDate": "2026-12-18T00:00:00",
+    "endDate": "2026-12-20T00:00:00"
+  },
+  {
     "title": "SECON",
     "sub": "NW",
     "ccfRank": "B",
@@ -2979,6 +2990,17 @@
     "dateString": "April 27-29, 2026",
     "startDate": "2026-04-27T00:00:00",
     "endDate": "2026-04-29T00:00:00"
+  },
+  {
+    "title": "HotNets",
+    "sub": "NW",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://conferences.sigcomm.org/hotnets/2026/",
+    "place": "Salt Lake City, Utah, USA",
+    "dateString": "November 16-17, 2026",
+    "startDate": "2026-11-16T00:00:00",
+    "endDate": "2026-11-17T00:00:00"
   },
   {
     "title": "IMC",
@@ -3276,6 +3298,17 @@
     "dateString": "April 4 - 8, 2026",
     "startDate": "2026-04-04T00:00:00",
     "endDate": "2026-04-08T00:00:00"
+  },
+  {
+    "title": "MMSys",
+    "sub": "NW",
+    "ccfRank": "N",
+    "year": 2027,
+    "link": "https://2027.acmmmsys.org",
+    "place": "Ghent, Belgium",
+    "dateString": "March 30 - April 2, 2027",
+    "startDate": "2027-03-30T00:00:00",
+    "endDate": "2027-04-02T00:00:00"
   },
   {
     "title": "WoWMoM",
@@ -4125,6 +4158,17 @@
     "endDate": "2026-03-27T00:00:00"
   },
   {
+    "title": "ICDT",
+    "sub": "DB",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://edbticdt2027.github.io/",
+    "place": "Lille, France",
+    "dateString": "April 6-9, 2027",
+    "startDate": "2027-04-06T00:00:00",
+    "endDate": "2027-04-09T00:00:00"
+  },
+  {
     "title": "CIDR",
     "sub": "DB",
     "ccfRank": "B",
@@ -4299,6 +4343,17 @@
     "dateString": "March 24-27, 2026",
     "startDate": "2026-03-24T00:00:00",
     "endDate": "2026-03-27T00:00:00"
+  },
+  {
+    "title": "EDBT",
+    "sub": "DB",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://edbticdt2027.github.io/",
+    "place": "Lille, France",
+    "dateString": "April 6-9, 2027",
+    "startDate": "2027-04-06T00:00:00",
+    "endDate": "2027-04-09T00:00:00"
   },
   {
     "title": "ICDE",
@@ -7018,6 +7073,17 @@
     "endDate": "2025-11-12T00:00:00"
   },
   {
+    "title": "ICCD",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://www.iccd-conf.com/2026/home.html",
+    "place": "Hong Kong SAR, China",
+    "dateString": "November 16-18, 2026",
+    "startDate": "2026-11-16T00:00:00",
+    "endDate": "2026-11-18T00:00:00"
+  },
+  {
     "title": "ASPLOS",
     "sub": "DS",
     "ccfRank": "A",
@@ -8732,6 +8798,17 @@
     "dateString": "April 13 - 17, 2026",
     "startDate": "2026-04-13T00:00:00",
     "endDate": "2026-04-17T00:00:00"
+  },
+  {
+    "title": "CHI",
+    "sub": "HI",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://chi2027.acm.org/",
+    "place": "David L. Lawrence Convention Center, Pittsburgh, USA",
+    "dateString": "May 10 - 14, 2027",
+    "startDate": "2027-05-10T00:00:00",
+    "endDate": "2027-05-14T00:00:00"
   },
   {
     "title": "UbiComp/ISWC",
