@@ -7018,6 +7018,17 @@
     "endDate": "2025-12-05T00:00:00"
   },
   {
+    "title": "FPT",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://fpt2026.uark.edu",
+    "place": "Honolulu, Hawaii, USA",
+    "dateString": "December 07 - December 10, 2026",
+    "startDate": "2026-12-07T00:00:00",
+    "endDate": "2026-12-10T00:00:00"
+  },
+  {
     "title": "SEC",
     "sub": "DS",
     "ccfRank": "C",
