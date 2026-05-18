@@ -2794,6 +2794,17 @@
     "endDate": "2025-09-19T00:00:00"
   },
   {
+    "title": "RV",
+    "sub": "SE",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://rv2026.smithengineering.queensu.ca/",
+    "place": "Kingston, Canada",
+    "dateString": "October 6-9, 2026",
+    "startDate": "2026-10-06T00:00:00",
+    "endDate": "2026-10-09T00:00:00"
+  },
+  {
     "title": "ICFP",
     "sub": "SE",
     "ccfRank": "B",
@@ -8963,6 +8974,17 @@
     "dateString": "December 9-12, 2025",
     "startDate": "2025-12-09T00:00:00",
     "endDate": "2025-12-12T00:00:00"
+  },
+  {
+    "title": "ACML",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.acml-conf.org/2026/",
+    "place": "Melbourne, Australia",
+    "dateString": "December 1-4, 2026",
+    "startDate": "2026-12-01T00:00:00",
+    "endDate": "2026-12-04T00:00:00"
   },
   {
     "title": "ECCV",
