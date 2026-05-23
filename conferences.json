@@ -8195,6 +8195,17 @@
     "endDate": "2023-07-23T00:00:00"
   },
   {
+    "title": "CICAI",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2026,
+    "link": "https://cicai.caai.cn/index.html",
+    "place": "Haining, Zhejiang, China",
+    "dateString": "October 17-19, 2026",
+    "startDate": "2026-10-17T00:00:00",
+    "endDate": "2026-10-19T00:00:00"
+  },
+  {
     "title": "ICML",
     "sub": "AI",
     "ccfRank": "A",
