@@ -8778,6 +8778,17 @@
     "endDate": "2026-05-21T00:00:00"
   },
   {
+    "title": "INFOCOM",
+    "sub": "NW",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://infocom2027.ieee-infocom.org/",
+    "place": "Honolulu, HI, USA",
+    "dateString": "May 24 - 27, 2027",
+    "startDate": "2027-05-24T00:00:00",
+    "endDate": "2027-05-27T00:00:00"
+  },
+  {
     "title": "APNet",
     "sub": "NW",
     "ccfRank": "C",
