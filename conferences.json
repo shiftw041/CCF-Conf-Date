@@ -1551,6 +1551,17 @@
     "endDate": "2026-05-14T00:00:00"
   },
   {
+    "title": "EUROCRYPT",
+    "sub": "SC",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://eurocrypt.iacr.org/2027/",
+    "place": "Eindhoven, Netherlands",
+    "dateString": "April 11-15, 2027",
+    "startDate": "2027-04-11T00:00:00",
+    "endDate": "2027-04-15T00:00:00"
+  },
+  {
     "title": "NSPW",
     "sub": "SC",
     "ccfRank": "C",
