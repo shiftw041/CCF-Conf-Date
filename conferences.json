@@ -10961,10 +10961,21 @@
     "ccfRank": "B",
     "year": 2026,
     "link": "https://2026.ieee-iscas.org/",
-    "place": "SHANGHAI, CHINA",
+    "place": "Shanghai, China",
     "dateString": "May 24-27, 2026",
     "startDate": "2026-05-24T00:00:00",
     "endDate": "2026-05-27T00:00:00"
+  },
+  {
+    "title": "ISCAS",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://2027.ieee-iscas.org/",
+    "place": "Bordeaux, France",
+    "dateString": "June 6-9, 2027",
+    "startDate": "2027-06-06T00:00:00",
+    "endDate": "2027-06-09T00:00:00"
   },
   {
     "title": "Hot Chips",
