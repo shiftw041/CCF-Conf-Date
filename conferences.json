@@ -869,6 +869,17 @@
     "endDate": "2026-03-06T00:00:00"
   },
   {
+    "title": "FC",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://fc27.ifca.ai/",
+    "place": "Barbados (tentative)",
+    "dateString": "February 8-12, 2027",
+    "startDate": "2027-02-08T00:00:00",
+    "endDate": "2027-02-12T00:00:00"
+  },
+  {
     "title": "RAID",
     "sub": "SC",
     "ccfRank": "B",
