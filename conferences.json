@@ -4554,6 +4554,17 @@
     "endDate": "2026-05-29T00:00:00"
   },
   {
+    "title": "AAMAS",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://openreview.net/group?id=ifaamas.org/AAMAS/2027/Conference",
+    "place": "Hanoi, Vietnam",
+    "dateString": "May 03, 2027",
+    "startDate": "2027-05-03T00:00:00",
+    "endDate": "2027-05-03T00:00:00"
+  },
+  {
     "title": "DAI",
     "sub": "AI",
     "ccfRank": "C",
