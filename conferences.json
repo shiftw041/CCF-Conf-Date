@@ -7319,7 +7319,7 @@
     "sub": "DB",
     "ccfRank": "C",
     "year": 2025,
-    "link": "https://ecir2025.eu/key-dates/",
+    "link": "https://ecir2025.eu/",
     "place": "Lucca, Italy",
     "dateString": "April 06 - April 10, 2025",
     "startDate": "2025-04-06T00:00:00",
@@ -7335,6 +7335,17 @@
     "dateString": "March 30 - April 01, 2026",
     "startDate": "2026-03-30T00:00:00",
     "endDate": "2026-04-01T00:00:00"
+  },
+  {
+    "title": "ECIR",
+    "sub": "DB",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://ecir2027.co.uk/",
+    "place": "Southampton, UK",
+    "dateString": "March 21-25, 2027",
+    "startDate": "2027-03-21T00:00:00",
+    "endDate": "2027-03-25T00:00:00"
   },
   {
     "title": "EUSIPCO",
