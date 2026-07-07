@@ -10604,6 +10604,17 @@
     "endDate": "2026-02-04T00:00:00"
   },
   {
+    "title": "PPoPP",
+    "sub": "DS",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://ppopp27.sigplan.org/",
+    "place": "Salt Lake City, Utah, USA",
+    "dateString": "Mar 20-24, 2027",
+    "startDate": "2027-03-20T00:00:00",
+    "endDate": "2027-03-24T00:00:00"
+  },
+  {
     "title": "PDCAT",
     "sub": "DS",
     "ccfRank": "N",
