@@ -2024,6 +2024,17 @@
     "endDate": "2025-12-12T00:00:00"
   },
   {
+    "title": "MMAsia",
+    "sub": "CG",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.mmasia2026.org/",
+    "place": "VinUniversity, Hanoi, Vietnam",
+    "dateString": "December 15-18, 2026",
+    "startDate": "2026-12-15T00:00:00",
+    "endDate": "2026-12-18T00:00:00"
+  },
+  {
     "title": "ACM SIGGRAPH ASIA",
     "sub": "CG",
     "ccfRank": "N",
@@ -11449,6 +11460,17 @@
     "dateString": "April 13 - 17, 2026",
     "startDate": "2026-04-13T00:00:00",
     "endDate": "2026-04-17T00:00:00"
+  },
+  {
+    "title": "WWW",
+    "sub": "MX",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://acmweb2027.org/",
+    "place": "Dublin, Ireland",
+    "dateString": "May 10 - 14, 2027",
+    "startDate": "2027-05-10T00:00:00",
+    "endDate": "2027-05-14T00:00:00"
   },
   {
     "title": "ICIC",
