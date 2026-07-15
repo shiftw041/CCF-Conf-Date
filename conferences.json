@@ -1298,6 +1298,17 @@
     "endDate": "2026-06-25T00:00:00"
   },
   {
+    "title": "DSN",
+    "sub": "SC",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://dsn2027-berlin.github.io/",
+    "place": "Berlin, Germany",
+    "dateString": "June 22-25, 2027",
+    "startDate": "2027-06-22T00:00:00",
+    "endDate": "2027-06-25T00:00:00"
+  },
+  {
     "title": "CODASPY",
     "sub": "SC",
     "ccfRank": "C",
