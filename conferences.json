@@ -4851,6 +4851,17 @@
     "endDate": "2026-10-15T00:00:00"
   },
   {
+    "title": "CHES",
+    "sub": "SC",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://ches.iacr.org/2027/",
+    "place": "Cancún, Mexico",
+    "dateString": "September 6 - 9, 2027",
+    "startDate": "2027-09-06T00:00:00",
+    "endDate": "2027-09-09T00:00:00"
+  },
+  {
     "title": "CSFW",
     "sub": "SC",
     "ccfRank": "B",
