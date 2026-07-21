@@ -7623,6 +7623,17 @@
     "endDate": "2025-05-03T00:00:00"
   },
   {
+    "title": "SDM",
+    "sub": "DB",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://www.siam.org/conferences-events/siam-conferences/sdm26/",
+    "place": "Salt Lake City, Utah, USA",
+    "dateString": "November 19-20, 2026",
+    "startDate": "2026-11-19T00:00:00",
+    "endDate": "2026-11-20T00:00:00"
+  },
+  {
     "title": "ICDT",
     "sub": "DB",
     "ccfRank": "B",
@@ -8382,6 +8393,17 @@
     "endDate": "2027-05-21T00:00:00"
   },
   {
+    "title": "WISE",
+    "sub": "DB",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://conferences.sigappfr.org/wise2026/",
+    "place": "Venice, Italy",
+    "dateString": "November 2-5, 2026",
+    "startDate": "2026-11-02T00:00:00",
+    "endDate": "2026-11-05T00:00:00"
+  },
+  {
     "title": "ECML-PKDD",
     "sub": "DB",
     "ccfRank": "B",
@@ -8446,6 +8468,17 @@
     "dateString": "September 7-11, 2026",
     "startDate": "2026-09-07T00:00:00",
     "endDate": "2026-09-11T00:00:00"
+  },
+  {
+    "title": "ECML-PKDD",
+    "sub": "DB",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://ecmlpkdd.org/2027/",
+    "place": "Eindhoven, The Netherlands",
+    "dateString": "September 20-24, 2027",
+    "startDate": "2027-09-20T00:00:00",
+    "endDate": "2027-09-24T00:00:00"
   },
   {
     "title": "ECIR",
