@@ -2992,6 +2992,17 @@
     "endDate": "2026-07-07T00:00:00"
   },
   {
+    "title": "ACL",
+    "sub": "AI",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://2027.aclweb.org/",
+    "place": "Kyoto, Japan",
+    "dateString": "August 17-22, 2027",
+    "startDate": "2027-08-17T00:00:00",
+    "endDate": "2027-08-22T00:00:00"
+  },
+  {
     "title": "ECCV",
     "sub": "AI",
     "ccfRank": "B",
@@ -3091,6 +3102,17 @@
     "endDate": "2025-05-04T00:00:00"
   },
   {
+    "title": "NAACL",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://2027.naacl.org/",
+    "place": "San Francisco, California, USA",
+    "dateString": "June 1-5, 2027",
+    "startDate": "2027-06-01T00:00:00",
+    "endDate": "2027-06-05T00:00:00"
+  },
+  {
     "title": "COLING",
     "sub": "AI",
     "ccfRank": "B",
@@ -3122,6 +3144,17 @@
     "dateString": "Jan 19 - Jan 24, 2025",
     "startDate": "2025-01-19T00:00:00",
     "endDate": "2025-01-24T00:00:00"
+  },
+  {
+    "title": "COLING",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://2027.coling-iccl.org/",
+    "place": "Macau SAR, China",
+    "dateString": "May 9-14, 2027",
+    "startDate": "2027-05-09T00:00:00",
+    "endDate": "2027-05-14T00:00:00"
   },
   {
     "title": "DAI",
@@ -3448,7 +3481,7 @@
     "ccfRank": "N",
     "year": 2026,
     "link": "https://2026.aaclnet.org/",
-    "place": "Hengqin, China",
+    "place": "Hengqin, Zhuhai, China",
     "dateString": "Nov 6-10, 2026",
     "startDate": "2026-11-06T00:00:00",
     "endDate": "2026-11-10T00:00:00"
