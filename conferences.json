@@ -11286,6 +11286,17 @@
     "endDate": "2023-10-06T00:00:00"
   },
   {
+    "title": "MobiCom",
+    "sub": "NW",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://www.sigmobile.org/mobicom/2027/",
+    "place": "TBD",
+    "dateString": "Oct 18-22, 2027",
+    "startDate": "2027-10-18T00:00:00",
+    "endDate": "2027-10-22T00:00:00"
+  },
+  {
     "title": "WCNC",
     "sub": "NW",
     "ccfRank": "C",
