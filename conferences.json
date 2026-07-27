@@ -1584,6 +1584,17 @@
     "endDate": "2025-11-06T00:00:00"
   },
   {
+    "title": "PACT",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://pact2026.github.io/",
+    "place": "Chicago, Illinois, USA",
+    "dateString": "October 19-22, 2026",
+    "startDate": "2026-10-19T00:00:00",
+    "endDate": "2026-10-22T00:00:00"
+  },
+  {
     "title": "ASPLOS",
     "sub": "DS",
     "ccfRank": "A",
@@ -2134,6 +2145,17 @@
     "endDate": "2026-05-29T00:00:00"
   },
   {
+    "title": "IPDPS",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://www.ipdps.org/",
+    "place": "Seattle, USA",
+    "dateString": "June 1-5, 2027",
+    "startDate": "2027-06-01T00:00:00",
+    "endDate": "2027-06-05T00:00:00"
+  },
+  {
     "title": "SPAA",
     "sub": "DS",
     "ccfRank": "B",
@@ -2528,6 +2550,28 @@
     "dateString": "June 17-21, 2024",
     "startDate": "2024-06-17T00:00:00",
     "endDate": "2024-06-21T00:00:00"
+  },
+  {
+    "title": "PODC",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2025,
+    "link": "https://www.podc.org/podc2025/",
+    "place": "Santa María Huatulco, Mexico",
+    "dateString": "June 16-20, 2025",
+    "startDate": "2025-06-16T00:00:00",
+    "endDate": "2025-06-20T00:00:00"
+  },
+  {
+    "title": "PODC",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://www.podc.org/podc2026/",
+    "place": "Egham, England",
+    "dateString": "July 6-10, 2026",
+    "startDate": "2026-07-06T00:00:00",
+    "endDate": "2026-07-10T00:00:00"
   },
   {
     "title": "SYSTOR",
@@ -2957,6 +3001,17 @@
     "dateString": "June 3-7, 2024",
     "startDate": "2024-06-03T00:00:00",
     "endDate": "2024-06-07T00:00:00"
+  },
+  {
+    "title": "MSST",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://msstconference.org/2026/index.html",
+    "place": "Santa Clara University, Santa Clara, CA, USA",
+    "dateString": "June 1-5, 2026",
+    "startDate": "2026-06-01T00:00:00",
+    "endDate": "2026-06-05T00:00:00"
   },
   {
     "title": "SEC",
@@ -10910,6 +10965,17 @@
     "dateString": "April 27-29, 2026",
     "startDate": "2026-04-27T00:00:00",
     "endDate": "2026-04-29T00:00:00"
+  },
+  {
+    "title": "SECON",
+    "sub": "NW",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://secon2027.ieee-secon.org/",
+    "place": "Lisbon, Portugal",
+    "dateString": "May 5-7, 2027",
+    "startDate": "2027-05-05T00:00:00",
+    "endDate": "2027-05-07T00:00:00"
   },
   {
     "title": "ICNP",
