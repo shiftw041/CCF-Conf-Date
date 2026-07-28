@@ -6127,6 +6127,17 @@
     "endDate": "2026-06-05T00:00:00"
   },
   {
+    "title": "ICRA",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://2027.ieee-icra.org/",
+    "place": "Seoul, Republic of Korea",
+    "dateString": "May 24-28, 2027",
+    "startDate": "2027-05-24T00:00:00",
+    "endDate": "2027-05-28T00:00:00"
+  },
+  {
     "title": "NAACL",
     "sub": "AI",
     "ccfRank": "B",
