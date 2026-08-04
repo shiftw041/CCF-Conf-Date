@@ -2915,6 +2915,17 @@
     "endDate": "2026-02-24T00:00:00"
   },
   {
+    "title": "FPGA",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://www.isfpga.org/",
+    "place": "Monterey, California, USA",
+    "dateString": "March 14 - March 16, 2027",
+    "startDate": "2027-03-14T00:00:00",
+    "endDate": "2027-03-16T00:00:00"
+  },
+  {
     "title": "SIGOPS ATC",
     "sub": "DS",
     "ccfRank": "A",
@@ -7511,6 +7522,17 @@
     "dateString": "May 4-8, 2026",
     "startDate": "2026-05-04T00:00:00",
     "endDate": "2026-05-08T00:00:00"
+  },
+  {
+    "title": "Eurographics",
+    "sub": "CG",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://eg2027.isti.cnr.it/",
+    "place": "Lucca, Italy",
+    "dateString": "May 10-14, 2027",
+    "startDate": "2027-05-10T00:00:00",
+    "endDate": "2027-05-14T00:00:00"
   },
   {
     "title": "InterSpeech",
