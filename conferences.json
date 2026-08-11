@@ -2596,6 +2596,17 @@
     "endDate": "2025-09-09T00:00:00"
   },
   {
+    "title": "SYSTOR",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.systor.org/2026/",
+    "place": "Virtual",
+    "dateString": "September 8-9, 2026",
+    "startDate": "2026-09-08T00:00:00",
+    "endDate": "2026-09-09T00:00:00"
+  },
+  {
     "title": "IISWC",
     "sub": "DS",
     "ccfRank": "N",
@@ -3133,6 +3144,17 @@
     "dateString": "May 12-14, 2026",
     "startDate": "2026-05-12T00:00:00",
     "endDate": "2026-05-14T00:00:00"
+  },
+  {
+    "title": "RTAS",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://2027.rtas.org/",
+    "place": "Boulder, Colorado",
+    "dateString": "May 17-20, 2027",
+    "startDate": "2027-05-17T00:00:00",
+    "endDate": "2027-05-20T00:00:00"
   },
   {
     "title": "ASAP",
@@ -4334,6 +4356,17 @@
     "endDate": "2022-11-11T00:00:00"
   },
   {
+    "title": "Middleware",
+    "sub": "SE",
+    "ccfRank": "B",
+    "year": 2026,
+    "link": "https://middleware-conf.github.io/2026/",
+    "place": "Universitat Rovira i Virgili, Tarragona, Spain",
+    "dateString": "December 14-18, 2026",
+    "startDate": "2026-12-14T00:00:00",
+    "endDate": "2026-12-18T00:00:00"
+  },
+  {
     "title": "ESEM",
     "sub": "SE",
     "ccfRank": "B",
@@ -4728,6 +4761,17 @@
     "dateString": "January 12-13, 2026",
     "startDate": "2026-01-12T00:00:00",
     "endDate": "2026-01-13T00:00:00"
+  },
+  {
+    "title": "VMCAI",
+    "sub": "SE",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://conf.researchr.org/home/VMCAI-2027",
+    "place": "Mexico City, Mexico",
+    "dateString": "January 11-12, 2027",
+    "startDate": "2027-01-11T00:00:00",
+    "endDate": "2027-01-12T00:00:00"
   },
   {
     "title": "CP",
@@ -5223,6 +5267,17 @@
     "dateString": "May 25-29, 2026",
     "startDate": "2026-05-25T00:00:00",
     "endDate": "2026-05-29T00:00:00"
+  },
+  {
+    "title": "FG",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://fg2027.ieee-biometrics.org/",
+    "place": "Marrakesh, Morocco",
+    "dateString": "April 26-30, 2027",
+    "startDate": "2027-04-26T00:00:00",
+    "endDate": "2027-04-30T00:00:00"
   },
   {
     "title": "ICAPS",
@@ -7181,6 +7236,17 @@
     "dateString": "June 16-19, 2026",
     "startDate": "2026-06-16T00:00:00",
     "endDate": "2026-06-19T00:00:00"
+  },
+  {
+    "title": "ICMR",
+    "sub": "CG",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://www.icmr2027.org/",
+    "place": "Singapore",
+    "dateString": "June 7-10, 2027",
+    "startDate": "2027-06-07T00:00:00",
+    "endDate": "2027-06-10T00:00:00"
   },
   {
     "title": "CGI",
@@ -11171,9 +11237,9 @@
     "year": 2026,
     "link": "https://conferences.sigcomm.org/imc/2026/",
     "place": "Karlsruhe, Germany",
-    "dateString": "November 03-06, 2026",
-    "startDate": "2026-11-03T00:00:00",
-    "endDate": "2026-11-06T00:00:00"
+    "dateString": "Oct 12-16, 2026",
+    "startDate": "2026-10-12T00:00:00",
+    "endDate": "2026-10-16T00:00:00"
   },
   {
     "title": "MMSys",
