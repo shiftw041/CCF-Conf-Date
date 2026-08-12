@@ -4730,6 +4730,17 @@
     "endDate": "2026-06-19T00:00:00"
   },
   {
+    "title": "PLDI",
+    "sub": "SE",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://pldi27.sigplan.org/",
+    "place": "Atlanta, Georgia, USA",
+    "dateString": "June 5-11, 2027",
+    "startDate": "2027-06-05T00:00:00",
+    "endDate": "2027-06-11T00:00:00"
+  },
+  {
     "title": "SSE",
     "sub": "SE",
     "ccfRank": "C",
@@ -6488,6 +6499,17 @@
     "dateString": "February 23-26, 2026",
     "startDate": "2026-02-23T00:00:00",
     "endDate": "2026-02-26T00:00:00"
+  },
+  {
+    "title": "ALT",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://algorithmiclearningtheory.org/alt2027/",
+    "place": "Leiden, Netherlands",
+    "dateString": "March 9-12, 2027",
+    "startDate": "2027-03-09T00:00:00",
+    "endDate": "2027-03-12T00:00:00"
   },
   {
     "title": "CPAL",
