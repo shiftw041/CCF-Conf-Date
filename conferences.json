@@ -8657,6 +8657,17 @@
     "endDate": "2026-03-26T00:00:00"
   },
   {
+    "title": "CT-RSA",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://www.esat.kuleuven.be/cosic/events/ct-rsa-2027/",
+    "place": "San Francisco, California, USA",
+    "dateString": "April 5-8, 2027",
+    "startDate": "2027-04-05T00:00:00",
+    "endDate": "2027-04-08T00:00:00"
+  },
+  {
     "title": "EUROCRYPT",
     "sub": "SC",
     "ccfRank": "A",
@@ -9029,6 +9040,17 @@
     "dateString": "June 22-25, 2026",
     "startDate": "2026-06-22T00:00:00",
     "endDate": "2026-06-25T00:00:00"
+  },
+  {
+    "title": "ACNS",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://acns2027.isg.rhul.ac.uk/",
+    "place": "Royal Holloway, Egham, UK",
+    "dateString": "June 28 - July 1, 2027",
+    "startDate": "2027-06-28T00:00:00",
+    "endDate": "2027-07-01T00:00:00"
   },
   {
     "title": "PETS",
