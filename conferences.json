@@ -2882,6 +2882,17 @@
     "endDate": "2026-05-21T00:00:00"
   },
   {
+    "title": "S&P",
+    "sub": "SC",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://sp2027.ieee-security.org/index.html",
+    "place": "MONTREAL, CANADA",
+    "dateString": "May 17-19, 2027",
+    "startDate": "2027-05-17T00:00:00",
+    "endDate": "2027-05-19T00:00:00"
+  },
+  {
     "title": "ICDF2C",
     "sub": "SC",
     "ccfRank": "C",
@@ -7986,6 +7997,17 @@
     "endDate": "2026-05-14T00:00:00"
   },
   {
+    "title": "SenSys",
+    "sub": "NW",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://sensys.acm.org/2027/",
+    "place": "New York, USA",
+    "dateString": "May 17-20, 2027",
+    "startDate": "2027-05-17T00:00:00",
+    "endDate": "2027-05-20T00:00:00"
+  },
+  {
     "title": "IWQoS",
     "sub": "NW",
     "ccfRank": "B",
@@ -11306,6 +11328,17 @@
     "dateString": "August 9-13, 2026",
     "startDate": "2026-08-09T00:00:00",
     "endDate": "2026-08-13T00:00:00"
+  },
+  {
+    "title": "SIGKDD",
+    "sub": "DB",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://kdd2027.kdd.org/",
+    "place": "San Jose, California, USA",
+    "dateString": "August 1-5, 2027",
+    "startDate": "2027-08-01T00:00:00",
+    "endDate": "2027-08-05T00:00:00"
   },
   {
     "title": "ECML-PKDD",
