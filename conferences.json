@@ -1144,6 +1144,17 @@
     "endDate": "2026-04-12T00:00:00"
   },
   {
+    "title": "CVM",
+    "sub": "CG",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "http://iccvm.org/2027/",
+    "place": "Nanyang Technological University, Singapore",
+    "dateString": "April 9-11, 2027",
+    "startDate": "2027-04-09T00:00:00",
+    "endDate": "2027-04-11T00:00:00"
+  },
+  {
     "title": "IFIP WG 11.9",
     "sub": "SC",
     "ccfRank": "C",
@@ -4420,6 +4431,17 @@
     "dateString": "October 3-9, 2026",
     "startDate": "2026-10-03T00:00:00",
     "endDate": "2026-10-09T00:00:00"
+  },
+  {
+    "title": "ISSTA",
+    "sub": "SE",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://conf.researchr.org/home/issta-2027",
+    "place": "Singapore",
+    "dateString": "September 7-10, 2027",
+    "startDate": "2027-09-07T00:00:00",
+    "endDate": "2027-09-10T00:00:00"
   },
   {
     "title": "RV",
@@ -10470,6 +10492,17 @@
     "dateString": "June 22-26, 2026",
     "startDate": "2026-06-22T00:00:00",
     "endDate": "2026-06-26T00:00:00"
+  },
+  {
+    "title": "IEEE CEC",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://ieeecec.org/2027",
+    "place": "Edinburgh, Scotland, UK",
+    "dateString": "July 25-28, 2027",
+    "startDate": "2027-07-25T00:00:00",
+    "endDate": "2027-07-28T00:00:00"
   },
   {
     "title": "ACML",
