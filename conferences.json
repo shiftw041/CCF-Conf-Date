@@ -88,6 +88,17 @@
     "endDate": "2026-07-29T00:00:00"
   },
   {
+    "title": "CAV",
+    "sub": "CT",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://conferences.i-cav.org/2027/",
+    "place": "KIT, Amsterdam, The Netherlands",
+    "dateString": "July 19-23, 2027",
+    "startDate": "2027-07-19T00:00:00",
+    "endDate": "2027-07-23T00:00:00"
+  },
+  {
     "title": "STOC",
     "sub": "CT",
     "ccfRank": "A",
@@ -10635,6 +10646,17 @@
     "dateString": "July 6-9, 2026",
     "startDate": "2026-07-06T00:00:00",
     "endDate": "2026-07-09T00:00:00"
+  },
+  {
+    "title": "ACISP",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://acisp.org/",
+    "place": "Melbourne, Australia",
+    "dateString": "July 7-10, 2027",
+    "startDate": "2027-07-07T00:00:00",
+    "endDate": "2027-07-10T00:00:00"
   },
   {
     "title": "CRYPTO",
