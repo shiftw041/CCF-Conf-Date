@@ -8085,6 +8085,17 @@
     "endDate": "2026-07-29T00:00:00"
   },
   {
+    "title": "DAC",
+    "sub": "DS",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://dac.com/2027/authors/call-for-contributions",
+    "place": "San Jose, CA",
+    "dateString": "July 11-14, 2027",
+    "startDate": "2027-07-11T00:00:00",
+    "endDate": "2027-07-14T00:00:00"
+  },
+  {
     "title": "ICCD",
     "sub": "DS",
     "ccfRank": "B",
@@ -10170,9 +10181,9 @@
     "year": 2026,
     "link": "https://neurips.cc/Conferences/2026",
     "place": "Sydney, Australia",
-    "dateString": "December 6, 2026",
+    "dateString": "December 6-12, 2026",
     "startDate": "2026-12-06T00:00:00",
-    "endDate": "2026-12-06T00:00:00"
+    "endDate": "2026-12-12T00:00:00"
   },
   {
     "title": "COLT",
