@@ -3025,6 +3025,28 @@
     "endDate": "2026-10-09T00:00:00"
   },
   {
+    "title": "IEEE CoG",
+    "sub": "CG",
+    "ccfRank": "N",
+    "year": 2026,
+    "link": "https://cog2026.org/",
+    "place": "Madrid, Spain",
+    "dateString": "September 1-4, 2026",
+    "startDate": "2026-09-01T00:00:00",
+    "endDate": "2026-09-04T00:00:00"
+  },
+  {
+    "title": "IEEE CoG",
+    "sub": "CG",
+    "ccfRank": "N",
+    "year": 2027,
+    "link": "https://cog2027.u-aizu.ac.jp/",
+    "place": "Aizuwakamatsu, Japan",
+    "dateString": "August 2-5, 2027",
+    "startDate": "2027-08-02T00:00:00",
+    "endDate": "2027-08-05T00:00:00"
+  },
+  {
     "title": "EuroVis",
     "sub": "CG",
     "ccfRank": "B",
