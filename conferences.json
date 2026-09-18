@@ -132,6 +132,17 @@
     "endDate": "2026-06-26T00:00:00"
   },
   {
+    "title": "STOC",
+    "sub": "CT",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://acm-stoc.org/stoc2027/",
+    "place": "Atlanta, Georgia, USA",
+    "dateString": "June 6-11, 2027",
+    "startDate": "2027-06-06T00:00:00",
+    "endDate": "2027-06-11T00:00:00"
+  },
+  {
     "title": "ISAAC",
     "sub": "CT",
     "ccfRank": "C",
