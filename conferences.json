@@ -2629,6 +2629,17 @@
     "endDate": "2026-05-22T00:00:00"
   },
   {
+    "title": "MLSys",
+    "sub": "MX",
+    "ccfRank": "N",
+    "year": 2027,
+    "link": "https://mlsys.org/",
+    "place": "Bellevue, Washington, USA",
+    "dateString": "June 21-25, 2027",
+    "startDate": "2027-06-21T00:00:00",
+    "endDate": "2027-06-25T00:00:00"
+  },
+  {
     "title": "AFT",
     "sub": "MX",
     "ccfRank": "C",
@@ -11801,6 +11812,17 @@
     "dateString": "July 26-29, 2026",
     "startDate": "2026-07-26T00:00:00",
     "endDate": "2026-07-29T00:00:00"
+  },
+  {
+    "title": "CSFW",
+    "sub": "SC",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://www.ieee-security.org/TC/CSF2027/",
+    "place": "Tokyo, Japan",
+    "dateString": "September 13-17, 2027",
+    "startDate": "2027-09-13T00:00:00",
+    "endDate": "2027-09-17T00:00:00"
   },
   {
     "title": "INDOCRYPT",
