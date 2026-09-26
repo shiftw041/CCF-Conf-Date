@@ -476,10 +476,54 @@
     "title": "TrustCom",
     "sub": "SC",
     "ccfRank": "C",
+    "year": 2021,
+    "link": "https://trustcom2021.sau.edu.cn/",
+    "place": "Shenyang, China",
+    "dateString": "October 20-22, 2021",
+    "startDate": "2021-10-20T00:00:00",
+    "endDate": "2021-10-22T00:00:00"
+  },
+  {
+    "title": "TrustCom",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2022,
+    "link": "http://www.ieee-hust-ncc.org/2022/TrustCom/",
+    "place": "Wuhan, China",
+    "dateString": "December 9-11, 2022",
+    "startDate": "2022-12-09T00:00:00",
+    "endDate": "2022-12-11T00:00:00"
+  },
+  {
+    "title": "TrustCom",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2023,
+    "link": "https://hpcn.exeter.ac.uk/trustcom2023/",
+    "place": "Exeter, UK",
+    "dateString": "November 1-3, 2023",
+    "startDate": "2023-11-01T00:00:00",
+    "endDate": "2023-11-03T00:00:00"
+  },
+  {
+    "title": "TrustCom",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2024,
+    "link": "https://ieee-aiplus.org/2024/trustcom/",
+    "place": "Sanya, China",
+    "dateString": "December 17-21, 2024",
+    "startDate": "2024-12-17T00:00:00",
+    "endDate": "2024-12-21T00:00:00"
+  },
+  {
+    "title": "TrustCom",
+    "sub": "SC",
+    "ccfRank": "C",
     "year": 2025,
     "link": "https://ieee-aiplus-2025.org/",
     "place": "Guiyang, China",
-    "dateString": "November 14 - 17, 2025",
+    "dateString": "November 14-17, 2025",
     "startDate": "2025-11-14T00:00:00",
     "endDate": "2025-11-17T00:00:00"
   },
@@ -1241,6 +1285,17 @@
     "dateString": "December 7-11, 2026",
     "startDate": "2026-12-07T00:00:00",
     "endDate": "2026-12-11T00:00:00"
+  },
+  {
+    "title": "DIMVA",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2021,
+    "link": "https://dimva2021.campus.ciencias.ulisboa.pt/",
+    "place": "Virtual",
+    "dateString": "July 14-16, 2021",
+    "startDate": "2021-07-14T00:00:00",
+    "endDate": "2021-07-16T00:00:00"
   },
   {
     "title": "DIMVA",
@@ -2222,6 +2277,17 @@
     "endDate": "2027-03-04T00:00:00"
   },
   {
+    "title": "ISMB",
+    "sub": "MX",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://www.iscb.org/ismbeccb2027/",
+    "place": "Copenhagen, Denmark",
+    "dateString": "July 18-22, 2027",
+    "startDate": "2027-07-18T00:00:00",
+    "endDate": "2027-07-22T00:00:00"
+  },
+  {
     "title": "WWW",
     "sub": "MX",
     "ccfRank": "A",
@@ -2673,7 +2739,7 @@
     "endDate": "2026-12-11T00:00:00"
   },
   {
-    "title": "SAI Computing Conference",
+    "title": "SAI",
     "sub": "MX",
     "ccfRank": "N",
     "year": 2027,
@@ -3118,7 +3184,7 @@
     "ccfRank": "B",
     "year": 2024,
     "link": "https://2024.ieeeicme.org/",
-    "place": "Niagra Falls, Canada",
+    "place": "Niagara Falls, ON, Canada",
     "dateString": "July 15-19, 2024",
     "startDate": "2024-07-15T00:00:00",
     "endDate": "2024-07-19T00:00:00"
@@ -3606,6 +3672,17 @@
     "dateString": "May 16-21, 2027",
     "startDate": "2027-05-16T00:00:00",
     "endDate": "2027-05-21T00:00:00"
+  },
+  {
+    "title": "ICASSP",
+    "sub": "CG",
+    "ccfRank": "B",
+    "year": 2028,
+    "link": "https://2028.ieeeicassp.org/",
+    "place": "Tokyo, Japan",
+    "dateString": "May 28-June 2, 2028",
+    "startDate": "2028-05-28T00:00:00",
+    "endDate": "2028-06-02T00:00:00"
   },
   {
     "title": "EuroVis",
@@ -4442,6 +4519,17 @@
     "dateString": "November 10-14, 2026",
     "startDate": "2026-11-10T00:00:00",
     "endDate": "2026-11-14T00:00:00"
+  },
+  {
+    "title": "PEPM",
+    "sub": "SE",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://popl27.sigplan.org/home/pepm-2027",
+    "place": "Mexico City, Mexico",
+    "dateString": "January 12, 2027",
+    "startDate": "2027-01-12T00:00:00",
+    "endDate": "2027-01-12T00:00:00"
   },
   {
     "title": "ICSOC",
@@ -5929,6 +6017,17 @@
     "endDate": "2026-05-22T00:00:00"
   },
   {
+    "title": "FM",
+    "sub": "SE",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://www.fmeurope.org/feature/upcoming_conferences/",
+    "place": "Athens, Greece",
+    "dateString": "October 18-22, 2027",
+    "startDate": "2027-10-18T00:00:00",
+    "endDate": "2027-10-22T00:00:00"
+  },
+  {
     "title": "LCTES",
     "sub": "SE",
     "ccfRank": "B",
@@ -6501,6 +6600,17 @@
     "endDate": "2027-01-27T00:00:00"
   },
   {
+    "title": "FSCD",
+    "sub": "CT",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://fscd-cade.science.ru.nl/",
+    "place": "Nijmegen, Netherlands",
+    "dateString": "August 23-26, 2027",
+    "startDate": "2027-08-23T00:00:00",
+    "endDate": "2027-08-26T00:00:00"
+  },
+  {
     "title": "HSCC",
     "sub": "CT",
     "ccfRank": "B",
@@ -6774,6 +6884,17 @@
     "dateString": "June 6-11, 2027",
     "startDate": "2027-06-06T00:00:00",
     "endDate": "2027-06-11T00:00:00"
+  },
+  {
+    "title": "CCC",
+    "sub": "CT",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://computationalcomplexity.org/",
+    "place": "Seattle, Washington, USA",
+    "dateString": "July 19-22, 2027",
+    "startDate": "2027-07-19T00:00:00",
+    "endDate": "2027-07-22T00:00:00"
   },
   {
     "title": "ESA",
@@ -7398,9 +7519,9 @@
     "year": 2023,
     "link": "http://tjutanklab.com/ica3pp2023/",
     "place": "Tianjin, China",
-    "dateString": "October 20-22, 2022",
-    "startDate": "2022-10-20T00:00:00",
-    "endDate": "2022-10-22T00:00:00"
+    "dateString": "October 20-22, 2023",
+    "startDate": "2023-10-20T00:00:00",
+    "endDate": "2023-10-22T00:00:00"
   },
   {
     "title": "ICA3PP",
@@ -7519,9 +7640,9 @@
     "year": 2024,
     "link": "https://2024.euro-par.org",
     "place": "Madrid, Spain",
-    "dateString": "August 28-30, 2023",
-    "startDate": "2023-08-28T00:00:00",
-    "endDate": "2023-08-30T00:00:00"
+    "dateString": "August 28-30, 2024",
+    "startDate": "2024-08-28T00:00:00",
+    "endDate": "2024-08-30T00:00:00"
   },
   {
     "title": "Euro-Par",
@@ -8160,6 +8281,17 @@
     "dateString": "August 19-21, 2026",
     "startDate": "2026-08-19T00:00:00",
     "endDate": "2026-08-21T00:00:00"
+  },
+  {
+    "title": "ISPD",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://ispd.cc/ispd2027/",
+    "place": "Taipei, Taiwan",
+    "dateString": "March 30 - April 2, 2027",
+    "startDate": "2027-03-30T00:00:00",
+    "endDate": "2027-04-02T00:00:00"
   },
   {
     "title": "SIGOPS ATC",
@@ -8915,7 +9047,7 @@
     "ccfRank": "C",
     "year": 2026,
     "link": "https://ets2026.uniwa.gr/",
-    "place": "Chania, Greec",
+    "place": "Chania, Greece",
     "dateString": "May 25-29, 2026",
     "startDate": "2026-05-25T00:00:00",
     "endDate": "2026-05-29T00:00:00"
@@ -11319,6 +11451,50 @@
     "endDate": "2026-10-15T00:00:00"
   },
   {
+    "title": "INTERACT",
+    "sub": "HI",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://interact2027.org/",
+    "place": "Tallinn, Estonia",
+    "dateString": "August 23-27, 2027",
+    "startDate": "2027-08-23T00:00:00",
+    "endDate": "2027-08-27T00:00:00"
+  },
+  {
+    "title": "GI",
+    "sub": "HI",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://conferences.graphicsinterface.org/2027",
+    "place": "Winnipeg, Canada",
+    "dateString": "June 15-18, 2027",
+    "startDate": "2027-06-15T00:00:00",
+    "endDate": "2027-06-18T00:00:00"
+  },
+  {
+    "title": "WHC",
+    "sub": "HI",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://2027.worldhaptics.org/",
+    "place": "Boston, Massachusetts, USA",
+    "dateString": "July 12-15, 2027",
+    "startDate": "2027-07-12T00:00:00",
+    "endDate": "2027-07-15T00:00:00"
+  },
+  {
+    "title": "MobileHCI",
+    "sub": "HI",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://mobilehci.acm.org/2027/",
+    "place": "Limassol, Cyprus",
+    "dateString": "September 20-23, 2027",
+    "startDate": "2027-09-20T00:00:00",
+    "endDate": "2027-09-23T00:00:00"
+  },
+  {
     "title": "ECSCW",
     "sub": "HI",
     "ccfRank": "B",
@@ -11704,6 +11880,17 @@
     "endDate": "2026-10-28T00:00:00"
   },
   {
+    "title": "IDC",
+    "sub": "HI",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://idc.acm.org/2027/",
+    "place": "Seattle, Washington, USA",
+    "dateString": "June 21-24, 2027",
+    "startDate": "2027-06-21T00:00:00",
+    "endDate": "2027-06-24T00:00:00"
+  },
+  {
     "title": "PerCom",
     "sub": "HI",
     "ccfRank": "B",
@@ -11875,9 +12062,9 @@
     "year": 2026,
     "link": "http://wasa-conference.org/WASA2026/",
     "place": "Xi'an, China",
-    "dateString": "July 6-9, 2026",
-    "startDate": "2026-07-06T00:00:00",
-    "endDate": "2026-07-09T00:00:00"
+    "dateString": "June 26-29, 2026",
+    "startDate": "2026-06-26T00:00:00",
+    "endDate": "2026-06-29T00:00:00"
   },
   {
     "title": "ISCC",
@@ -12854,9 +13041,9 @@
     "year": 2023,
     "link": "http://2023.sigmod.org/",
     "place": "Seattle, WA, USA",
-    "dateString": "June 18-23, 2022",
-    "startDate": "2022-06-18T00:00:00",
-    "endDate": "2022-06-23T00:00:00"
+    "dateString": "June 18-23, 2023",
+    "startDate": "2023-06-18T00:00:00",
+    "endDate": "2023-06-23T00:00:00"
   },
   {
     "title": "SIGMOD",
@@ -12974,10 +13161,10 @@
     "ccfRank": "B",
     "year": 2020,
     "link": "https://www.cikm2020.org/",
-    "place": "Galway, Ireland",
-    "dateString": "October 19-23, 2021",
-    "startDate": "2021-10-19T00:00:00",
-    "endDate": "2021-10-23T00:00:00"
+    "place": "Virtual Event, Ireland",
+    "dateString": "October 19-23, 2020",
+    "startDate": "2020-10-19T00:00:00",
+    "endDate": "2020-10-23T00:00:00"
   },
   {
     "title": "CIKM",
