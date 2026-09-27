@@ -4,7 +4,7 @@
     "sub": "SC",
     "ccfRank": "B",
     "year": 2021,
-    "link": "https://www.acsac.org/",
+    "link": "https://www.acsac.org/2021/",
     "place": "Online",
     "dateString": "December 6-10, 2021",
     "startDate": "2021-12-06T00:00:00",
@@ -14,8 +14,19 @@
     "title": "ACSAC",
     "sub": "SC",
     "ccfRank": "B",
+    "year": 2022,
+    "link": "https://www.acsac.org/2022/",
+    "place": "Austin, Texas, USA",
+    "dateString": "December 5-9, 2022",
+    "startDate": "2022-12-05T00:00:00",
+    "endDate": "2022-12-09T00:00:00"
+  },
+  {
+    "title": "ACSAC",
+    "sub": "SC",
+    "ccfRank": "B",
     "year": 2023,
-    "link": "https://www.acsac.org/",
+    "link": "https://www.acsac.org/2023/",
     "place": "Austin, Texas, USA",
     "dateString": "December 4-8, 2023",
     "startDate": "2023-12-04T00:00:00",
@@ -26,7 +37,7 @@
     "sub": "SC",
     "ccfRank": "B",
     "year": 2024,
-    "link": "https://www.acsac.org/",
+    "link": "https://www.acsac.org/2024/",
     "place": "Waikiki, Hawaii, USA",
     "dateString": "December 9-13, 2024",
     "startDate": "2024-12-09T00:00:00",
@@ -37,7 +48,7 @@
     "sub": "SC",
     "ccfRank": "B",
     "year": 2025,
-    "link": "https://www.acsac.org/",
+    "link": "https://www.acsac.org/2025/",
     "place": "Honolulu, Hawaii, USA",
     "dateString": "December 8-12, 2025",
     "startDate": "2025-12-08T00:00:00",
@@ -48,7 +59,7 @@
     "sub": "SC",
     "ccfRank": "B",
     "year": 2026,
-    "link": "https://www.acsac.org/",
+    "link": "https://www.acsac.org/2026/",
     "place": "Los Angeles, California, USA",
     "dateString": "December 7-11, 2026",
     "startDate": "2026-12-07T00:00:00",
@@ -61,9 +72,20 @@
     "year": 2021,
     "link": "https://crypto.iacr.org/2021/",
     "place": "Virtual",
-    "dateString": "August 15-19, 2021",
-    "startDate": "2021-08-15T00:00:00",
-    "endDate": "2021-08-19T00:00:00"
+    "dateString": "August 16-20, 2021",
+    "startDate": "2021-08-16T00:00:00",
+    "endDate": "2021-08-20T00:00:00"
+  },
+  {
+    "title": "CRYPTO",
+    "sub": "SC",
+    "ccfRank": "A",
+    "year": 2022,
+    "link": "https://crypto.iacr.org/2022/",
+    "place": "Santa Barbara, USA",
+    "dateString": "August 13-18, 2022",
+    "startDate": "2022-08-13T00:00:00",
+    "endDate": "2022-08-18T00:00:00"
   },
   {
     "title": "CRYPTO",
@@ -534,9 +556,9 @@
     "year": 2025,
     "link": "https://inscrypt2025.xidian.edu.cn/",
     "place": "Xi'an, China",
-    "dateString": "October 19-21, 2025",
+    "dateString": "October 19-22, 2025",
     "startDate": "2025-10-19T00:00:00",
-    "endDate": "2025-10-21T00:00:00"
+    "endDate": "2025-10-22T00:00:00"
   },
   {
     "title": "INSCRYPT",
@@ -884,11 +906,22 @@
     "sub": "SC",
     "ccfRank": "B",
     "year": 2021,
-    "link": "https://srds-conference.org/",
+    "link": "https://srds21.cse.msu.edu/",
     "place": "Virtual",
     "dateString": "September 20-23, 2021",
     "startDate": "2021-09-20T00:00:00",
     "endDate": "2021-09-23T00:00:00"
+  },
+  {
+    "title": "SRDS",
+    "sub": "SC",
+    "ccfRank": "B",
+    "year": 2022,
+    "link": "https://www.dedisys.org/srds22/",
+    "place": "Vienna, Austria",
+    "dateString": "September 19-22, 2022",
+    "startDate": "2022-09-19T00:00:00",
+    "endDate": "2022-09-22T00:00:00"
   },
   {
     "title": "SRDS",
@@ -906,18 +939,18 @@
     "sub": "SC",
     "ccfRank": "B",
     "year": 2024,
-    "link": "https://srds-conference.org/",
+    "link": "https://srds-conference.org/2024/",
     "place": "Charlotte, USA",
-    "dateString": "September 30-October 4, 2024",
+    "dateString": "September 30-October 3, 2024",
     "startDate": "2024-09-30T00:00:00",
-    "endDate": "2024-10-04T00:00:00"
+    "endDate": "2024-10-03T00:00:00"
   },
   {
     "title": "SRDS",
     "sub": "SC",
     "ccfRank": "B",
     "year": 2025,
-    "link": "https://srds-conference.org/",
+    "link": "https://srds-conference.org/2025/index.html",
     "place": "Porto, Portugal",
     "dateString": "September 29-October 2, 2025",
     "startDate": "2025-09-29T00:00:00",
@@ -930,9 +963,9 @@
     "year": 2026,
     "link": "https://srds-conference.org/",
     "place": "Rome, Italy",
-    "dateString": "September 21-25, 2026",
-    "startDate": "2026-09-21T00:00:00",
-    "endDate": "2026-09-25T00:00:00"
+    "dateString": "September 22-24, 2026",
+    "startDate": "2026-09-22T00:00:00",
+    "endDate": "2026-09-24T00:00:00"
   },
   {
     "title": "FSE",
@@ -1920,9 +1953,31 @@
     "year": 2021,
     "link": "https://www.nspw.org/2021",
     "place": "Virtual",
-    "dateString": "October 25-28, 2021",
-    "startDate": "2021-10-25T00:00:00",
+    "dateString": "October 26-28, 2021",
+    "startDate": "2021-10-26T00:00:00",
     "endDate": "2021-10-28T00:00:00"
+  },
+  {
+    "title": "NSPW",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2022,
+    "link": "https://www.nspw.org/2022",
+    "place": "North Conway, New Hampshire, USA",
+    "dateString": "October 24-27, 2022",
+    "startDate": "2022-10-24T00:00:00",
+    "endDate": "2022-10-27T00:00:00"
+  },
+  {
+    "title": "NSPW",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2023,
+    "link": "https://www.nspw.org/2023/cfp",
+    "place": "Parador de Segovia, Segovia, Spain",
+    "dateString": "September 18-21, 2023",
+    "startDate": "2023-09-18T00:00:00",
+    "endDate": "2023-09-21T00:00:00"
   },
   {
     "title": "NSPW",
@@ -1931,9 +1986,9 @@
     "year": 2024,
     "link": "https://www.nspw.org/2024/cfp",
     "place": "Bedford, PA USA",
-    "dateString": "September 16-18, 2024",
+    "dateString": "September 16-19, 2024",
     "startDate": "2024-09-16T00:00:00",
-    "endDate": "2024-09-18T00:00:00"
+    "endDate": "2024-09-19T00:00:00"
   },
   {
     "title": "NSPW",
@@ -1952,7 +2007,7 @@
     "ccfRank": "C",
     "year": 2026,
     "link": "https://www.nspw.org/2026",
-    "place": "Victoria, BC, Canada",
+    "place": "Sooke, BC, Canada",
     "dateString": "September 27-30, 2026",
     "startDate": "2026-09-27T00:00:00",
     "endDate": "2026-09-30T00:00:00"
@@ -2998,9 +3053,9 @@
     "year": 2025,
     "link": "https://mlsys.org/",
     "place": "Santa Clara, USA",
-    "dateString": "May 13-16, 2025",
-    "startDate": "2025-05-13T00:00:00",
-    "endDate": "2025-05-16T00:00:00"
+    "dateString": "May 12-15, 2025",
+    "startDate": "2025-05-12T00:00:00",
+    "endDate": "2025-05-15T00:00:00"
   },
   {
     "title": "MLSys",
@@ -4857,9 +4912,9 @@
     "year": 2021,
     "link": "https://sosp2021.mpi-sws.org/",
     "place": "Virtual",
-    "dateString": "October 25-28, 2021",
-    "startDate": "2021-10-25T00:00:00",
-    "endDate": "2021-10-28T00:00:00"
+    "dateString": "October 26-29, 2021",
+    "startDate": "2021-10-26T00:00:00",
+    "endDate": "2021-10-29T00:00:00"
   },
   {
     "title": "SOSP",
@@ -6870,9 +6925,9 @@
     "year": 2026,
     "link": "https://acm-stoc.org/stoc2026/",
     "place": "Salt Lake City, Utah, USA",
-    "dateString": "June 22-26, 2026",
+    "dateString": "June 22-27, 2026",
     "startDate": "2026-06-22T00:00:00",
-    "endDate": "2026-06-26T00:00:00"
+    "endDate": "2026-06-27T00:00:00"
   },
   {
     "title": "STOC",
@@ -7112,8 +7167,8 @@
     "year": 2026,
     "link": "https://2026.asap-conf.org/",
     "place": "London, UK",
-    "dateString": "September 3-4, 2026",
-    "startDate": "2026-09-03T00:00:00",
+    "dateString": "September 2-4, 2026",
+    "startDate": "2026-09-02T00:00:00",
     "endDate": "2026-09-04T00:00:00"
   },
   {
@@ -7507,7 +7562,7 @@
     "ccfRank": "C",
     "year": 2022,
     "link": "https://ica3pp2022.compute.dtu.dk/",
-    "place": "Copenhagen, Denmark",
+    "place": "Copenhagen, Denmark (Online)",
     "dateString": "October 10-12, 2022",
     "startDate": "2022-10-10T00:00:00",
     "endDate": "2022-10-12T00:00:00"
@@ -7607,8 +7662,8 @@
     "year": 2025,
     "link": "https://hpcrl.github.io/ICS2025-webpage/",
     "place": "Salt Lake City, U.S.A.",
-    "dateString": "June 9-11, 2025",
-    "startDate": "2025-06-09T00:00:00",
+    "dateString": "June 8-11, 2025",
+    "startDate": "2025-06-08T00:00:00",
     "endDate": "2025-06-11T00:00:00"
   },
   {
@@ -7728,9 +7783,9 @@
     "year": 2027,
     "link": "https://conf.researchr.org/home/hpca-2027",
     "place": "Salt Lake City, Utah",
-    "dateString": "Jan 30-Feb 3, 2027",
-    "startDate": "2027-01-30T00:00:00",
-    "endDate": "2027-02-03T00:00:00"
+    "dateString": "March 20-24, 2027",
+    "startDate": "2027-03-20T00:00:00",
+    "endDate": "2027-03-24T00:00:00"
   },
   {
     "title": "PACT",
@@ -7947,10 +8002,10 @@
     "ccfRank": "C",
     "year": 2024,
     "link": "https://www.systor.org/2024/",
-    "place": "Tel Aviv, Israel",
-    "dateString": "June 17-19, 2024",
-    "startDate": "2024-06-17T00:00:00",
-    "endDate": "2024-06-19T00:00:00"
+    "place": "Virtual",
+    "dateString": "September 23-24, 2024",
+    "startDate": "2024-09-23T00:00:00",
+    "endDate": "2024-09-24T00:00:00"
   },
   {
     "title": "SYSTOR",
@@ -7958,7 +8013,7 @@
     "ccfRank": "C",
     "year": 2025,
     "link": "https://www.systor.org/2025/",
-    "place": "IBM Haifa, Israel",
+    "place": "Virtual",
     "dateString": "September 8-9, 2025",
     "startDate": "2025-09-08T00:00:00",
     "endDate": "2025-09-09T00:00:00"
@@ -8035,7 +8090,7 @@
     "ccfRank": "C",
     "year": 2026,
     "link": "https://www.glsvlsi.org/",
-    "place": "Finger Lakes, NY, USA",
+    "place": "Canandaigua, NY, USA",
     "dateString": "June 22-24, 2026",
     "startDate": "2026-06-22T00:00:00",
     "endDate": "2026-06-24T00:00:00"
@@ -8299,7 +8354,7 @@
     "ccfRank": "A",
     "year": 2021,
     "link": "https://www.usenix.org/conference/atc21/",
-    "place": "SANTA CLARA, USA",
+    "place": "Virtual",
     "dateString": "July 14-16, 2021",
     "startDate": "2021-07-14T00:00:00",
     "endDate": "2021-07-16T00:00:00"
@@ -8948,7 +9003,7 @@
     "ccfRank": "C",
     "year": 2026,
     "link": "https://www.ats2026.tw/",
-    "place": "Taiwan",
+    "place": "Kaohsiung, Taiwan",
     "dateString": "December 1-3, 2026",
     "startDate": "2026-12-01T00:00:00",
     "endDate": "2026-12-03T00:00:00"
@@ -8996,6 +9051,17 @@
     "dateString": "March 25-March 29, 2023",
     "startDate": "2023-03-25T00:00:00",
     "endDate": "2023-03-29T00:00:00"
+  },
+  {
+    "title": "ASPLOS",
+    "sub": "DS",
+    "ccfRank": "A",
+    "year": 2025,
+    "link": "https://www.asplos-conference.org/asplos2025/cfp/",
+    "place": "Rotterdam, The Netherlands",
+    "dateString": "March 30 - April 3, 2025",
+    "startDate": "2025-03-30T00:00:00",
+    "endDate": "2025-04-03T00:00:00"
   },
   {
     "title": "ASPLOS",
@@ -9114,9 +9180,9 @@
     "year": 2022,
     "link": "https://coling2022.org/",
     "place": "Gyeongju, Republic of Korea",
-    "dateString": "June 12-17, 2022",
-    "startDate": "2022-06-12T00:00:00",
-    "endDate": "2022-06-17T00:00:00"
+    "dateString": "October 12-17, 2022",
+    "startDate": "2022-10-12T00:00:00",
+    "endDate": "2022-10-17T00:00:00"
   },
   {
     "title": "COLING",
@@ -9150,6 +9216,17 @@
     "dateString": "May 9-14, 2027",
     "startDate": "2027-05-09T00:00:00",
     "endDate": "2027-05-14T00:00:00"
+  },
+  {
+    "title": "IROS",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2022,
+    "link": "https://iros2022.org/",
+    "place": "Kyoto, Japan (Hybrid)",
+    "dateString": "October 23-27, 2022",
+    "startDate": "2022-10-23T00:00:00",
+    "endDate": "2022-10-27T00:00:00"
   },
   {
     "title": "IROS",
@@ -9210,11 +9287,22 @@
     "title": "ICDAR",
     "sub": "AI",
     "ccfRank": "C",
+    "year": 2021,
+    "link": "https://iapr.org/archives/icdar2021/index.html",
+    "place": "Lausanne, Switzerland and Online",
+    "dateString": "September 5-10, 2021",
+    "startDate": "2021-09-05T00:00:00",
+    "endDate": "2021-09-10T00:00:00"
+  },
+  {
+    "title": "ICDAR",
+    "sub": "AI",
+    "ccfRank": "C",
     "year": 2025,
-    "link": "https://www.icdar2025.com/home",
+    "link": "https://www.icdar2025.com/",
     "place": "Wuhan, China",
-    "dateString": "September 17-21, 2025",
-    "startDate": "2025-09-17T00:00:00",
+    "dateString": "September 16-21, 2025",
+    "startDate": "2025-09-16T00:00:00",
     "endDate": "2025-09-21T00:00:00"
   },
   {
@@ -9249,6 +9337,39 @@
     "dateString": "September 28 - October 1, 2026",
     "startDate": "2026-09-28T00:00:00",
     "endDate": "2026-10-01T00:00:00"
+  },
+  {
+    "title": "ALT",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2021,
+    "link": "https://algorithmiclearningtheory.org/alt2021/",
+    "place": "Virtual",
+    "dateString": "March 16-19, 2021",
+    "startDate": "2021-03-16T00:00:00",
+    "endDate": "2021-03-19T00:00:00"
+  },
+  {
+    "title": "ALT",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2022,
+    "link": "https://algorithmiclearningtheory.org/alt2022/",
+    "place": "Paris, France (Hybrid)",
+    "dateString": "March 29 - April 1, 2022",
+    "startDate": "2022-03-29T00:00:00",
+    "endDate": "2022-04-01T00:00:00"
+  },
+  {
+    "title": "ALT",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2023,
+    "link": "https://algorithmiclearningtheory.org/alt2023/",
+    "place": "Singapore",
+    "dateString": "February 20-23, 2023",
+    "startDate": "2023-02-20T00:00:00",
+    "endDate": "2023-02-23T00:00:00"
   },
   {
     "title": "ALT",
@@ -9298,6 +9419,50 @@
     "title": "DAI",
     "sub": "AI",
     "ccfRank": "C",
+    "year": 2021,
+    "link": "https://adai.ai/dai/2021/index.html",
+    "place": "Shanghai, China (Hybrid)",
+    "dateString": "January 3-5, 2022",
+    "startDate": "2022-01-03T00:00:00",
+    "endDate": "2022-01-05T00:00:00"
+  },
+  {
+    "title": "DAI",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2022,
+    "link": "https://adai.ai/dai/2022/2022.html",
+    "place": "Tianjin, China (Hybrid)",
+    "dateString": "December 15-17, 2022",
+    "startDate": "2022-12-15T00:00:00",
+    "endDate": "2022-12-17T00:00:00"
+  },
+  {
+    "title": "DAI",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2023,
+    "link": "https://adai.ai/dai/2023/",
+    "place": "Singapore",
+    "dateString": "November 30-December 3, 2023",
+    "startDate": "2023-11-30T00:00:00",
+    "endDate": "2023-12-03T00:00:00"
+  },
+  {
+    "title": "DAI",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2024,
+    "link": "https://www.adai.ai/dai/2024/index.html",
+    "place": "Singapore",
+    "dateString": "December 18-22, 2024",
+    "startDate": "2024-12-18T00:00:00",
+    "endDate": "2024-12-22T00:00:00"
+  },
+  {
+    "title": "DAI",
+    "sub": "AI",
+    "ccfRank": "C",
     "year": 2025,
     "link": "https://www.adai.ai/dai/2025/index.html",
     "place": "London, United Kingdom",
@@ -9315,6 +9480,17 @@
     "dateString": "November 29-December 2, 2026",
     "startDate": "2026-11-29T00:00:00",
     "endDate": "2026-12-02T00:00:00"
+  },
+  {
+    "title": "KR",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2021,
+    "link": "https://kr.org/KR2021/",
+    "place": "Virtual",
+    "dateString": "November 3-12, 2021",
+    "startDate": "2021-11-03T00:00:00",
+    "endDate": "2021-11-12T00:00:00"
   },
   {
     "title": "KR",
@@ -9364,6 +9540,39 @@
     "title": "WACV",
     "sub": "AI",
     "ccfRank": "N",
+    "year": 2021,
+    "link": "https://wacv2021.thecvf.com/",
+    "place": "Virtual",
+    "dateString": "January 5-9, 2021",
+    "startDate": "2021-01-05T00:00:00",
+    "endDate": "2021-01-09T00:00:00"
+  },
+  {
+    "title": "WACV",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2023,
+    "link": "https://wacv2023.thecvf.com/",
+    "place": "Waikoloa, Hawaii, USA",
+    "dateString": "January 3-7, 2023",
+    "startDate": "2023-01-03T00:00:00",
+    "endDate": "2023-01-07T00:00:00"
+  },
+  {
+    "title": "WACV",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2024,
+    "link": "https://wacv2024.thecvf.com/",
+    "place": "Waikoloa, Hawaii, USA",
+    "dateString": "January 4-8, 2024",
+    "startDate": "2024-01-04T00:00:00",
+    "endDate": "2024-01-08T00:00:00"
+  },
+  {
+    "title": "WACV",
+    "sub": "AI",
+    "ccfRank": "N",
     "year": 2025,
     "link": "https://wacv2025.thecvf.com/",
     "place": "Tucson, Arizona, USA",
@@ -9376,7 +9585,7 @@
     "sub": "AI",
     "ccfRank": "N",
     "year": 2026,
-    "link": "https://wacv.thecvf.com/",
+    "link": "https://wacv.thecvf.com/Conferences/2026",
     "place": "Tucson, Arizona, USA",
     "dateString": "Mar 6 - 10, 2026",
     "startDate": "2026-03-06T00:00:00",
@@ -9397,8 +9606,19 @@
     "title": "ACL",
     "sub": "AI",
     "ccfRank": "A",
+    "year": 2021,
+    "link": "https://2021.aclweb.org/",
+    "place": "Virtual",
+    "dateString": "August 1-6, 2021",
+    "startDate": "2021-08-01T00:00:00",
+    "endDate": "2021-08-06T00:00:00"
+  },
+  {
+    "title": "ACL",
+    "sub": "AI",
+    "ccfRank": "A",
     "year": 2022,
-    "link": "https://www.2022.aclweb.org/",
+    "link": "https://2022.aclweb.org/",
     "place": "Dublin, Ireland",
     "dateString": "May 22-27, 2022",
     "startDate": "2022-05-22T00:00:00",
@@ -9474,8 +9694,30 @@
     "title": "RSS",
     "sub": "AI",
     "ccfRank": "N",
+    "year": 2021,
+    "link": "https://roboticsconference.org/2021/",
+    "place": "Virtual",
+    "dateString": "July 12-16, 2021",
+    "startDate": "2021-07-12T00:00:00",
+    "endDate": "2021-07-16T00:00:00"
+  },
+  {
+    "title": "RSS",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2022,
+    "link": "https://roboticsconference.org/2022/",
+    "place": "New York City, USA (Hybrid)",
+    "dateString": "June 27 - July 1, 2022",
+    "startDate": "2022-06-27T00:00:00",
+    "endDate": "2022-07-01T00:00:00"
+  },
+  {
+    "title": "RSS",
+    "sub": "AI",
+    "ccfRank": "N",
     "year": 2023,
-    "link": "https://roboticsconference.org/",
+    "link": "https://roboticsconference.org/2023/",
     "place": "Daegu, Republic of Korea",
     "dateString": "July 10-14, 2023",
     "startDate": "2023-07-10T00:00:00",
@@ -9486,7 +9728,7 @@
     "sub": "AI",
     "ccfRank": "N",
     "year": 2024,
-    "link": "https://roboticsconference.org/",
+    "link": "https://roboticsconference.org/2024/",
     "place": "Delft, Netherlands",
     "dateString": "July 15-19, 2024",
     "startDate": "2024-07-15T00:00:00",
@@ -9497,7 +9739,7 @@
     "sub": "AI",
     "ccfRank": "N",
     "year": 2025,
-    "link": "https://roboticsconference.org",
+    "link": "https://roboticsconference.org/2025/",
     "place": "Los Angeles, California, USA",
     "dateString": "June 21-25, 2025",
     "startDate": "2025-06-21T00:00:00",
@@ -9508,7 +9750,7 @@
     "sub": "AI",
     "ccfRank": "N",
     "year": 2026,
-    "link": "https://roboticsconference.org",
+    "link": "https://roboticsconference.org/2026/",
     "place": "Sydney, Australia",
     "dateString": "July 13-17, 2026",
     "startDate": "2026-07-13T00:00:00",
@@ -9540,6 +9782,39 @@
     "title": "EACL",
     "sub": "AI",
     "ccfRank": "N",
+    "year": 2021,
+    "link": "https://2021.eacl.org/",
+    "place": "Virtual",
+    "dateString": "April 19-23, 2021",
+    "startDate": "2021-04-19T00:00:00",
+    "endDate": "2021-04-23T00:00:00"
+  },
+  {
+    "title": "EACL",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2023,
+    "link": "https://2023.eacl.org/",
+    "place": "Dubrovnik, Croatia (Hybrid)",
+    "dateString": "May 2-6, 2023",
+    "startDate": "2023-05-02T00:00:00",
+    "endDate": "2023-05-06T00:00:00"
+  },
+  {
+    "title": "EACL",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2024,
+    "link": "https://2024.eacl.org/",
+    "place": "St. Julians, Malta (Hybrid)",
+    "dateString": "March 17-22, 2024",
+    "startDate": "2024-03-17T00:00:00",
+    "endDate": "2024-03-22T00:00:00"
+  },
+  {
+    "title": "EACL",
+    "sub": "AI",
+    "ccfRank": "N",
     "year": 2026,
     "link": "https://2026.eacl.org/",
     "place": "Rabat, Morocco",
@@ -9562,8 +9837,52 @@
     "title": "CoNLL",
     "sub": "AI",
     "ccfRank": "C",
+    "year": 2021,
+    "link": "https://www.conll.org/2021",
+    "place": "Punta Cana, Dominican Republic (Hybrid)",
+    "dateString": "November 10-11, 2021",
+    "startDate": "2021-11-10T00:00:00",
+    "endDate": "2021-11-11T00:00:00"
+  },
+  {
+    "title": "CoNLL",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2022,
+    "link": "https://www.conll.org/2022",
+    "place": "Abu Dhabi, United Arab Emirates (Hybrid)",
+    "dateString": "December 7-8, 2022",
+    "startDate": "2022-12-07T00:00:00",
+    "endDate": "2022-12-08T00:00:00"
+  },
+  {
+    "title": "CoNLL",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2023,
+    "link": "https://www.conll.org/2023",
+    "place": "Singapore",
+    "dateString": "December 6-7, 2023",
+    "startDate": "2023-12-06T00:00:00",
+    "endDate": "2023-12-07T00:00:00"
+  },
+  {
+    "title": "CoNLL",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2024,
+    "link": "https://www.conll.org/2024",
+    "place": "Miami, Florida, USA",
+    "dateString": "November 15-16, 2024",
+    "startDate": "2024-11-15T00:00:00",
+    "endDate": "2024-11-16T00:00:00"
+  },
+  {
+    "title": "CoNLL",
+    "sub": "AI",
+    "ccfRank": "C",
     "year": 2025,
-    "link": "https://www.conll.org/",
+    "link": "https://www.conll.org/2025",
     "place": "Vienna, Austria",
     "dateString": "July 31 - August 1, 2025",
     "startDate": "2025-07-31T00:00:00",
@@ -9585,11 +9904,11 @@
     "sub": "AI",
     "ccfRank": "B",
     "year": 2024,
-    "link": "https://www.iccbr2024.org/",
+    "link": "https://link.springer.com/book/10.1007/978-3-031-63646-2",
     "place": "Merida, Yucatan, Mexico",
-    "dateString": "June 1-4, 2024",
-    "startDate": "2024-06-01T00:00:00",
-    "endDate": "2024-06-04T00:00:00"
+    "dateString": "July 1-4, 2024",
+    "startDate": "2024-07-01T00:00:00",
+    "endDate": "2024-07-04T00:00:00"
   },
   {
     "title": "ICCBR",
@@ -9606,8 +9925,19 @@
     "title": "ICONIP",
     "sub": "AI",
     "ccfRank": "C",
+    "year": 2022,
+    "link": "https://www.apnns.org/ICONIP2022/",
+    "place": "Online",
+    "dateString": "November 22-26, 2022",
+    "startDate": "2022-11-22T00:00:00",
+    "endDate": "2022-11-26T00:00:00"
+  },
+  {
+    "title": "ICONIP",
+    "sub": "AI",
+    "ccfRank": "C",
     "year": 2023,
-    "link": "http://iconip2023.org/",
+    "link": "https://www.apnns.org/conferences/",
     "place": "Changsha, China",
     "dateString": "Nov 20-23, 2023",
     "startDate": "2023-11-20T00:00:00",
@@ -9652,7 +9982,7 @@
     "ccfRank": "C",
     "year": 2023,
     "link": "https://e-nns.org/icann2023/",
-    "place": "Crete, Greece",
+    "place": "Heraklion, Crete, Greece (Hybrid)",
     "dateString": "Sept 26-29, 2023",
     "startDate": "2023-09-26T00:00:00",
     "endDate": "2023-09-29T00:00:00"
@@ -9695,7 +10025,7 @@
     "sub": "AI",
     "ccfRank": "C",
     "year": 2024,
-    "link": "https://accv2024.org/",
+    "link": "https://minhhoai.net/accv24/index.html",
     "place": "Hanoi, Vietnam",
     "dateString": "December 8-12, 2024",
     "startDate": "2024-12-08T00:00:00",
@@ -9717,7 +10047,7 @@
     "sub": "AI",
     "ccfRank": "N",
     "year": 2024,
-    "link": "https://colmweb.org/cfp.html",
+    "link": "https://colmweb.org/2024/cfp.html",
     "place": "Philadelphia, Pennsylvania, United States",
     "dateString": "October 7-9, 2024",
     "startDate": "2024-10-07T00:00:00",
@@ -9728,18 +10058,18 @@
     "sub": "AI",
     "ccfRank": "N",
     "year": 2025,
-    "link": "https://colmweb.org/cfp.html",
+    "link": "https://colmweb.org/2025/cfp.html",
     "place": "Palais des Congrès Montreal, Canada",
-    "dateString": "October 7-9, 2025",
+    "dateString": "October 7-10, 2025",
     "startDate": "2025-10-07T00:00:00",
-    "endDate": "2025-10-09T00:00:00"
+    "endDate": "2025-10-10T00:00:00"
   },
   {
     "title": "COLM",
     "sub": "AI",
     "ccfRank": "N",
     "year": 2026,
-    "link": "https://colmweb.org",
+    "link": "https://colm.cc/Conferences/2026/CallForPapers",
     "place": "Hilton Union Square, San Francisco, USA",
     "dateString": "October 6-9, 2026",
     "startDate": "2026-10-06T00:00:00",
@@ -9751,7 +10081,7 @@
     "ccfRank": "A",
     "year": 2022,
     "link": "https://aaai.org/Conferences/AAAI-22/",
-    "place": "Vancouver, British Columbia, Canada",
+    "place": "Virtual",
     "dateString": "February 22 - March 1, 2022",
     "startDate": "2022-02-22T00:00:00",
     "endDate": "2022-03-01T00:00:00"
@@ -9772,7 +10102,7 @@
     "sub": "AI",
     "ccfRank": "A",
     "year": 2024,
-    "link": "https://www.aaai.org/aaai-conference/",
+    "link": "https://aaai.org/conference/aaai/aaai-24/",
     "place": "Vancouver, British Columbia, Canada",
     "dateString": "February 20 - February 27, 2024",
     "startDate": "2024-02-20T00:00:00",
@@ -9815,6 +10145,17 @@
     "title": "ICPR",
     "sub": "AI",
     "ccfRank": "C",
+    "year": 2022,
+    "link": "https://iapr.org/archives/icpr2022/index.html",
+    "place": "Montreal, Canada and Online",
+    "dateString": "August 21-25, 2022",
+    "startDate": "2022-08-21T00:00:00",
+    "endDate": "2022-08-25T00:00:00"
+  },
+  {
+    "title": "ICPR",
+    "sub": "AI",
+    "ccfRank": "C",
     "year": 2024,
     "link": "https://icpr2024.org/",
     "place": "Kolkata, India",
@@ -9829,9 +10170,64 @@
     "year": 2026,
     "link": "https://icpr2026.org/",
     "place": "Lyon, France",
-    "dateString": "August 17-21, 2026",
+    "dateString": "August 17-22, 2026",
     "startDate": "2026-08-17T00:00:00",
-    "endDate": "2026-08-21T00:00:00"
+    "endDate": "2026-08-22T00:00:00"
+  },
+  {
+    "title": "RuleML+RR",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2021,
+    "link": "https://declarativeai2021.net/conference/",
+    "place": "Leuven, Belgium (Online)",
+    "dateString": "September 13-15, 2021",
+    "startDate": "2021-09-13T00:00:00",
+    "endDate": "2021-09-15T00:00:00"
+  },
+  {
+    "title": "RuleML+RR",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2022,
+    "link": "https://2022.declarativeai.net/events/ruleml-rr/ruleml-rr-cfp",
+    "place": "Virtual",
+    "dateString": "September 26-28, 2022",
+    "startDate": "2022-09-26T00:00:00",
+    "endDate": "2022-09-28T00:00:00"
+  },
+  {
+    "title": "RuleML+RR",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2023,
+    "link": "https://2023.declarativeai.net/events/ruleml-rr/ruleml-rr-cfp",
+    "place": "Oslo, Norway",
+    "dateString": "September 18-20, 2023",
+    "startDate": "2023-09-18T00:00:00",
+    "endDate": "2023-09-20T00:00:00"
+  },
+  {
+    "title": "RuleML+RR",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2024,
+    "link": "https://2024.declarativeai.net/events/ruleml-rr/cfp",
+    "place": "Bucharest, Romania",
+    "dateString": "September 16-18, 2024",
+    "startDate": "2024-09-16T00:00:00",
+    "endDate": "2024-09-18T00:00:00"
+  },
+  {
+    "title": "RuleML+RR",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2025,
+    "link": "https://2025.declarativeai.net/events/ruleml-rr/cfp",
+    "place": "Istanbul, Turkey",
+    "dateString": "September 22-24, 2025",
+    "startDate": "2025-09-22T00:00:00",
+    "endDate": "2025-09-24T00:00:00"
   },
   {
     "title": "RuleML+RR",
@@ -9843,6 +10239,17 @@
     "dateString": "August 24-26, 2026",
     "startDate": "2026-08-24T00:00:00",
     "endDate": "2026-08-26T00:00:00"
+  },
+  {
+    "title": "ICML",
+    "sub": "AI",
+    "ccfRank": "A",
+    "year": 2021,
+    "link": "https://icml.cc/Conferences/2021",
+    "place": "Virtual conference",
+    "dateString": "July 18-24, 2021",
+    "startDate": "2021-07-18T00:00:00",
+    "endDate": "2021-07-24T00:00:00"
   },
   {
     "title": "ICML",
@@ -9884,8 +10291,8 @@
     "year": 2025,
     "link": "https://icml.cc/Conferences/2025",
     "place": "Vancouver Convention Center, Vancouver, Canada",
-    "dateString": "July 11-19, 2025",
-    "startDate": "2025-07-11T00:00:00",
+    "dateString": "July 13-19, 2025",
+    "startDate": "2025-07-13T00:00:00",
     "endDate": "2025-07-19T00:00:00"
   },
   {
@@ -9915,11 +10322,22 @@
     "sub": "AI",
     "ccfRank": "C",
     "year": 2021,
-    "link": "https://britishmachinevisionassociation.github.io/bmvc",
+    "link": "https://bmva-archive.org.uk/bmvc/2021/",
     "place": "Virtual",
     "dateString": "November 22-25, 2021",
     "startDate": "2021-11-22T00:00:00",
     "endDate": "2021-11-25T00:00:00"
+  },
+  {
+    "title": "BMVC",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2022,
+    "link": "https://bmvc2022.org/",
+    "place": "London, UK (Hybrid)",
+    "dateString": "November 21-24, 2022",
+    "startDate": "2022-11-21T00:00:00",
+    "endDate": "2022-11-24T00:00:00"
   },
   {
     "title": "BMVC",
@@ -9970,7 +10388,7 @@
     "sub": "AI",
     "ccfRank": "B",
     "year": 2022,
-    "link": "https://www.icra2022.org/",
+    "link": "https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2022/icra2022.org/",
     "place": "Philadelphia (PA), USA",
     "dateString": "May 23-27, 2022",
     "startDate": "2022-05-23T00:00:00",
@@ -9981,7 +10399,7 @@
     "sub": "AI",
     "ccfRank": "B",
     "year": 2023,
-    "link": "https://www.icra2023.org/",
+    "link": "https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/ICRA%202023/www.icra2023.org/",
     "place": "ExCeL London, UK",
     "dateString": "May 29- June 2, 2023",
     "startDate": "2023-06-02T00:00:00",
@@ -10035,6 +10453,17 @@
     "title": "CoRL",
     "sub": "AI",
     "ccfRank": "N",
+    "year": 2021,
+    "link": "https://2021.corl.org/",
+    "place": "London, UK (Hybrid)",
+    "dateString": "November 8-11, 2021",
+    "startDate": "2021-11-08T00:00:00",
+    "endDate": "2021-11-11T00:00:00"
+  },
+  {
+    "title": "CoRL",
+    "sub": "AI",
+    "ccfRank": "N",
     "year": 2024,
     "link": "https://2024.corl.org/",
     "place": "Munich, Germany",
@@ -10047,7 +10476,7 @@
     "sub": "AI",
     "ccfRank": "N",
     "year": 2025,
-    "link": "https://www.corl.org/",
+    "link": "https://2025.corl.org/",
     "place": "Seoul, Korea",
     "dateString": "September 27-30, 2025",
     "startDate": "2025-09-27T00:00:00",
@@ -10060,9 +10489,75 @@
     "year": 2026,
     "link": "https://www.corl.org/",
     "place": "Austin, Texas, USA",
-    "dateString": "November 10-12, 2026",
-    "startDate": "2026-11-10T00:00:00",
+    "dateString": "November 9-12, 2026",
+    "startDate": "2026-11-09T00:00:00",
     "endDate": "2026-11-12T00:00:00"
+  },
+  {
+    "title": "EuroGP",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2021,
+    "link": "https://www.evostar.org/2021/eurogp/",
+    "place": "Online",
+    "dateString": "April 7-9, 2021",
+    "startDate": "2021-04-07T00:00:00",
+    "endDate": "2021-04-09T00:00:00"
+  },
+  {
+    "title": "EuroGP",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2022,
+    "link": "https://www.evostar.org/2022/eurogp/",
+    "place": "Madrid, Spain",
+    "dateString": "April 20-22, 2022",
+    "startDate": "2022-04-20T00:00:00",
+    "endDate": "2022-04-22T00:00:00"
+  },
+  {
+    "title": "EuroGP",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2023,
+    "link": "https://www.evostar.org/2023/eurogp/",
+    "place": "Brno, Czech Republic (Hybrid)",
+    "dateString": "April 12-14, 2023",
+    "startDate": "2023-04-12T00:00:00",
+    "endDate": "2023-04-14T00:00:00"
+  },
+  {
+    "title": "EuroGP",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2024,
+    "link": "https://www.evostar.org/2024/wp-content/uploads/2023/10/evo2024-conf-flyers-extended-deadline-eurogp-261023.pdf",
+    "place": "Aberystwyth, Wales, UK",
+    "dateString": "April 3-5, 2024",
+    "startDate": "2024-04-03T00:00:00",
+    "endDate": "2024-04-05T00:00:00"
+  },
+  {
+    "title": "EuroGP",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2025,
+    "link": "https://www.evostar.org/2025/eurogp/",
+    "place": "Trieste, Italy (Hybrid)",
+    "dateString": "April 23-25, 2025",
+    "startDate": "2025-04-23T00:00:00",
+    "endDate": "2025-04-25T00:00:00"
+  },
+  {
+    "title": "EuroGP",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2026,
+    "link": "https://www.evostar.org/2026/eurogp/",
+    "place": "Toulouse, France (Hybrid)",
+    "dateString": "April 8-10, 2026",
+    "startDate": "2026-04-08T00:00:00",
+    "endDate": "2026-04-10T00:00:00"
   },
   {
     "title": "EuroGP",
@@ -10074,6 +10569,17 @@
     "dateString": "March 31-April 2, 2027",
     "startDate": "2027-03-31T00:00:00",
     "endDate": "2027-04-02T00:00:00"
+  },
+  {
+    "title": "ICLR",
+    "sub": "AI",
+    "ccfRank": "A",
+    "year": 2021,
+    "link": "https://iclr.cc/Conferences/2021",
+    "place": "Virtual conference",
+    "dateString": "May 3-7, 2021",
+    "startDate": "2021-05-03T00:00:00",
+    "endDate": "2021-05-07T00:00:00"
   },
   {
     "title": "ICLR",
@@ -10145,6 +10651,17 @@
     "title": "PRICAI",
     "sub": "AI",
     "ccfRank": "C",
+    "year": 2023,
+    "link": "https://www.pricai.org/2023/",
+    "place": "Jakarta, Indonesia (Hybrid)",
+    "dateString": "Nov 15-19, 2023",
+    "startDate": "2023-11-15T00:00:00",
+    "endDate": "2023-11-19T00:00:00"
+  },
+  {
+    "title": "PRICAI",
+    "sub": "AI",
+    "ccfRank": "C",
     "year": 2024,
     "link": "https://www.pricai.org/2024/",
     "place": "Kyoto, Japan",
@@ -10170,8 +10687,8 @@
     "year": 2026,
     "link": "https://2026.pricai.org/",
     "place": "Guangzhou, China",
-    "dateString": "Nov 17-20, 2026",
-    "startDate": "2026-11-17T00:00:00",
+    "dateString": "Nov 16-20, 2026",
+    "startDate": "2026-11-16T00:00:00",
     "endDate": "2026-11-20T00:00:00"
   },
   {
@@ -10184,6 +10701,17 @@
     "dateString": "March 31-April 2, 2027",
     "startDate": "2027-03-31T00:00:00",
     "endDate": "2027-04-02T00:00:00"
+  },
+  {
+    "title": "EMNLP",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2021,
+    "link": "https://2021.emnlp.org/",
+    "place": "Punta Cana, Dominican Republic (Hybrid)",
+    "dateString": "November 7 - 11, 2021",
+    "startDate": "2021-11-07T00:00:00",
+    "endDate": "2021-11-11T00:00:00"
   },
   {
     "title": "EMNLP",
@@ -10269,9 +10797,9 @@
     "year": 2025,
     "link": "https://ksem2025.scimeeting.cn/",
     "place": "Macao SAR, China",
-    "dateString": "August 4-6, 2025",
+    "dateString": "August 4-7, 2025",
     "startDate": "2025-08-04T00:00:00",
-    "endDate": "2025-08-06T00:00:00"
+    "endDate": "2025-08-07T00:00:00"
   },
   {
     "title": "KSEM",
@@ -10283,6 +10811,50 @@
     "dateString": "July 17-19, 2026",
     "startDate": "2026-07-17T00:00:00",
     "endDate": "2026-07-19T00:00:00"
+  },
+  {
+    "title": "ICAPS",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2021,
+    "link": "https://icaps21.icaps-conference.org/Calls/main-track.html",
+    "place": "Virtual",
+    "dateString": "August 2-13, 2021",
+    "startDate": "2021-08-02T00:00:00",
+    "endDate": "2021-08-13T00:00:00"
+  },
+  {
+    "title": "ICAPS",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2022,
+    "link": "https://icaps22.icaps-conference.org/",
+    "place": "Virtual",
+    "dateString": "June 13-24, 2022",
+    "startDate": "2022-06-13T00:00:00",
+    "endDate": "2022-06-24T00:00:00"
+  },
+  {
+    "title": "ICAPS",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2023,
+    "link": "https://icaps23.icaps-conference.org/",
+    "place": "Prague, Czech Republic",
+    "dateString": "July 8-13, 2023",
+    "startDate": "2023-07-08T00:00:00",
+    "endDate": "2023-07-13T00:00:00"
+  },
+  {
+    "title": "ICAPS",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2024,
+    "link": "https://icaps24.icaps-conference.org/",
+    "place": "Banff, Alberta, Canada",
+    "dateString": "June 1-6, 2024",
+    "startDate": "2024-06-01T00:00:00",
+    "endDate": "2024-06-06T00:00:00"
   },
   {
     "title": "ICAPS",
@@ -10321,9 +10893,20 @@
     "title": "CPAL",
     "sub": "AI",
     "ccfRank": "N",
+    "year": 2024,
+    "link": "https://2024.cpal.cc/",
+    "place": "Hong Kong, China",
+    "dateString": "January 3-6, 2024",
+    "startDate": "2024-01-03T00:00:00",
+    "endDate": "2024-01-06T00:00:00"
+  },
+  {
+    "title": "CPAL",
+    "sub": "AI",
+    "ccfRank": "N",
     "year": 2025,
-    "link": "https://cpal.cc/",
-    "place": "California, USA",
+    "link": "https://2025.cpal.cc/",
+    "place": "Stanford, California, USA",
     "dateString": "March 24-27, 2025",
     "startDate": "2025-03-24T00:00:00",
     "endDate": "2025-03-27T00:00:00"
@@ -10333,11 +10916,11 @@
     "sub": "AI",
     "ccfRank": "N",
     "year": 2026,
-    "link": "https://cpal.cc/",
+    "link": "https://cpal.cc/2026/",
     "place": "Tübingen, Germany",
-    "dateString": "March 23-27, 2026",
+    "dateString": "March 23-26, 2026",
     "startDate": "2026-03-23T00:00:00",
-    "endDate": "2026-03-27T00:00:00"
+    "endDate": "2026-03-26T00:00:00"
   },
   {
     "title": "CPAL",
@@ -10356,7 +10939,7 @@
     "ccfRank": "C",
     "year": 2024,
     "link": "https://2024.ieeewcci.org/",
-    "place": "Yokohama, Japan",
+    "place": "Yokohama, Japan and Online",
     "dateString": "June 30 - July 5, 2024",
     "startDate": "2024-06-30T00:00:00",
     "endDate": "2024-07-05T00:00:00"
@@ -10399,10 +10982,10 @@
     "sub": "AI",
     "ccfRank": "A",
     "year": 2021,
-    "link": "http://iccv2021.thecvf.com/home/",
-    "place": "Montreal",
-    "dateString": "October 10-17, 2021",
-    "startDate": "2021-10-10T00:00:00",
+    "link": "https://iccv2021.thecvf.com/",
+    "place": "Virtual",
+    "dateString": "October 11-17, 2021",
+    "startDate": "2021-10-11T00:00:00",
     "endDate": "2021-10-17T00:00:00"
   },
   {
@@ -10410,7 +10993,7 @@
     "sub": "AI",
     "ccfRank": "A",
     "year": 2023,
-    "link": "http://iccv2023.thecvf.com/home/",
+    "link": "https://iccv2023.thecvf.com/",
     "place": "Paris",
     "dateString": "October 2-6, 2023",
     "startDate": "2023-10-02T00:00:00",
@@ -10423,9 +11006,9 @@
     "year": 2025,
     "link": "https://iccv.thecvf.com/Conferences/2025",
     "place": "Honolulu, Hawaii",
-    "dateString": "October 19-25, 2025",
+    "dateString": "October 19-23, 2025",
     "startDate": "2025-10-19T00:00:00",
-    "endDate": "2025-10-25T00:00:00"
+    "endDate": "2025-10-23T00:00:00"
   },
   {
     "title": "ICCV",
@@ -10475,12 +11058,23 @@
     "title": "ECAI",
     "sub": "AI",
     "ccfRank": "B",
+    "year": 2022,
+    "link": "https://ijcai-22.org/",
+    "place": "Vienna, Austria",
+    "dateString": "July 23-29, 2022",
+    "startDate": "2022-07-23T00:00:00",
+    "endDate": "2022-07-29T00:00:00"
+  },
+  {
+    "title": "ECAI",
+    "sub": "AI",
+    "ccfRank": "B",
     "year": 2023,
     "link": "https://ecai2023.eu/",
     "place": "Kraków, Poland",
-    "dateString": "October 2-5, 2023",
-    "startDate": "2023-10-02T00:00:00",
-    "endDate": "2023-10-05T00:00:00"
+    "dateString": "September 30 - October 4, 2023",
+    "startDate": "2023-09-30T00:00:00",
+    "endDate": "2023-10-04T00:00:00"
   },
   {
     "title": "ECAI",
@@ -10533,8 +11127,8 @@
     "year": 2021,
     "link": "https://neurips.cc/Conferences/2021/",
     "place": "Virtual",
-    "dateString": "December 5-14, 2021",
-    "startDate": "2021-12-05T00:00:00",
+    "dateString": "December 6-14, 2021",
+    "startDate": "2021-12-06T00:00:00",
     "endDate": "2021-12-14T00:00:00"
   },
   {
@@ -10555,9 +11149,9 @@
     "year": 2023,
     "link": "https://neurips.cc/Conferences/2023",
     "place": "New Orleans, Louisiana, USA",
-    "dateString": "November 28-December 9, 2023",
-    "startDate": "2023-11-28T00:00:00",
-    "endDate": "2023-12-09T00:00:00"
+    "dateString": "December 10-16, 2023",
+    "startDate": "2023-12-10T00:00:00",
+    "endDate": "2023-12-16T00:00:00"
   },
   {
     "title": "NeurIPS",
@@ -10566,31 +11160,9 @@
     "year": 2024,
     "link": "https://neurips.cc/Conferences/2024",
     "place": "Vancouver, Canada",
-    "dateString": "December 9-December 15, 2024",
-    "startDate": "2024-12-09T00:00:00",
+    "dateString": "December 10-15, 2024",
+    "startDate": "2024-12-10T00:00:00",
     "endDate": "2024-12-15T00:00:00"
-  },
-  {
-    "title": "NeurIPS",
-    "sub": "AI",
-    "ccfRank": "A",
-    "year": 2025,
-    "link": "https://neurips.cc/Conferences/2025",
-    "place": "San Diego Convention Center, USA",
-    "dateString": "December 2-7, 2025",
-    "startDate": "2025-12-02T00:00:00",
-    "endDate": "2025-12-07T00:00:00"
-  },
-  {
-    "title": "NeurIPS",
-    "sub": "AI",
-    "ccfRank": "A",
-    "year": 2026,
-    "link": "https://neurips.cc/Conferences/2026",
-    "place": "Sydney, Australia",
-    "dateString": "December 6-12, 2026",
-    "startDate": "2026-12-06T00:00:00",
-    "endDate": "2026-12-12T00:00:00"
   },
   {
     "title": "EvoApplications",
@@ -10607,8 +11179,41 @@
     "title": "LOG",
     "sub": "AI",
     "ccfRank": "N",
+    "year": 2022,
+    "link": "https://proceedings.mlr.press/v198/",
+    "place": "Online",
+    "dateString": "December 9-12, 2022",
+    "startDate": "2022-12-09T00:00:00",
+    "endDate": "2022-12-12T00:00:00"
+  },
+  {
+    "title": "LOG",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2023,
+    "link": "https://log2023.logconference.org/",
+    "place": "Online",
+    "dateString": "November 27-30, 2023",
+    "startDate": "2023-11-27T00:00:00",
+    "endDate": "2023-11-30T00:00:00"
+  },
+  {
+    "title": "LOG",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2024,
+    "link": "https://log2024.logconference.org/",
+    "place": "Online",
+    "dateString": "November 26-29, 2024",
+    "startDate": "2024-11-26T00:00:00",
+    "endDate": "2024-11-29T00:00:00"
+  },
+  {
+    "title": "LOG",
+    "sub": "AI",
+    "ccfRank": "N",
     "year": 2025,
-    "link": "https://logconference.org/",
+    "link": "https://log2025.logconference.org/",
     "place": "Arizona State University, Phoenix, USA",
     "dateString": "December 10-12, 2025",
     "startDate": "2025-12-10T00:00:00",
@@ -10629,6 +11234,17 @@
     "title": "CVPR",
     "sub": "AI",
     "ccfRank": "A",
+    "year": 2021,
+    "link": "https://cvpr2021.thecvf.com/",
+    "place": "Virtual",
+    "dateString": "June 19-25, 2021",
+    "startDate": "2021-06-19T00:00:00",
+    "endDate": "2021-06-25T00:00:00"
+  },
+  {
+    "title": "CVPR",
+    "sub": "AI",
+    "ccfRank": "A",
     "year": 2022,
     "link": "http://cvpr2022.thecvf.com/",
     "place": "New Orleans, Louisiana",
@@ -10641,11 +11257,11 @@
     "sub": "AI",
     "ccfRank": "A",
     "year": 2023,
-    "link": "http://cvpr2023.thecvf.com/",
+    "link": "https://cvpr.thecvf.com/Conferences/2023",
     "place": "Vancouver, Canada",
-    "dateString": "June 17-23, 2023",
-    "startDate": "2023-06-17T00:00:00",
-    "endDate": "2023-06-23T00:00:00"
+    "dateString": "June 18-22, 2023",
+    "startDate": "2023-06-18T00:00:00",
+    "endDate": "2023-06-22T00:00:00"
   },
   {
     "title": "CVPR",
@@ -10665,9 +11281,9 @@
     "year": 2025,
     "link": "https://cvpr.thecvf.com/Conferences/2025/CallForPapers",
     "place": "Nashville, Tennessee, USA",
-    "dateString": "June 10-17, 2025",
-    "startDate": "2025-06-10T00:00:00",
-    "endDate": "2025-06-17T00:00:00"
+    "dateString": "June 11-15, 2025",
+    "startDate": "2025-06-11T00:00:00",
+    "endDate": "2025-06-15T00:00:00"
   },
   {
     "title": "CVPR",
@@ -10687,9 +11303,20 @@
     "year": 2027,
     "link": "https://cvpr.thecvf.com/Conferences/2027",
     "place": "Seattle, WA, United States",
-    "dateString": "June 20-24, 2027",
+    "dateString": "June 20-25, 2027",
     "startDate": "2027-06-20T00:00:00",
-    "endDate": "2027-06-24T00:00:00"
+    "endDate": "2027-06-25T00:00:00"
+  },
+  {
+    "title": "IEEE CEC",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2021,
+    "link": "https://cec2021.mini.pw.edu.pl/en/index.html",
+    "place": "Virtual",
+    "dateString": "June 28 - July 1, 2021",
+    "startDate": "2021-06-28T00:00:00",
+    "endDate": "2021-07-01T00:00:00"
   },
   {
     "title": "IEEE CEC",
@@ -10709,8 +11336,8 @@
     "year": 2026,
     "link": "https://attend.ieee.org/wcci-2026/ieee-cec-2025/",
     "place": "Maastricht Exhibition & Congress Centre (MECC), The Netherlands",
-    "dateString": "June 22-26, 2026",
-    "startDate": "2026-06-22T00:00:00",
+    "dateString": "June 21-26, 2026",
+    "startDate": "2026-06-21T00:00:00",
     "endDate": "2026-06-26T00:00:00"
   },
   {
@@ -10723,6 +11350,39 @@
     "dateString": "July 25-28, 2027",
     "startDate": "2027-07-25T00:00:00",
     "endDate": "2027-07-28T00:00:00"
+  },
+  {
+    "title": "IJCNLP",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2021,
+    "link": "https://2021.aclweb.org/",
+    "place": "Online",
+    "dateString": "August 1-6, 2021",
+    "startDate": "2021-08-01T00:00:00",
+    "endDate": "2021-08-06T00:00:00"
+  },
+  {
+    "title": "IJCNLP",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2022,
+    "link": "https://www.aacl2022.org/",
+    "place": "Online",
+    "dateString": "November 20-23, 2022",
+    "startDate": "2022-11-20T00:00:00",
+    "endDate": "2022-11-23T00:00:00"
+  },
+  {
+    "title": "IJCNLP",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2023,
+    "link": "https://www.afnlp.org/conferences/ijcnlp2023/wp/",
+    "place": "Bali, Indonesia",
+    "dateString": "November 1-4, 2023",
+    "startDate": "2023-11-01T00:00:00",
+    "endDate": "2023-11-04T00:00:00"
   },
   {
     "title": "IJCNLP",
@@ -10753,9 +11413,20 @@
     "year": 2021,
     "link": "http://auai.org/uai2021/",
     "place": "Virtual",
-    "dateString": "July 27-29, 2021",
+    "dateString": "July 27-30, 2021",
     "startDate": "2021-07-27T00:00:00",
-    "endDate": "2021-07-29T00:00:00"
+    "endDate": "2021-07-30T00:00:00"
+  },
+  {
+    "title": "UAI",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2022,
+    "link": "https://www.auai.org/uai2022/",
+    "place": "Eindhoven, Netherlands",
+    "dateString": "August 1-5, 2022",
+    "startDate": "2022-08-01T00:00:00",
+    "endDate": "2022-08-05T00:00:00"
   },
   {
     "title": "UAI",
@@ -10764,9 +11435,9 @@
     "year": 2023,
     "link": "http://auai.org/uai2023/",
     "place": "Pittsburgh, PA, USA",
-    "dateString": "August 1-3, 2023",
-    "startDate": "2023-08-01T00:00:00",
-    "endDate": "2023-08-03T00:00:00"
+    "dateString": "July 31-August 4, 2023",
+    "startDate": "2023-07-31T00:00:00",
+    "endDate": "2023-08-04T00:00:00"
   },
   {
     "title": "UAI",
@@ -10816,8 +11487,19 @@
     "title": "COLT",
     "sub": "AI",
     "ccfRank": "B",
+    "year": 2023,
+    "link": "https://learningtheory.org/colt2023/",
+    "place": "Bangalore, India",
+    "dateString": "July 12-15, 2023",
+    "startDate": "2023-07-12T00:00:00",
+    "endDate": "2023-07-15T00:00:00"
+  },
+  {
+    "title": "COLT",
+    "sub": "AI",
+    "ccfRank": "B",
     "year": 2024,
-    "link": "https://www.learningtheory.org/colt2024/",
+    "link": "https://learningtheory.org/colt2024/",
     "place": "Edmonton, Canada",
     "dateString": "June 30 - July 3, 2024",
     "startDate": "2024-06-30T00:00:00",
@@ -10863,16 +11545,16 @@
     "year": 2022,
     "link": "https://eccv2022.ecva.net/",
     "place": "Tel-Aviv, Israel",
-    "dateString": "October 24 - October 28, 2022",
-    "startDate": "2022-10-24T00:00:00",
-    "endDate": "2022-10-28T00:00:00"
+    "dateString": "October 23 - October 27, 2022",
+    "startDate": "2022-10-23T00:00:00",
+    "endDate": "2022-10-27T00:00:00"
   },
   {
     "title": "ECCV",
     "sub": "AI",
     "ccfRank": "B",
     "year": 2024,
-    "link": "https://eccv2024.ecva.net/",
+    "link": "https://eccv.ecva.net/Conferences/2024",
     "place": "MiCo Milano, Italy",
     "dateString": "September 29 - October 4, 2024",
     "startDate": "2024-09-29T00:00:00",
@@ -10885,9 +11567,31 @@
     "year": 2026,
     "link": "https://eccv.ecva.net/",
     "place": "Malmö, Sweden",
-    "dateString": "September 8 - 13, 2026",
+    "dateString": "September 8 - 12, 2026",
     "startDate": "2026-09-08T00:00:00",
-    "endDate": "2026-09-13T00:00:00"
+    "endDate": "2026-09-12T00:00:00"
+  },
+  {
+    "title": "AAMAS",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2021,
+    "link": "https://www.ifaamas.org/AAMAS/aamas2021/",
+    "place": "Virtual",
+    "dateString": "May 3-7, 2021",
+    "startDate": "2021-05-03T00:00:00",
+    "endDate": "2021-05-07T00:00:00"
+  },
+  {
+    "title": "AAMAS",
+    "sub": "AI",
+    "ccfRank": "B",
+    "year": 2022,
+    "link": "https://aamas2022-conference.auckland.ac.nz/",
+    "place": "Virtual",
+    "dateString": "May 9-13, 2022",
+    "startDate": "2022-05-09T00:00:00",
+    "endDate": "2022-05-13T00:00:00"
   },
   {
     "title": "AAMAS",
@@ -10929,8 +11633,8 @@
     "year": 2026,
     "link": "https://cyprusconferences.org/aamas2026",
     "place": "Paphos, Cyprus",
-    "dateString": "May 27-29, 2026",
-    "startDate": "2026-05-27T00:00:00",
+    "dateString": "May 25-29, 2026",
+    "startDate": "2026-05-25T00:00:00",
     "endDate": "2026-05-29T00:00:00"
   },
   {
@@ -10948,12 +11652,45 @@
     "title": "NLPCC",
     "sub": "AI",
     "ccfRank": "C",
+    "year": 2022,
+    "link": "http://tcci.ccf.org.cn/conference/2022/",
+    "place": "Guilin, China",
+    "dateString": "September 22-25, 2022",
+    "startDate": "2022-09-22T00:00:00",
+    "endDate": "2022-09-25T00:00:00"
+  },
+  {
+    "title": "NLPCC",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2023,
+    "link": "http://tcci.ccf.org.cn/conference/2023/index.php",
+    "place": "Foshan, Guangdong, China",
+    "dateString": "October 12-15, 2023",
+    "startDate": "2023-10-12T00:00:00",
+    "endDate": "2023-10-15T00:00:00"
+  },
+  {
+    "title": "NLPCC",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2024,
+    "link": "http://tcci.ccf.org.cn/conference/2024/index.php",
+    "place": "Hangzhou, China",
+    "dateString": "November 1-3, 2024",
+    "startDate": "2024-11-01T00:00:00",
+    "endDate": "2024-11-03T00:00:00"
+  },
+  {
+    "title": "NLPCC",
+    "sub": "AI",
+    "ccfRank": "C",
     "year": 2025,
     "link": "http://tcci.ccf.org.cn/conference/2025/index.php",
     "place": "Urumqi, China",
-    "dateString": "August 8-10, 2025",
-    "startDate": "2025-08-08T00:00:00",
-    "endDate": "2025-08-10T00:00:00"
+    "dateString": "August 7-9, 2025",
+    "startDate": "2025-08-07T00:00:00",
+    "endDate": "2025-08-09T00:00:00"
   },
   {
     "title": "NLPCC",
@@ -10970,8 +11707,41 @@
     "title": "IJCB",
     "sub": "AI",
     "ccfRank": "C",
+    "year": 2021,
+    "link": "https://ijcb2021.iapr-tc4.org/",
+    "place": "Online",
+    "dateString": "August 4-7, 2021",
+    "startDate": "2021-08-04T00:00:00",
+    "endDate": "2021-08-07T00:00:00"
+  },
+  {
+    "title": "IJCB",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2023,
+    "link": "https://ijcb2023.ieee-biometrics.org/",
+    "place": "Ljubljana, Slovenia",
+    "dateString": "September 25-28, 2023",
+    "startDate": "2023-09-25T00:00:00",
+    "endDate": "2023-09-28T00:00:00"
+  },
+  {
+    "title": "IJCB",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2024,
+    "link": "https://iapr.org/archives/ijcb2024/index.html",
+    "place": "Buffalo, New York, USA",
+    "dateString": "September 15-18, 2024",
+    "startDate": "2024-09-15T00:00:00",
+    "endDate": "2024-09-18T00:00:00"
+  },
+  {
+    "title": "IJCB",
+    "sub": "AI",
+    "ccfRank": "C",
     "year": 2025,
-    "link": "https://ijcb2025.ieee-biometrics.org/",
+    "link": "https://iapr.org/archives/ijcb2025/index.html",
     "place": "Osaka, Japan",
     "dateString": "September 8-11, 2025",
     "startDate": "2025-09-08T00:00:00",
@@ -10987,6 +11757,28 @@
     "dateString": "September 1-4, 2026",
     "startDate": "2026-09-01T00:00:00",
     "endDate": "2026-09-04T00:00:00"
+  },
+  {
+    "title": "FG",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2021,
+    "link": "https://iab-rubric.org/fg2021/",
+    "place": "Virtual",
+    "dateString": "December 15-18, 2021",
+    "startDate": "2021-12-15T00:00:00",
+    "endDate": "2021-12-18T00:00:00"
+  },
+  {
+    "title": "FG",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2024,
+    "link": "https://fg2024.ieee-biometrics.org/",
+    "place": "Istanbul, Turkey",
+    "dateString": "May 27-31, 2024",
+    "startDate": "2024-05-27T00:00:00",
+    "endDate": "2024-05-31T00:00:00"
   },
   {
     "title": "FG",
@@ -11026,11 +11818,33 @@
     "sub": "AI",
     "ccfRank": "C",
     "year": 2021,
-    "link": "https://ictai.computer.org/",
-    "place": "Washington DC, USA",
+    "link": "https://ictai.computer.org/2021/",
+    "place": "Virtual",
     "dateString": "November 01-03, 2021",
     "startDate": "2021-11-01T00:00:00",
     "endDate": "2021-11-03T00:00:00"
+  },
+  {
+    "title": "ICTAI",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2024,
+    "link": "https://ictai.computer.org/2024/",
+    "place": "Herndon, VA, USA",
+    "dateString": "October 28-30, 2024",
+    "startDate": "2024-10-28T00:00:00",
+    "endDate": "2024-10-30T00:00:00"
+  },
+  {
+    "title": "ICTAI",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2025,
+    "link": "https://easyconferences.eu/ictai2025/",
+    "place": "Athens, Greece",
+    "dateString": "November 3-5, 2025",
+    "startDate": "2025-11-03T00:00:00",
+    "endDate": "2025-11-05T00:00:00"
   },
   {
     "title": "ICTAI",
@@ -11047,12 +11861,34 @@
     "title": "AISTATS",
     "sub": "AI",
     "ccfRank": "C",
+    "year": 2021,
+    "link": "https://aistats.org/aistats2021/",
+    "place": "Virtual",
+    "dateString": "April 13-15, 2021",
+    "startDate": "2021-04-13T00:00:00",
+    "endDate": "2021-04-15T00:00:00"
+  },
+  {
+    "title": "AISTATS",
+    "sub": "AI",
+    "ccfRank": "C",
     "year": 2022,
     "link": "https://aistats.org/aistats2022/",
+    "place": "Virtual",
+    "dateString": "March 28-30, 2022",
+    "startDate": "2022-03-28T00:00:00",
+    "endDate": "2022-03-30T00:00:00"
+  },
+  {
+    "title": "AISTATS",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2023,
+    "link": "https://aistats.org/aistats2023/",
     "place": "Valencia, Spain",
-    "dateString": "March 30 - April 1, 2022",
-    "startDate": "2022-03-30T00:00:00",
-    "endDate": "2022-04-01T00:00:00"
+    "dateString": "April 25-27, 2023",
+    "startDate": "2023-04-25T00:00:00",
+    "endDate": "2023-04-27T00:00:00"
   },
   {
     "title": "AISTATS",
@@ -11082,7 +11918,7 @@
     "ccfRank": "C",
     "year": 2026,
     "link": "https://virtual.aistats.org/Conferences/2026",
-    "place": "Morocco",
+    "place": "Tangier, Morocco",
     "dateString": "May 2-5, 2026",
     "startDate": "2026-05-02T00:00:00",
     "endDate": "2026-05-05T00:00:00"
@@ -11102,9 +11938,20 @@
     "title": "NAACL",
     "sub": "AI",
     "ccfRank": "B",
+    "year": 2021,
+    "link": "https://2021.naacl.org/",
+    "place": "Virtual",
+    "dateString": "June 6-11, 2021",
+    "startDate": "2021-06-06T00:00:00",
+    "endDate": "2021-06-11T00:00:00"
+  },
+  {
+    "title": "NAACL",
+    "sub": "AI",
+    "ccfRank": "B",
     "year": 2022,
     "link": "https://2022.naacl.org/",
-    "place": "Washington DC, USA",
+    "place": "Seattle, Washington, USA (Hybrid)",
     "dateString": "July 10-15, 2022",
     "startDate": "2022-07-10T00:00:00",
     "endDate": "2022-07-15T00:00:00"
@@ -11146,6 +11993,17 @@
     "title": "PPSN",
     "sub": "AI",
     "ccfRank": "B",
+    "year": 2022,
+    "link": "https://easychair.org/cfp/PPSN2022",
+    "place": "Dortmund, Germany",
+    "dateString": "September 10-14, 2022",
+    "startDate": "2022-09-10T00:00:00",
+    "endDate": "2022-09-14T00:00:00"
+  },
+  {
+    "title": "PPSN",
+    "sub": "AI",
+    "ccfRank": "B",
     "year": 2024,
     "link": "https://ppsn2024.fh-ooe.at/",
     "place": "University of Applied Sciences Upper Austria, Softwarepark Hagenberg, Austria",
@@ -11179,6 +12037,17 @@
     "title": "ACML",
     "sub": "AI",
     "ccfRank": "C",
+    "year": 2022,
+    "link": "https://www.acml-conf.org/2022/",
+    "place": "Hyderabad, India (Hybrid)",
+    "dateString": "December 12-14, 2022",
+    "startDate": "2022-12-12T00:00:00",
+    "endDate": "2022-12-14T00:00:00"
+  },
+  {
+    "title": "ACML",
+    "sub": "AI",
+    "ccfRank": "C",
     "year": 2023,
     "link": "https://www.acml-conf.org/2023/index.html",
     "place": "İstanbul, Turkey",
@@ -11193,9 +12062,9 @@
     "year": 2024,
     "link": "https://www.acml-conf.org/2024/index.html",
     "place": "Hanoi, Vietnam",
-    "dateString": "December 5-7, 2024",
+    "dateString": "December 5-8, 2024",
     "startDate": "2024-12-05T00:00:00",
-    "endDate": "2024-12-07T00:00:00"
+    "endDate": "2024-12-08T00:00:00"
   },
   {
     "title": "ACML",
@@ -11223,6 +12092,17 @@
     "title": "IJCAI",
     "sub": "AI",
     "ccfRank": "B",
+    "year": 2021,
+    "link": "https://ijcai-21.org/",
+    "place": "Virtual conference",
+    "dateString": "August 19-26, 2021",
+    "startDate": "2021-08-19T00:00:00",
+    "endDate": "2021-08-26T00:00:00"
+  },
+  {
+    "title": "IJCAI",
+    "sub": "AI",
+    "ccfRank": "B",
     "year": 2022,
     "link": "https://ijcai-22.org",
     "place": "Vienna, Austria.",
@@ -11236,7 +12116,7 @@
     "ccfRank": "B",
     "year": 2023,
     "link": "https://ijcai-23.org",
-    "place": "Cape Town, South Africa.",
+    "place": "Macao, China",
     "dateString": "August 19-25, 2023",
     "startDate": "2023-08-19T00:00:00",
     "endDate": "2023-08-25T00:00:00"
@@ -11291,7 +12171,7 @@
     "ccfRank": "N",
     "year": 2025,
     "link": "https://www.esann.org/",
-    "place": "Bruges, Belgium",
+    "place": "Bruges, Belgium and Online",
     "dateString": "April 23 - April 25, 2025",
     "startDate": "2025-04-23T00:00:00",
     "endDate": "2025-04-25T00:00:00"
@@ -11368,10 +12248,10 @@
     "ccfRank": "B",
     "year": 2026,
     "link": "https://iui.hosting.acm.org/2026/",
-    "place": "Paphos, Cyprus",
-    "dateString": "March 23 - 26, 2026",
-    "startDate": "2026-03-23T00:00:00",
-    "endDate": "2026-03-26T00:00:00"
+    "place": "Limassol, Cyprus",
+    "dateString": "July 13 - 16, 2026",
+    "startDate": "2026-07-13T00:00:00",
+    "endDate": "2026-07-16T00:00:00"
   },
   {
     "title": "IUI",
@@ -11775,10 +12655,10 @@
     "ccfRank": "A",
     "year": 2022,
     "link": "https://cscw.acm.org/2022/",
-    "place": "Taiwan",
-    "dateString": "January 1, 2022",
-    "startDate": "2022-01-01T00:00:00",
-    "endDate": "2022-01-01T00:00:00"
+    "place": "Virtual",
+    "dateString": "November 8-22, 2022",
+    "startDate": "2022-11-08T00:00:00",
+    "endDate": "2022-11-22T00:00:00"
   },
   {
     "title": "CSCW",
@@ -12430,6 +13310,28 @@
     "endDate": "2022-05-06T00:00:00"
   },
   {
+    "title": "IPSN",
+    "sub": "NW",
+    "ccfRank": "B",
+    "year": 2023,
+    "link": "https://ipsn.acm.org/2023/",
+    "place": "San Antonio, Texas, USA",
+    "dateString": "May 9-12, 2023",
+    "startDate": "2023-05-09T00:00:00",
+    "endDate": "2023-05-12T00:00:00"
+  },
+  {
+    "title": "IPSN",
+    "sub": "NW",
+    "ccfRank": "B",
+    "year": 2024,
+    "link": "https://ipsn.acm.org/2024/",
+    "place": "Hong Kong, China",
+    "dateString": "May 13-16, 2024",
+    "startDate": "2024-05-13T00:00:00",
+    "endDate": "2024-05-16T00:00:00"
+  },
+  {
     "title": "MSWiM",
     "sub": "NW",
     "ccfRank": "C",
@@ -12642,6 +13544,17 @@
     "title": "FORTE",
     "sub": "NW",
     "ccfRank": "C",
+    "year": 2025,
+    "link": "https://www.discotec.org/2025/forte",
+    "place": "Lille, France",
+    "dateString": "June 16-20, 2025",
+    "startDate": "2025-06-16T00:00:00",
+    "endDate": "2025-06-20T00:00:00"
+  },
+  {
+    "title": "FORTE",
+    "sub": "NW",
+    "ccfRank": "C",
     "year": 2026,
     "link": "https://www.discotec.org/2026/forte",
     "place": "Urbino, Italy",
@@ -12656,9 +13569,9 @@
     "year": 2026,
     "link": "https://secon2026.ieee-secon.org/important-dates",
     "place": "Abu Dhabi, UAE",
-    "dateString": "April 27-29, 2026",
-    "startDate": "2026-04-27T00:00:00",
-    "endDate": "2026-04-29T00:00:00"
+    "dateString": "June 3-5, 2026",
+    "startDate": "2026-06-03T00:00:00",
+    "endDate": "2026-06-05T00:00:00"
   },
   {
     "title": "SECON",
@@ -12909,8 +13822,8 @@
     "year": 2026,
     "link": "https://conferences.sigappfr.org/wise2026/",
     "place": "Venice, Italy",
-    "dateString": "November 2-5, 2026",
-    "startDate": "2026-11-02T00:00:00",
+    "dateString": "November 1-5, 2026",
+    "startDate": "2026-11-01T00:00:00",
     "endDate": "2026-11-05T00:00:00"
   },
   {
