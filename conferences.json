@@ -4070,6 +4070,39 @@
     "endDate": "2026-10-24T00:00:00"
   },
   {
+    "title": "ACM TURC",
+    "sub": "MX",
+    "ccfRank": "N",
+    "year": 2021,
+    "link": "https://www.acmturc.com/2021/en/",
+    "place": "Hefei, China",
+    "dateString": "July 30-August 1, 2021",
+    "startDate": "2021-07-30T00:00:00",
+    "endDate": "2021-08-01T00:00:00"
+  },
+  {
+    "title": "ACM TURC",
+    "sub": "MX",
+    "ccfRank": "N",
+    "year": 2024,
+    "link": "https://www.acmturc.com/2024/#/index",
+    "place": "Changsha, China",
+    "dateString": "July 5-7, 2024",
+    "startDate": "2024-07-05T00:00:00",
+    "endDate": "2024-07-07T00:00:00"
+  },
+  {
+    "title": "ACM TURC",
+    "sub": "MX",
+    "ccfRank": "N",
+    "year": 2026,
+    "link": "https://www.acmturc.com/2026/en/",
+    "place": "Hangzhou, China",
+    "dateString": "July 11-12, 2026",
+    "startDate": "2026-07-11T00:00:00",
+    "endDate": "2026-07-12T00:00:00"
+  },
+  {
     "title": "SIGCSE",
     "sub": "MX",
     "ccfRank": "N",
