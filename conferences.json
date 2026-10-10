@@ -4213,6 +4213,17 @@
     "endDate": "2026-07-26T00:00:00"
   },
   {
+    "title": "ICIC",
+    "sub": "MX",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "http://ic-icc.cn/2027/index.php",
+    "place": "Jinan, China",
+    "dateString": "July 22-26, 2027",
+    "startDate": "2027-07-22T00:00:00",
+    "endDate": "2027-07-26T00:00:00"
+  },
+  {
     "title": "Cloud",
     "sub": "MX",
     "ccfRank": "C",
@@ -19331,11 +19342,11 @@
     "sub": "AI",
     "ccfRank": "B",
     "year": 2027,
-    "link": "https://www.ijcai.org/node/8",
-    "place": "Kyoto, Japan and Hengqin, China",
-    "dateString": "August 7-13 and August 15-17, 2027",
-    "startDate": "2027-08-15T00:00:00",
-    "endDate": "2027-08-17T00:00:00"
+    "link": "https://2027.ijcai.org/",
+    "place": "Kyoto, Japan",
+    "dateString": "August 7-13, 2027",
+    "startDate": "2027-08-07T00:00:00",
+    "endDate": "2027-08-13T00:00:00"
   },
   {
     "title": "ESANN",
