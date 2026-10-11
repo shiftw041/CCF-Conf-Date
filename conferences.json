@@ -5643,6 +5643,17 @@
     "endDate": "2026-06-12T00:00:00"
   },
   {
+    "title": "EuroVis",
+    "sub": "CG",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://eurovis27.github.io/web/",
+    "place": "Stuttgart, Germany",
+    "dateString": "May 31-June 4, 2027",
+    "startDate": "2027-05-31T00:00:00",
+    "endDate": "2027-06-04T00:00:00"
+  },
+  {
     "title": "PacificVis",
     "sub": "CG",
     "ccfRank": "C",
@@ -6928,6 +6939,17 @@
     "dateString": "September 14-16, 2026",
     "startDate": "2026-09-14T00:00:00",
     "endDate": "2026-09-16T00:00:00"
+  },
+  {
+    "title": "ICIP",
+    "sub": "CG",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://2027.ieeeicip.org/",
+    "place": "Singapore",
+    "dateString": "November 29-December 3, 2027",
+    "startDate": "2027-11-29T00:00:00",
+    "endDate": "2027-12-03T00:00:00"
   },
   {
     "title": "IEEE VR",
@@ -23098,6 +23120,17 @@
     "dateString": "November 12-15, 2026",
     "startDate": "2026-11-12T00:00:00",
     "endDate": "2026-11-15T00:00:00"
+  },
+  {
+    "title": "ICDM",
+    "sub": "DB",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://icdm2027-website.onrender.com/",
+    "place": "Brisbane, Australia",
+    "dateString": "November 15-18, 2027",
+    "startDate": "2027-11-15T00:00:00",
+    "endDate": "2027-11-18T00:00:00"
   },
   {
     "title": "ADMA",
