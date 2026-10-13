@@ -22693,6 +22693,17 @@
     "endDate": "2026-12-10T00:00:00"
   },
   {
+    "title": "CoNEXT",
+    "sub": "NW",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://conferences.sigcomm.org/co-next/2027/#!/home",
+    "place": "Rio de Janeiro, Brazil",
+    "dateString": "December 6-9, 2027 (To be confirmed)",
+    "startDate": "2027-12-06T00:00:00",
+    "endDate": "2027-12-09T00:00:00"
+  },
+  {
     "title": "NOSSDAV",
     "sub": "NW",
     "ccfRank": "B",
