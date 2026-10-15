@@ -1562,6 +1562,17 @@
     "endDate": "2026-07-31T00:00:00"
   },
   {
+    "title": "BlockSys",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://blocksys.info/2027/",
+    "place": "Foshan, China",
+    "dateString": "April 9-11, 2027",
+    "startDate": "2027-04-09T00:00:00",
+    "endDate": "2027-04-11T00:00:00"
+  },
+  {
     "title": "PETS",
     "sub": "SC",
     "ccfRank": "C",
@@ -19655,6 +19666,17 @@
     "dateString": "October 11-15, 2026",
     "startDate": "2026-10-11T00:00:00",
     "endDate": "2026-10-15T00:00:00"
+  },
+  {
+    "title": "UbiComp/ISWC",
+    "sub": "HI",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://sigchi.org/events/ubicomp-2027/",
+    "place": "Seoul, Republic of Korea",
+    "dateString": "October 3-7, 2027",
+    "startDate": "2027-10-03T00:00:00",
+    "endDate": "2027-10-07T00:00:00"
   },
   {
     "title": "INTERACT",
