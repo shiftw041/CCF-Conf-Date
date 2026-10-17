@@ -22099,6 +22099,17 @@
     "endDate": "2026-07-30T00:00:00"
   },
   {
+    "title": "ICCCN",
+    "sub": "NW",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "http://www.icccn.org/ICCCN27/",
+    "place": "Rome, Italy",
+    "dateString": "July 12-15, 2027",
+    "startDate": "2027-07-12T00:00:00",
+    "endDate": "2027-07-15T00:00:00"
+  },
+  {
     "title": "HotNets",
     "sub": "NW",
     "ccfRank": "C",
