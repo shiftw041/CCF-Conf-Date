@@ -24541,6 +24541,17 @@
     "endDate": "2027-08-27T00:00:00"
   },
   {
+    "title": "MDM",
+    "sub": "DB",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://mdm-2026.github.io/index.html",
+    "place": "Athens, Greece",
+    "dateString": "June 30 - July 2, 2026",
+    "startDate": "2026-06-30T00:00:00",
+    "endDate": "2026-07-02T00:00:00"
+  },
+  {
     "title": "CIDR",
     "sub": "DB",
     "ccfRank": "B",
