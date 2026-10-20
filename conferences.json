@@ -21527,6 +21527,17 @@
     "endDate": "2026-10-16T00:00:00"
   },
   {
+    "title": "IMC",
+    "sub": "NW",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://conferences.sigcomm.org/imc/2027/",
+    "place": "Atlanta, GA, USA",
+    "dateString": "Oct 25-29, 2027",
+    "startDate": "2027-10-25T00:00:00",
+    "endDate": "2027-10-29T00:00:00"
+  },
+  {
     "title": "NSDI",
     "sub": "NW",
     "ccfRank": "A",
