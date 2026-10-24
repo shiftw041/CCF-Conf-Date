@@ -23716,6 +23716,94 @@
     "endDate": "2027-04-09T00:00:00"
   },
   {
+    "title": "CLEF",
+    "sub": "DB",
+    "ccfRank": "N",
+    "year": 2020,
+    "link": "http://clef2020.clef-initiative.eu/",
+    "place": "Online",
+    "dateString": "September 22-25, 2020",
+    "startDate": "2020-09-22T00:00:00",
+    "endDate": "2020-09-25T00:00:00"
+  },
+  {
+    "title": "CLEF",
+    "sub": "DB",
+    "ccfRank": "N",
+    "year": 2021,
+    "link": "http://clef2021.clef-initiative.eu/",
+    "place": "Online",
+    "dateString": "September 21-24, 2021",
+    "startDate": "2021-09-21T00:00:00",
+    "endDate": "2021-09-24T00:00:00"
+  },
+  {
+    "title": "CLEF",
+    "sub": "DB",
+    "ccfRank": "N",
+    "year": 2022,
+    "link": "http://clef2022.clef-initiative.eu/",
+    "place": "Bologna, Italy",
+    "dateString": "September 5-8, 2022",
+    "startDate": "2022-09-05T00:00:00",
+    "endDate": "2022-09-08T00:00:00"
+  },
+  {
+    "title": "CLEF",
+    "sub": "DB",
+    "ccfRank": "N",
+    "year": 2023,
+    "link": "http://clef2023.clef-initiative.eu/",
+    "place": "Thessaloniki, Greece",
+    "dateString": "September 18-21, 2023",
+    "startDate": "2023-09-18T00:00:00",
+    "endDate": "2023-09-21T00:00:00"
+  },
+  {
+    "title": "CLEF",
+    "sub": "DB",
+    "ccfRank": "N",
+    "year": 2024,
+    "link": "https://clef2024.clef-initiative.eu/",
+    "place": "Grenoble, France",
+    "dateString": "September 9-12, 2024",
+    "startDate": "2024-09-09T00:00:00",
+    "endDate": "2024-09-12T00:00:00"
+  },
+  {
+    "title": "CLEF",
+    "sub": "DB",
+    "ccfRank": "N",
+    "year": 2025,
+    "link": "https://clef2025.clef-initiative.eu/",
+    "place": "Madrid, Spain",
+    "dateString": "September 9-12, 2025",
+    "startDate": "2025-09-09T00:00:00",
+    "endDate": "2025-09-12T00:00:00"
+  },
+  {
+    "title": "CLEF",
+    "sub": "DB",
+    "ccfRank": "N",
+    "year": 2026,
+    "link": "https://clef2026.clef-initiative.eu/",
+    "place": "Jena, Germany",
+    "dateString": "September 21-24, 2026",
+    "startDate": "2026-09-21T00:00:00",
+    "endDate": "2026-09-24T00:00:00"
+  },
+  {
+    "title": "CLEF",
+    "sub": "DB",
+    "ccfRank": "N",
+    "year": 2027,
+    "link": "https://clef2027.clef-initiative.eu/",
+    "place": "Bucharest, Romania",
+    "dateString": "September 14-17, 2027",
+    "startDate": "2027-09-14T00:00:00",
+    "endDate": "2027-09-17T00:00:00"
+  },
+  {
     "title": "ADMA",
     "sub": "DB",
     "ccfRank": "C",
