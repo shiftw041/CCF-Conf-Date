@@ -20867,6 +20867,17 @@
     "endDate": "2025-12-11T00:00:00"
   },
   {
+    "title": "ACML",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2026,
+    "link": "https://www.acml-conf.org/2026/",
+    "place": "Melbourne, Australia",
+    "dateString": "December 1-4, 2026",
+    "startDate": "2026-12-01T00:00:00",
+    "endDate": "2026-12-04T00:00:00"
+  },
+  {
     "title": "AISTATS",
     "sub": "AI",
     "ccfRank": "C",
