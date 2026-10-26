@@ -19921,17 +19921,6 @@
     "endDate": "2024-05-24T00:00:00"
   },
   {
-    "title": "COLING",
-    "sub": "AI",
-    "ccfRank": "B",
-    "year": 2027,
-    "link": "https://2027.coling-iccl.org/",
-    "place": "Macau SAR, China",
-    "dateString": "May 9-14, 2027",
-    "startDate": "2027-05-09T00:00:00",
-    "endDate": "2027-05-14T00:00:00"
-  },
-  {
     "title": "ACL",
     "sub": "AI",
     "ccfRank": "A",
