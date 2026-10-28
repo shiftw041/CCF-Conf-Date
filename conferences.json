@@ -3520,6 +3520,17 @@
     "endDate": "2027-05-13T00:00:00"
   },
   {
+    "title": "NSDI",
+    "sub": "NW",
+    "ccfRank": "A",
+    "year": 2028,
+    "link": "https://www.usenix.org/conferences/byname/178",
+    "place": "Santa Clara, CA, USA",
+    "dateString": "May 9-11, 2028",
+    "startDate": "2028-05-09T00:00:00",
+    "endDate": "2028-05-11T00:00:00"
+  },
+  {
     "title": "ISCC",
     "sub": "NW",
     "ccfRank": "C",
@@ -20766,6 +20777,17 @@
     "dateString": "September 1-4, 2026",
     "startDate": "2026-09-01T00:00:00",
     "endDate": "2026-09-04T00:00:00"
+  },
+  {
+    "title": "IJCB",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://ijcb2027.ieee-biometrics.org/",
+    "place": "Foz do Iguaçu, Brazil",
+    "dateString": "September 13-17, 2027",
+    "startDate": "2027-09-13T00:00:00",
+    "endDate": "2027-09-17T00:00:00"
   },
   {
     "title": "NeurIPS",
