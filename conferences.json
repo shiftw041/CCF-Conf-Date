@@ -15774,6 +15774,17 @@
     "endDate": "2026-10-14T00:00:00"
   },
   {
+    "title": "CSCW",
+    "sub": "HI",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://cscw.acm.org/2027/",
+    "place": "Philadelphia, USA",
+    "dateString": "October 16-20, 2027",
+    "startDate": "2027-10-16T00:00:00",
+    "endDate": "2027-10-20T00:00:00"
+  },
+  {
     "title": "DIS",
     "sub": "HI",
     "ccfRank": "C",
