@@ -5742,6 +5742,17 @@
     "endDate": "2026-07-11T00:00:00"
   },
   {
+    "title": "ICML",
+    "sub": "AI",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://icml.cc/Conferences/2027",
+    "place": "Riocentro, Rio de Janeiro, Brazil",
+    "dateString": "July 31 - August 6, 2027",
+    "startDate": "2027-07-31T00:00:00",
+    "endDate": "2027-08-06T00:00:00"
+  },
+  {
     "title": "IJCNN",
     "sub": "AI",
     "ccfRank": "C",
@@ -14100,6 +14111,17 @@
     "dateString": "June 09 - 11, 2026",
     "startDate": "2026-06-09T00:00:00",
     "endDate": "2026-06-11T00:00:00"
+  },
+  {
+    "title": "SEC",
+    "sub": "SC",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://ifipsec.org/",
+    "place": "Linköping University, Linköping, Sweden",
+    "dateString": "June 14-16, 2027",
+    "startDate": "2027-06-14T00:00:00",
+    "endDate": "2027-06-16T00:00:00"
   },
   {
     "title": "CRYPTO",
