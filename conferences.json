@@ -14685,6 +14685,17 @@
     "endDate": "2026-11-08T00:00:00"
   },
   {
+    "title": "IntelliSys",
+    "sub": "AI",
+    "ccfRank": "N",
+    "year": 2027,
+    "link": "https://saiconference.com/IntelliSys",
+    "place": "Amsterdam, Netherlands",
+    "dateString": "September 2-3, 2027",
+    "startDate": "2027-09-02T00:00:00",
+    "endDate": "2027-09-03T00:00:00"
+  },
+  {
     "title": "ICLR",
     "sub": "AI",
     "ccfRank": "A",
@@ -20909,6 +20920,17 @@
     "dateString": "July 7-9, 2026",
     "startDate": "2026-07-07T00:00:00",
     "endDate": "2026-07-09T00:00:00"
+  },
+  {
+    "title": "ICS",
+    "sub": "DS",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://klab-ai3.github.io/ics2027/",
+    "place": "Atlanta, Georgia, USA",
+    "dateString": "June 5-11, 2027",
+    "startDate": "2027-06-05T00:00:00",
+    "endDate": "2027-06-11T00:00:00"
   },
   {
     "title": "MSST",
