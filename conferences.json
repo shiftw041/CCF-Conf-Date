@@ -5511,6 +5511,17 @@
     "endDate": "2027-01-12T00:00:00"
   },
   {
+    "title": "CC",
+    "sub": "SE",
+    "ccfRank": "B",
+    "year": 2027,
+    "link": "https://conf.researchr.org/home/CC-2027",
+    "place": "Salt Lake City, Utah, USA",
+    "dateString": "March 20-21, 2027",
+    "startDate": "2027-03-20T00:00:00",
+    "endDate": "2027-03-21T00:00:00"
+  },
+  {
     "title": "TASE",
     "sub": "SE",
     "ccfRank": "C",
