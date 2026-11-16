@@ -13409,6 +13409,17 @@
     "endDate": "2026-09-17T00:00:00"
   },
   {
+    "title": "ICANN",
+    "sub": "AI",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://e-nns.org/icann2027/",
+    "place": "Linköping, Sweden",
+    "dateString": "August 24-27, 2027",
+    "startDate": "2027-08-24T00:00:00",
+    "endDate": "2027-08-27T00:00:00"
+  },
+  {
     "title": "IJCB",
     "sub": "AI",
     "ccfRank": "C",
