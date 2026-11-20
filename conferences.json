@@ -6017,6 +6017,17 @@
     "endDate": "2026-04-28T00:00:00"
   },
   {
+    "title": "ISPASS",
+    "sub": "SE",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://ispass.org/2027/",
+    "place": "New York City, USA",
+    "dateString": "May 9-11, 2027",
+    "startDate": "2027-05-09T00:00:00",
+    "endDate": "2027-05-11T00:00:00"
+  },
+  {
     "title": "ICFP",
     "sub": "SE",
     "ccfRank": "B",
@@ -10679,6 +10690,17 @@
     "dateString": "May 25-27, 2026",
     "startDate": "2026-05-25T00:00:00",
     "endDate": "2026-05-27T00:00:00"
+  },
+  {
+    "title": "Networking",
+    "sub": "NW",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://networking.ifip.org/2027/",
+    "place": "Dublin, Ireland",
+    "dateString": "June 13-16, 2027",
+    "startDate": "2027-06-13T00:00:00",
+    "endDate": "2027-06-16T00:00:00"
   },
   {
     "title": "HotNets",
@@ -16000,9 +16022,9 @@
     "year": 2027,
     "link": "https://sigir2027.org/",
     "place": "San Jose, California, USA",
-    "dateString": "July 18-24, 2027",
-    "startDate": "2027-07-18T00:00:00",
-    "endDate": "2027-07-24T00:00:00"
+    "dateString": "July 20-22, 2027",
+    "startDate": "2027-07-20T00:00:00",
+    "endDate": "2027-07-22T00:00:00"
   },
   {
     "title": "APWeb-WAIM",
@@ -17642,6 +17664,17 @@
     "dateString": "May 19-21, 2026",
     "startDate": "2026-05-19T00:00:00",
     "endDate": "2026-05-21T00:00:00"
+  },
+  {
+    "title": "CF",
+    "sub": "DS",
+    "ccfRank": "C",
+    "year": 2027,
+    "link": "https://www.computingfrontiers.org/2027/",
+    "place": "Trento, Italy",
+    "dateString": "May 25-27, 2027",
+    "startDate": "2027-05-25T00:00:00",
+    "endDate": "2027-05-27T00:00:00"
   },
   {
     "title": "Euro-Par",
@@ -20535,6 +20568,17 @@
     "dateString": "July 14-16, 2026",
     "startDate": "2026-07-14T00:00:00",
     "endDate": "2026-07-16T00:00:00"
+  },
+  {
+    "title": "HPDC",
+    "sub": "DS",
+    "ccfRank": "A",
+    "year": 2027,
+    "link": "https://hpdc.sci.utah.edu/2027/",
+    "place": "Atlanta, GA, USA",
+    "dateString": "June 7-9, 2027",
+    "startDate": "2027-06-07T00:00:00",
+    "endDate": "2027-06-09T00:00:00"
   },
   {
     "title": "ISCAS",
